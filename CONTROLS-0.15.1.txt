@@ -1,0 +1,11 @@
+CONTROLS UPDATE 0.15.1
+
+Desktop: left-click selects; Shift+left-click adds to selection. Left-click on empty ground clears selection without issuing a move order. Right-click moves selected units, attacks a visible clicked enemy, or sets the rally point of a selected building. The explicit Attack-move action still uses a left-click destination.
+
+Touch: tap a friendly unit to select; tap the destination or enemy to issue an order. Building placement keeps its separate confirmation controls.
+
+Close the game before replacing files. This small update requires the complete 0.15 installation.
+
+WINDOWS: extract SpaceInvaders-Controls-Windows-0.15.1.zip into the folder containing SpaceInvaders.exe; replace the matching files under resources/app/web.
+GITHUB: extract SpaceInvaders-Controls-GitHub-0.15.1.zip at the root of the source repository; commit and push.
+WEB/CPANEL: extract SpaceInvaders-Controls-Web-0.15.1.zip directly into the game website directory and replace matching files.

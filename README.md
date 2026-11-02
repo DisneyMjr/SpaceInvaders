@@ -1,4 +1,4 @@
-# SpaceInvaders 0.14 — Windows e web
+# SpaceInvaders 0.15 — Windows e web
 
 ## Jogar no Windows
 
@@ -35,8 +35,17 @@ Requer Node.js 24 ou superior. Execute npm ci, depois node node_modules/electron
 
 Duas pessoas por sala. O anfitrião mantém a simulação; o servidor encaminha comandos e estados. O hóspede recebe suas unidades e os inimigos visíveis, com névoa de guerra local. Movimento, produção, construção, pesquisa, transporte e encerramento são sincronizados. Ao sair ou perder conexão, a partida encerra: não há reconexão automática, migração do anfitrião, matchmaking ou modo competitivo com proteção contra trapaças. O anfitrião é confiável nesta arquitetura; o servidor não recalcula a batalha independentemente.
 
-A validação funcional cobre duas sessões locais de navegador. O EXE foi construído com o runtime oficial, mas sua janela não foi validada neste ambiente: o Windows exige uma alteração de permissões que a revisão automática rejeitou e o usuário optou por não realizar. Não houve confirmação de conexão entre redes externas nem certificação de latência ou balanceamento.
+O núcleo de multiplayer e o runtime Windows foram validados na 0.14, incluindo uma sala entre EXE real e navegador. Nesta 0.15, as novas telas foram validadas em navegador desktop e celular emulado, com campanha offline e regressão de multiplayer entre navegadores; a janela nativa específica não foi retestada. Não há certificação de desempenho, internet externa ou celular físico.
 
 ## Recursos de terceiros
 
 Os recursos recuperados da instalação local foram incorporados com base na autorização declarada pelo solicitante. A publicação no repositório não concede licença sobre recursos de terceiros. Consulte web/ORIGEM.md e os manifestos de proveniência. As campanhas e os sistemas ainda têm os limites descritos na documentação web.
+
+
+## Interface 0.15
+
+O menu foi reconstruído com navegação superior, quatro frentes de campanha, personagens em destaque, apresentação de campanha, seletor de dificuldade e central de partidas. As três frentes agrupam 41/38/26 cenários; o arquivo de operações reúne os 105. O progresso e os salvamentos anteriores mantêm as mesmas chaves do navegador. A coleção e o botão Continuar acessam os recursos existentes. Não foram criados botões que anunciem modo cooperativo ou replays inexistentes.
+
+A arte dos comandantes e do ambiente orbital foi gerada para o projeto, inspirada na composição das referências do usuário. São imagens de menu, não novos modelos animados incorporados à batalha. O modo Brutal agora dá às tropas inimigas +25% de vida e +35% de dano fora do PvP; os outros níveis mantêm as regras anteriores. O balanceamento completo ainda não foi certificado.
+
+A interface foi conferida em navegador desktop e celular emulado, inclusive início de campanha offline. A versão Windows usa o mesmo runtime e servidor da 0.14 com os arquivos da interface atualizados; a abertura nativa específica da 0.15 não foi repetida neste pacote.

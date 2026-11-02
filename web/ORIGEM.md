@@ -61,3 +61,8 @@ Cenários: 105 pastas recuperadas localmente; 95 possuem relevo utilizável. O c
 
 
 Atualização 0.13: três novas facções originais inspiradas nos subgrupos locais, encontros aleatórios e névoa de guerra. Consulte FACCOES-E-EXPLORACAO.md para funcionamento e limites.
+
+
+## Arte de menu 0.15
+
+Comandantes e ambiente orbital criados com geração de imagens para este projeto, a partir de descrições inspiradas na composição das referências fornecidas pelo usuário. As figuras são imagens estáticas usadas nas telas de navegação; não foram extraídas das capturas nem representam portabilidade dos personagens ou menus nativos completos. Os controles, plataformas, molduras, indicadores e demais elementos de interface são implementados em HTML/CSS/JavaScript.

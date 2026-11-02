@@ -1,0 +1,3 @@
+import test from 'node:test';import assert from 'node:assert/strict';import{campaignChapters,chapterMissions,difficultyChoices}from'../menu-data.mjs';import{missions}from'../campaign.mjs';
+test('three campaign fronts partition all 105 scenarios and the archive includes every scenario',()=>{const groups=campaignChapters.slice(0,3).map(c=>chapterMissions(c,missions));assert.deepEqual(groups.map(g=>g.length),[41,38,26]);assert.equal(new Set(groups.flat().map(m=>m.id)).size,105);assert.equal(chapterMissions(campaignChapters[3],missions).length,105)});
+test('difficulty dialog exposes four distinct supported levels',()=>{assert.deepEqual(difficultyChoices.map(d=>d.id),['easy','normal','hard','brutal']);assert(difficultyChoices.every(d=>d.description.length>15))});

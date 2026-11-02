@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "actualWindowsExe": true,
+  "embeddedServer": true,
+  "exeAndBrowserSameRoom": true,
+  "guestProductionQueued": true,
+  "guestViewport": "touch-mobile",
+  "testRenderingThrottled": true,
+  "aclChanged": true,
+  "aclScope": "generated Windows application directory only; read/execute; user-approved",
+  "isolation": {
+    "node": "undefined",
+    "protocol": "http:"
+  },
+  "pageErrors": [],
+  "externalInternetTest": false,
+  "physicalMobileTest": false,
+  "notes": "Actual packaged Windows EXE and Chrome mobile/touch viewport on the same computer. Automated test uses software graphics, a test launch switch disabling the Chromium process sandbox, and throttled rendering. No performance or external-network certification."
+}
