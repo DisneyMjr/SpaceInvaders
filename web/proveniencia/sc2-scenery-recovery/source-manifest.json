@@ -1,0 +1,1882 @@
+[
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\AgriaRock\\AgriaRock_00.m3",
+    "bytes": 9312,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "43eb4ab04465ddf8b202f904d1c510ae6b27c679b8115b3f605506a6a6bb9faa",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaRock/AgriaRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\AgriaRockLarge\\AgriaRockLarge_00.m3",
+    "bytes": 9760,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "1fe3ebb9825bd19c666b89674a3332ac0f1ec2c638f2e39753c72f567232bb48",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaRockLarge/AgriaRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\AiurRock\\AiurRock_00.m3",
+    "bytes": 8976,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "dfe0591055c9650df008d463993035e0c76fca878dcba31a801e5fdd6f4dc383",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AiurRock/AiurRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\AiurRockLarge\\AiurRockLarge_00.m3",
+    "bytes": 10912,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "40dc704d4956d05baa9dd1374ecf7561586a369b562847e8c2e4f974a7430ae6",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AiurRockLarge/AiurRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BelShirCliffRocks\\BelShirCliffRocks_00.m3",
+    "bytes": 11744,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "9b3a86139d5578d6cb45c554326f79c1f6026025b12bb4cea3bea3655fc7d1cf",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirCliffRocks/BelShirCliffRocks_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BelShirRuins\\BelShirRuins_00.m3",
+    "bytes": 17440,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "81a8845267977d16bdaf6effb1b42ea39f28f3922c4b1c5956a63b25c606801b",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirRuins/BelShirRuins_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\HavenRock\\HavenRock_00.m3",
+    "bytes": 8816,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "9c32553676d43a05ab0966cde9a22a7a3b8e3a283f06fa15cc702886278ef35d",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRock/HavenRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\HavenRockLarge\\HavenRockLarge_00.m3",
+    "bytes": 10880,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "a384e41347a7e4b89a21766b3ef03d70b7f839c0bf2612ea8131d6b91392b567",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRockLarge/HavenRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\HavenRockArch\\HavenRockArch_00.m3",
+    "bytes": 35728,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "7e26393735e0c41880c7d9eeac2f1fe786544d4bf59dae4fc7548e422eb330a7",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRockArch/HavenRockArch_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\ShakurasRock\\ShakurasRock_00.m3",
+    "bytes": 9136,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "6b90df8cdeb65969f1ebce13a5d1193608ac946061b3c28c5ddbfb9356d410e5",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShakurasRock/ShakurasRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\ShakurasRockLarge\\ShakurasRockLarge_00.m3",
+    "bytes": 9504,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "21efa274b1f89b07165f9e12f8dcfd64c038818331b565a25678a37a2abe1136",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShakurasRockLarge/ShakurasRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\Shakuras_Stone_Temple_Rubble\\Shakuras_Stone_Temple_Rubble_00.m3",
+    "bytes": 42336,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "3e1fc125146a75e91ba035ce472cf6eceb15e2829582626f7c00f5dc91512a0c",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_Stone_Temple_Rubble/Shakuras_Stone_Temple_Rubble_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\MarSaraRock\\MarSaraRock_00.m3",
+    "bytes": 9888,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "8b14d9eaf65e4949cc05f98c592d47ecd08f6f650b2975ddb5c154f48e7cde9a",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraRock/MarSaraRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\MarSaraRockLarge\\MarSaraRockLarge_00.m3",
+    "bytes": 10624,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "f594dd84b1a025a013d8d0a8a9809dfcb61069fe0e66b4b5e5a2f255243ef54b",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraRockLarge/MarSaraRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\DesertRockGiant\\DesertRockGiant_00.m3",
+    "bytes": 17376,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "7db5432a31ca06b7a92749ffebd257f24a003020e6ee7ed17b4d6234209a764a",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DesertRockGiant/DesertRockGiant_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\ShearedRocksDesert\\ShearedRocksDesert_00.m3",
+    "bytes": 31328,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "2191b89c4760d9aa5f10bd1d2d08f190e694a00523745f5da47efdb53116c533",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShearedRocksDesert/ShearedRocksDesert_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\ChiseledRock\\ChiseledRock_00.m3",
+    "bytes": 14768,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "b1d0d8f2bc994595077495448437389875e4e786940932c03d03bdf48cf72dd4",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ChiseledRock/ChiseledRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\ChiseledRockLarge\\ChiseledRockLarge_00.m3",
+    "bytes": 28176,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "07b6399b3ff6835759ea151fd8871f48e65866ca304f994f1b857846bde1f710",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ChiseledRockLarge/ChiseledRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BrokenRocks\\BrokenRocks_00.m3",
+    "bytes": 60688,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "e47017afa343cbb746bf3f51b795ba5a7a74ea9d4787d499bf7367b270efbaac",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BrokenRocks/BrokenRocks_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BrokenRocksSmall\\BrokenRocksSmall_00.m3",
+    "bytes": 37776,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "de36bd180ba009d07ca801242b6ef576745e1e1fa42e37cfbd3ebcee681e9f7c",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BrokenRocksSmall/BrokenRocksSmall_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\DestructibleRock2x4\\DestructibleRock2x4_00.m3",
+    "bytes": 83520,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "661a52c3d34c0af1b199eb3398cfb2a883b4da1a1887d1a5260ef40e0e6a50e9",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRock2x4/DestructibleRock2x4_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\DestructibleRock4x4\\DestructibleRock4x4.m3",
+    "bytes": 130400,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "ac8009e9e0d2a454e497060905fb051e41a7d8818cac333868b0c46bce0a6ad0",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRock4x4/DestructibleRock4x4.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\DestructibleRockHuge\\DestructibleRockHuge.m3",
+    "bytes": 250064,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "792ca408375133cced0cbbf8a1f767dc6a262f18b4bf539c31def3f0ca089bfd",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRockHuge/DestructibleRockHuge.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CollapsibleRockTower\\CollapsibleRockTower.m3",
+    "bytes": 511920,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "952e60cf75a9ed8dba7cee64ca213d4b09937fb1da17cd7ff71fd90602c9f2bf",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CollapsibleRockTower/CollapsibleRockTower.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\IceWorldRock\\IceWorldRock_00.m3",
+    "bytes": 27920,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "d7eb67088ce1a6cda63087e2f2ed59516715abf8527ac47e1590e14f3d95d1e2",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldRock/IceWorldRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\IceWorldRockLarge\\IceWorldRockLarge_00.m3",
+    "bytes": 41056,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "37cee0119bd53779e77bb503b638c1a4c68c3137a4ed345342ce647b7afc4827",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldRockLarge/IceWorldRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\IceShearedRocks\\IceShearedRocks_00.m3",
+    "bytes": 72704,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "b54c9b12e4334c4dbb8c0de99027d89d9ee6c70c4aa97b544cefcc7474dc2878",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocks/IceShearedRocks_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\IceShearedRocksLarge\\IceShearedRocksLarge_00.m3",
+    "bytes": 145632,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "e35bdad3be620a3bf1f3950eca7984c108aa933c274020581122c517a26aace1",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocksLarge/IceShearedRocksLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\IceShearedRocksUpright\\IceShearedRocksUpright_00.m3",
+    "bytes": 69856,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "b601ae0960b50d824e391a4e05c75a1f5f6cce2cb624956cd3eb2fe7f64b1f25",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocksUpright/IceShearedRocksUpright_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\IceRockGiant\\IceRockGiant_00.m3",
+    "bytes": 47792,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "88794e6490c8374b573de27e137fdbf4b880468bdb1852c973e27570e85d6ae1",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceRockGiant/IceRockGiant_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\IceRockTower\\IceRockTower_00.m3",
+    "bytes": 145056,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "012bc3e2400b78a6105b3014b6ccca2b30bcd07e2b2f419972868150b8bcd397",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceRockTower/IceRockTower_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\SnowRefinery_Rock\\SnowRefinery_Rock_00.m3",
+    "bytes": 25328,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "3cf87d7a808cb4e06f8d07de33dc21db310589d31ede1ff617be7d94a7b78b15",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/SnowRefinery_Rock/SnowRefinery_Rock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\IceWorldAmbientCrystals\\IceWorldAmbientCrystals_00.m3",
+    "bytes": 58464,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "e0b8d4e51e73725f848a838232d323657d427b806257edeb8c1d12bca1ea2a1c",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldAmbientCrystals/IceWorldAmbientCrystals_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharRock\\CharRock_00.m3",
+    "bytes": 11776,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "3ae47bd6a4b5d492d1ee10ffba336a84bde3e1a180294f5f3cbd438d7bfe1544",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRock/CharRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharRockLarge\\CharRockLarge_00.m3",
+    "bytes": 19856,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "4a3e42e9d1816c2daf01bae6e2f1eaa91c715848071446b8279bdb148b5aa259",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockLarge/CharRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharRockHuge\\CharRockHuge_00.m3",
+    "bytes": 18704,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "7af5651e1a909e3c7dc61f47974e525070c6494414b79731ed963e45fa09607b",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockHuge/CharRockHuge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharDuneRock\\CharDuneRock_00.m3",
+    "bytes": 15424,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "2fe2231bfb30575092a2b32fedf155c61c1f5be8ed427ea593518ef9e6590115",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDuneRock/CharDuneRock_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharDuneRockLarge\\CharDuneRockLarge_00.m3",
+    "bytes": 17568,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "e7ca14902456fc0ac4a5454d1863b0b5cc4f9990cc16bd473f29261ec081b51a",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDuneRockLarge/CharDuneRockLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharRockFormation\\CharRockFormation_00.m3",
+    "bytes": 30880,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "0e26f40f48c6e1d14f29eff468cfbebd1a317f8aa8f0b3041e91eb448b8b113a",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockFormation/CharRockFormation_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharCrystal\\CharCrystal_00.m3",
+    "bytes": 31280,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "0788bb8102f1e9916c95953e22f37d90fa52d149512aa4312978bc5ee631f04e",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharCrystal/CharCrystal_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharCrystalLarge\\CharCrystalLarge_00.m3",
+    "bytes": 67504,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "349c3297f71a0385107f89aa07a3020a6773570ebbbc5cc2d30d63c6d0ca8a77",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharCrystalLarge/CharCrystalLarge_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharDestructibleRockCover\\CharDestructibleRockCover.m3",
+    "bytes": 170032,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "35b71c1dec31431dd3b0872a830cf20d9353f5d074620257f34d97e64c8dd215",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDestructibleRockCover/CharDestructibleRockCover.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\RedstoneRockSpires\\RedstoneRockSpires_00.m3",
+    "bytes": 69824,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "83625ac3595fe16517f222ecbb59104bba3ecbaf6d4f6ebacdc9d26f11807d56",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/RedstoneRockSpires/RedstoneRockSpires_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CommandCenterWrecked\\CommandCenterWrecked_00.m3",
+    "bytes": 207920,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "331f1e66e775c301b8a27ef9170e756909ca167a643554501c88d1b878a78aff",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CommandCenterWrecked/CommandCenterWrecked_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BarracksWrecked\\BarracksWrecked_00.m3",
+    "bytes": 156160,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "b03e86e9c2b997cdea5af9d17efaf3602a1c7472da63e14568f18080a7d79065",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BarracksWrecked/BarracksWrecked_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BunkerWrecked\\BunkerWrecked_00.m3",
+    "bytes": 134288,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "9d6995f3f35c571833fb9069f75597388040956d8262d03435840befe945b5e6",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BunkerWrecked/BunkerWrecked_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\ColonistVehicleWrecked\\ColonistVehicleWrecked_00.m3",
+    "bytes": 124112,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "071b47f060474db260c9a06f71e3ef8b8583b3ee135d22467eaaf2e56725ee71",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ColonistVehicleWrecked/ColonistVehicleWrecked_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\WreckedCargoTruck\\WreckedCargoTruck_00.m3",
+    "bytes": 85392,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "b4cfb8c841fcb73e381669682ddde97b8c8286926a1fc26bbe0d86c877888cd3",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/WreckedCargoTruck/WreckedCargoTruck_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\Shakuras_PowerCrystal\\Shakuras_PowerCrystal.m3",
+    "bytes": 13808,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "189ed12fd8c2d137ef5f88b07982956cf9e5bc328689062ad967fa934a451875",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_PowerCrystal/Shakuras_PowerCrystal.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Buildings\\Resources\\MineralFieldOpaque\\MineralFieldOpaque_00.m3",
+    "bytes": 191216,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "5402066247d3a5c8d231c1b6b5a1fd3657e5647d3643a8b49f962132ca93352f",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/MineralFieldOpaque/MineralFieldOpaque_00.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Buildings\\Resources\\MineralFieldOpaque\\MineralFieldOpaque_01.m3",
+    "bytes": 198304,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "d4a7e0bd92d22ec09f0be1d5af30ae089537cfadfc00ab9af7c8b5990bbe5626",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/MineralFieldOpaque/MineralFieldOpaque_01.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Buildings\\Resources\\VespeneGeyser\\VespeneGeyser.m3",
+    "bytes": 428720,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "01ba77485009481d5b5f93fbb048635b6c1ea4ea5a6815920b29ad32cb40bed9",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/VespeneGeyser/VespeneGeyser.m3"
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Buildings\\Resources\\VespeneGeyser_Ex2\\VespeneGeyser_Ex2.m3",
+    "bytes": 426064,
+    "local_only": true,
+    "build": "98310",
+    "sha256": "aa6a64ffbbb3de0936e7a0a0c78ff884e72b7e7efcfa7f825a0de67e269630fb",
+    "existing_file_verified": false,
+    "status": "ok",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/VespeneGeyser_Ex2/VespeneGeyser_Ex2.m3"
+  },
+  {
+    "sha256": "12d79ba9b39360c01dd9591e4680f267b09f761c6977d95da708e2fc7a026fad",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\agriarocks_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_diffuse.dds",
+    "bytes": 43832,
+    "local_only": true
+  },
+  {
+    "sha256": "9c332857f112621094351d0c26f6bb36efc156d696361d542f356908f45ba6f5",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\agriarocks_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_normal.dds",
+    "bytes": 87540,
+    "local_only": true
+  },
+  {
+    "sha256": "4ec9638c886c574c8299ea6fc23de8de416fe7841e6ab623b395ce7b89862d62",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\auirrocks_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/auirrocks_diffuse.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "10bdc3201204df0d0bbae9cf4862cdc1176dabff9d78a8a82902bda014889c95",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\belshircliffrocks.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshircliffrocks.dds",
+    "bytes": 349680,
+    "local_only": true
+  },
+  {
+    "sha256": "2a28fd87d4a36009d447da97f90107f925391d47537cc28eb5eadfad213a37dd",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\belshircliffrocksnormal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshircliffrocksnormal.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "f4e4b1bc0ccec1bdc5c7312df4b14beef4957e19a95c463b83790e5bef135d48",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\bs_bricks_norm.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bs_bricks_norm.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "32d23cc419ca94db5b0d79815d4801a099a5a3ac3305a48b7208ff7a5985d264",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\bel_shir_doodadbricks.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bel_shir_doodadbricks.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "32d288c0bbab9371bcfd6a81ff93ad66dfe88ed6629dd17ea65ad1a3001fcc7d",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\bel_shir_doodadbricks_spec.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bel_shir_doodadbricks_spec.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "c29b88164f17e4e8e16bbad670f9b88cc25189ee74c6164ad0bfdcc9966dbe6a",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\havenrocks_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_diffuse.dds",
+    "bytes": 349672,
+    "local_only": true
+  },
+  {
+    "sha256": "ac353c45dcfac0eb37d2b943368c8a39a2c9a509d0ae2e46cf8a9d86dc537549",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\havenrocks_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_normal.dds",
+    "bytes": 699220,
+    "local_only": true
+  },
+  {
+    "sha256": "2f4057bbc45aaf84a4c523ddd23bc1aefdb24ba547ec52d9e98d015046f78892",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\chararchway_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chararchway_diffuse.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "9436be4fefcafedd1934cf32e8ef946207809a78ebef16a6c1bd142264840b04",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\char_cliff0_nrm.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_cliff0_nrm.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "24a4e181a1753f78ee175a3cae94f1c62f5383829f5476cd5858060e63e28c11",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\havenrockarch.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrockarch.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "739dc9085b86de4ecd14685f4bbc2299b5f04960164e6dbe0eb0e7d600285e38",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\shakurasrocks_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_diffuse.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "4a2e35f2029a14a5abc7c0e076a11157f9ab118053d7499237a450b74ad00aa8",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\shakurasrocks_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_normal.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "1483d630919c4a44cb17a9eb1ef19c1e2b1c52fb151e6be85b0e6bea9ce7331c",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\aiur_stonetemple_rubblepile_n.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/aiur_stonetemple_rubblepile_n.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "884b26ff3fde308b6951812e4e0448c839ab5cc5093816d500ed6bb6588fd8f5",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\aiur_stonetemple_rubblepile_s.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/aiur_stonetemple_rubblepile_s.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "14761958af909933b239cc1b51d65ad1ea35524e1a2d560e0835da8690178ab6",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\shakuras_stonetemple_rubblepile.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_stonetemple_rubblepile.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "d686e2ac83830a54c3aa1f9066b26f93c59dd760fba22c60dc1586d70a6bbe07",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsararocks_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_diffuse.dds",
+    "bytes": 349672,
+    "local_only": true
+  },
+  {
+    "sha256": "48d13658d67acb173ff2733de70a04df0258bc52551072646526bc3059e896dc",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsararocks_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_normal.dds",
+    "bytes": 174932,
+    "local_only": true
+  },
+  {
+    "sha256": "482fe98486c8d843734c61d772d1000ce06b910667f3a655bba0de5029f99a5f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\desertshearedrock1_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_diffuse.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "1d38911e7ca98784c78e93b1909ebda75b79cb36ae85c7954f5ab0a0c275193c",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\desertshearedrock1_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_normal.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "dbe48492d5188f5c48bb27ab76daba86ece0198dc067407f2afcd2ad971242e7",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\rocktower01ambientocclusion.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "f8c8a7dd151329dd092cc03c01783749f7241176a1decbf88915bdfbfa7b1967",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\chiseledrockssmall_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_diffuse.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "2f4097ef8731c17bdb8392bd549ddb11b1643b5420118a3c530ac0dd69e5d13f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\chiseledrockssmall_normals.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_normals.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "a786fc9f132897aeadb46c61a76854fb39dca68d58399f54866c8c8dbd87f9a2",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\broken_rocks_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_diffuse.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "30b1348cf5731c35a75a1e116ce46155d633b73a79e1d6ce4871e98da2a01f90",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\broken_rocks_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_normal.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "9f67165a3c746a986c5fecb22367c9f8cafd7db3188c2fb51ac66f952b8f7de5",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\broken_rocks_specular.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_specular.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "c28d53bbf0a57ca3477e2476b7e9b49bc9fe4b97f03e9328ba897f95e843ae09",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\disolvenoise.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/disolvenoise.dds",
+    "bytes": 43832,
+    "local_only": true
+  },
+  {
+    "sha256": "bcad2cdcf2aefec26dc2b57e232e7aff89972667768d56ac952158bdc4f1385f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\rockdebrissculptchar_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptchar_diffuse.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "9227d71440a91842eb6d3194b0c99be12cdbd1bb275cfde5aa641afa11168885",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\core.sc2mod\\base.sc2assets\\Assets\\Textures\\rockdebrissculpt_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculpt_normal.dds",
+    "bytes": 87540,
+    "local_only": true
+  },
+  {
+    "sha256": "01008c6fbed25f8935f201bc03c62846daac54ef3ebf7717e57fca36844844b7",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\smokewetalpha.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewetalpha.dds",
+    "bytes": 43832,
+    "local_only": true
+  },
+  {
+    "sha256": "02cc65cec3616e823e72b36c0df5f68e03e5392933a876103af5306b3c2111ce",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\smokewetsilhouettealpha.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewetsilhouettealpha.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "f6fbac894c12b473319768b20a68b8767618220b763cf8ebe94e70af3cb6d3db",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\tendrilstreak5.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds",
+    "bytes": 43856,
+    "local_only": true
+  },
+  {
+    "sha256": "7937f866e203c0ea6dcad8c4979977e7b3f64b58cd247719e807f20157e5e9bd",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\smokelit.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds",
+    "bytes": 22000,
+    "local_only": true
+  },
+  {
+    "sha256": "d2817e1b464e9a17acf49b3102788f79809e4c63d6e645da46a3f8864a65f22b",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\destructiblerocknatural_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse.dds",
+    "bytes": 699216,
+    "local_only": true
+  },
+  {
+    "sha256": "e29f922d765aba18c88d1872242076d0040fd3c6e6b2fc70de535d194d08b5c6",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\destructiblerocknatural_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal.dds",
+    "bytes": 699220,
+    "local_only": true
+  },
+  {
+    "sha256": "316fdb130452ce434b06873a04bf35a224fa8b69fceeeab3294f866d6a8a647a",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\largesmoke1b.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1b.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "fff2657279cbc792c99541b46137f36f48e81c33f43f708355766e8d5c45fa9e",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\rockdebris2_r1.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "47ab5735fe9b30117ffbf2481dd17180efb2ef591debbbfcce06af344156c1ae",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\browndustparticles.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/browndustparticles.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "1d2e1be51c8f992957d5e47851cb5cc1c6f4f436de121ad9bb8f84b9fa17d888",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\heatwave2_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave2_normal.dds",
+    "bytes": 87540,
+    "local_only": true
+  },
+  {
+    "sha256": "3a8eb22d370494e6f9a34dfe38fe91033ef878c318118710003c58136d7665c7",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\core.sc2mod\\base.sc2assets\\Assets\\Textures\\largesmoke2.dds",
+    "existing_file_verified": true,
+    "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "2ae4da8702a37ef52af1051ba816968774ac206404dd563f540e7ed180d49f2f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsaravines_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaravines_diffuse.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "f790028a8404c7e6c5900ecfac9c37039903f2a0808be57d7b4b4d39b5b9fbb5",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\rockdebrissculptrocktower_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptrocktower_diffuse.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "75b892ea0a20492ac8fa44a10f67aa9d3718f588590b40b8f4d79783a93ee268",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\vines_normal_marsara.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/vines_normal_marsara.dds",
+    "bytes": 87540,
+    "local_only": true
+  },
+  {
+    "sha256": "8c795de016d3a1947e33682c11a295595e07f15dc03d811f56dc50f1fd6c7b33",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\collapsiblerocktowerflat_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktowerflat_diffuse.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "c97522d901344c8fa3d41d146f456a1a5aa9b2d03d4c6b25edbfc5ce4463e9c7",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\collapsiblerocktowerflat_nrm.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktowerflat_nrm.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "81ee64302cb8843c3763d9d28d85d848d7ffa5a6b8fba53d902a23497eaa8d68",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\collapsiblerocktower_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_diffuse.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "764d43a3aa25c64cb434c97e096d97bcdaf6aa95df8f35fbd97fbe877a81f51f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\collapsiblerocktower_norm.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_norm.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "5bf9a30bfaab52789926b0e8dd48d6536b9e3e2980b98b5bfe01aac7582963f2",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\collapsiblerocktower_spec.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_spec.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "6532f368e1c0ff5d1db2593e85e71d3ebc359af634e3b2d8096acf2e59a4977c",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\genericglow64.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds",
+    "bytes": 5616,
+    "local_only": true
+  },
+  {
+    "sha256": "afe5e98b755ebfe22257774f85cd4e7fcf40d32214e16a8bbc3da145659857e8",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworldrockssmall_diff.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_diff.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "87fa68fd68e42fc31ecb99c605486a502ff1e37aca66983e59263f9466b228b5",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworldrockssmall_emiss.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_emiss.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "e24ed10b246f7833fce1b0ccad95171131796ffb8c284f8edea539d2f87dc7e9",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworldrockssmall_normals.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_normals.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "6974cc9fe946f7837729b462d1738912d5f10dda2a15914b96c583cc063cf654",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworld_2.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "eb5908f7030c1d1346f4a8e57751bd5816aee22dcedc04187c14311291c44972",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworld_2normal.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "d6904d62d8dccdf36a674711038d6f11ce5cb61a6cfa023eed6ee9b0c1dd81b8",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\reflection_belshir.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reflection_belshir.dds",
+    "bytes": 4194512,
+    "local_only": true
+  },
+  {
+    "sha256": "c4d7cf0b6500f12e67e6d43ab8ed08f415b04988d7f41f9139bcf6f47653cd82",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\icebridgeshort_diff.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridgeshort_diff.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "1f3cbe4ac7fa8102a9a54a244cfff79c8f046056fc5a1d6e4b3a96ae29fcbae0",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\icebridge_diff.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_diff.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "78181529a8f3bb9b02de13a51415ce45df5547af1bb30791893ac91571117d20",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\icebridge_emis.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_emis.dds",
+    "bytes": 43832,
+    "local_only": true
+  },
+  {
+    "sha256": "001d5f19c659bcc392aac2c2b55d42953b99a12b49f5fa0b3f4f6346af01f6e9",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\icebridge_norm.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_norm.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "947bd772e5dd1851eddafeb50085280c772269c7db3dc3a6551f90b8521f2325",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworld_1.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_1.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "a83a49c666cc4231743cac366ff345f523e3e53aee2da9efcf70fedc081348e1",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworld_4.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "3e392620a95dd2b82bfcd22ee2f3b314b26c59963c8c7ba6dc073f12da685e1f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworld_4normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4normal.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "b4a99b309a5630d15ed2e03cbf8de093da2c6de2ddad5b7cfd88884c2b60a262",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\mainicereflection.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds",
+    "bytes": 65744,
+    "local_only": true
+  },
+  {
+    "sha256": "ccabf6c137e6afbc8d500d8abe107b1dd4ac7234f647f1b545431cc9f9a7a15c",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\mist1.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "4b84f3caf6d9e774f18f264e745709094d570892f739ccf72c98274940d8ca2f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworld_rock.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_rock.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "3c5a3b52f853daa7c9bdc9c482af864388876a99d6775805e0b2f030570d9c89",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\iceworld_rocknormal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_rocknormal.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "2cd44e92fb33413e5d22622cdfdefa939cae4f59bc89d9fd249305391af8e8e9",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\ice_rocktowermasks.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowermasks.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "3049fedf2abd1c78ccc3c77b6eb40a50a2936d5f376019c7af3af39ae0689c1c",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\ice_rocktowerspec.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowerspec.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "0fafda59ba78a3897db5d872acbf6c48cb7e971b4318c2d7c1491e8c815ef5f8",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\rocktower02normals.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower02normals.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "b2c690970649e5e3c2e14d00a7e51786b66de4e05c4f801575cd095bfa44f67e",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\snowbase_shortcliff_01_diff.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_diff.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "486aed411f87e82c3ec203eeca48665f36fad149bb1a3326fe82b6fd6cae603c",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\snowbase_shortcliff_01_norm.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_norm.dds",
+    "bytes": 349680,
+    "local_only": true
+  },
+  {
+    "sha256": "8cb788a55de00069ce2ef9b3f69c6ce08446e5a993620f7988f02489951ec77d",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\snowbase_shortcliff_01_spec.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_spec.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "e126d98fdd6d0d5b125800c203a64ace1d6a9b9af616dd5f40c2d3de428f9da7",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\crystal_enviorment_blue.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystal_enviorment_blue.dds",
+    "bytes": 43832,
+    "local_only": true
+  },
+  {
+    "sha256": "a6021614b62918d4251d23676402a3f9ee2d8cdbc6eb0810e2bf71f7e9b275de",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\energyring4blue.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/energyring4blue.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "80236f39c9e090143888e9a99ae4f2f1706eb03c16efb2c5f859c864a231536d",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\resourcecrystaldiff_blue.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystaldiff_blue.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "ddfbd4e34dade177c5d52c58410580888e28c2d9d31a40d88e33cbce0e331b45",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\resourcecrystalspec_blue.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystalspec_blue.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "5fcb8be02bea802e1d02cf6e57073408d88eb3a773be571510042b0f5dcc48b4",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\trev_crystal_norms.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/trev_crystal_norms.dds",
+    "bytes": 87540,
+    "local_only": true
+  },
+  {
+    "sha256": "7636248b8f879f12ede6f121bf8b428c816ce4cdbb8147b7a51a5974a7b6f7ac",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charrock_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_diffuse.dds",
+    "bytes": 43832,
+    "local_only": true
+  },
+  {
+    "sha256": "b4cffe5ff1966f418f65f2a5a4a66f42be8e17ec27ff07314093deaa6e8c75c9",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charrock_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_normal.dds",
+    "bytes": 87540,
+    "local_only": true
+  },
+  {
+    "sha256": "e2a4757665f85f0336f2f46f7476aa763310d82bb94278fb87a789463c330e3a",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charrock_emissive.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_emissive.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "9b1ec1fd3716ce04c36a253c3f8d9a034e6817e92c636424dc231905a67b50eb",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charrocklarge_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_diffuse.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "d3d37515de29e66b669d415dbe86a6770b5b58bf7b8fd20c8c73b95fddfc339e",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charrocklarge_emissive.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_emissive.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "29314fb765aa99b0b608c4c95d003fc75eb10be868c40fd701e6a97c179bba03",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charrocklarge_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_normal.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "d2935d2b5144a3b5ddd7b7c49434f17e6326e28f441693524bf6d20233b41bb3",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\char2_2.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char2_2.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "2068d852b10c9357e52e9f4343ec7a663effa85af1338a00c2d8d7e59118da31",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\chardunerock_norm.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chardunerock_norm.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "ba3fc253ef1fceb21b7a5239c8a9af0736aa804f61bd7b7b8284e5917a9f8a84",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charrockformation_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrockformation_diffuse.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "ba250e2824fbe7f35ab1b60f77fb0de9625ef2b914c42518ddee260377253f3c",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charrockformation_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrockformation_normal.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "bcc4333ebba83ac22b071625dcbbe91b7d6ea2aa5cc763a431669450e279f03e",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\greysmoke1.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/greysmoke1.dds",
+    "bytes": 5616,
+    "local_only": true
+  },
+  {
+    "sha256": "b51320e5384e3a60422c2048712ac2c42a4259c7cd87a42cc70d069ce556d6a8",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\smokewispy1.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy1.dds",
+    "bytes": 5616,
+    "local_only": true
+  },
+  {
+    "sha256": "9faeb83fef037979e8e21ee7f62eb37242a9ded79ea94dfdd40141eb066c36cb",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charcrystalhuge_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_diffuse.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "c67e44f1b90e85b3798ac2ece3bbd6667bb885812467d2d513c19a879ea9873a",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charcrystalhuge_emissive_all.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_emissive_all.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "c3beaa97c07ada2b8c1d4c3ab595763d0c37cfbf2925b35059e0b9d2ec658a2f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\charcrystalhuge_specular.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_specular.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "2be9840adee20569ae89170e156ec8428595820b37360fed81861f9f4500a466",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\crystalhuge_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystalhuge_normal.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "03446094f9034d638c84137f184d298dec7c7d4a7d2ada90f628bcf2ec14d2ec",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\destructiblerocknatural_diffuse_char.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse_char.dds",
+    "bytes": 699216,
+    "local_only": true
+  },
+  {
+    "sha256": "e93b9fb49b38b43901d5a952134f8300e45655208292813c2bb8397061d498ee",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\destructiblerocknatural_normal_char.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal_char.dds",
+    "bytes": 699220,
+    "local_only": true
+  },
+  {
+    "sha256": "319213458e2e9b1666579eb5610b2e9ee5c240f0e20ab6692b4e757e1d982095",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\rocks1_brown2.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocks1_brown2.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "ae84243e847afdc74827a7dd7b9a24a1eb95033f7cd954a8a9eb9b4e713d1297",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\zergling_diffuse.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_diffuse.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "3f8f432e4feabd87440dad1c62b129b473d8782424de1d696633f562cc9adb8f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\zergling_emissive.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_emissive.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "0788b520b968fd499d1bb838a30e21636c38081519914360026f12f572824f7f",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\zergling_normal.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_normal.dds",
+    "bytes": 349680,
+    "local_only": true
+  },
+  {
+    "sha256": "d1ce7de6673c8fe02c31e4ce0a55f388eca3396238dc4503e76b83494bf966b5",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\zergling_specular.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_specular.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "7d429776981e6b09b24e30a202a2257526ed4edcce2fdd585654fe1266e8b9ea",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\redstonerockspires_normalrework.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_normalrework.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "4262be4419215baad874bac022d401be33e5808f0aa23e5eeab5f753a37a3076",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\redstonerockspires_specularrework.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_specularrework.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "faf4657c99bfe2f7eb6f83e0aa8543332b86f55c9a395115c0fd9751b39b4ee2",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\redstonerockspires_diffuserework.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_diffuserework.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "4d31c47f153a97ffae299f7fafadf118caa2d50b814fa32e95d24c871a06b778",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\commandcenterwreckedshadow_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwreckedshadow_diffuse.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "e07dcfdc4c6c147bba93389805454b52b88b64fbefee5702f48b7bd2803d92d9",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\commandcenterwrecked_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwrecked_diffuse.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "70be9912ce7a9db37db676232c76ece2e732f38223ea4272918bd70104a8592e",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\commandcenterwrecked_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwrecked_normal.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "e5cac66d2e486c2ecd6fb92b2de0886da6899e49fdf9c2fe8a34823972f57d56",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\barrackswreckedshadow_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswreckedshadow_diffuse.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "0100317ba26f3b3ca68b0871caf1f9f6e03204773865804779a8b9e1c2e1426e",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\barrackswrecked_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswrecked_diffuse.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "9ccdacd9f7c2657bf092030ce99d9f3b77ea4fa93ba8a1dc9709fdb72dc35c6a",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\barrackswrecked_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswrecked_normal.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "eca36ab763b27749784578e1bfa5590000e4eda552825672f004aa231be76ee6",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\bunkerwreckedshadow_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwreckedshadow_diffuse.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "3df413ffcbcccc17cb2994957a30e677a581288fc2e3c1257200f112083fff34",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\bunkerwrecked_difffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwrecked_difffuse.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "cf57efea8a4573e9af30059f6279fa316134485eaa7314ec287c5e6e8b3581d7",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\bunkerwrecked_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwrecked_normal.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "6cc621e368836ae5ae8acfa7b4fdfe2c01621899a09c632dd1d46cdcf662c80a",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\colonistvehicle_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/colonistvehicle_diffuse.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "514112ecded1b2319f8cac0c2f99af0467305adc3aeca1fb2cc53e43287b0334",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\colonistvehicle_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/colonistvehicle_normal.dds",
+    "bytes": 349680,
+    "local_only": true
+  },
+  {
+    "sha256": "cbafd0dc52de1dbcf0adfeb6d42d8a5dea669e80fdb0fe24eef192c12cbd7524",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\dust3.dds",
+    "existing_file_verified": true,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dust3.dds",
+    "bytes": 5616,
+    "local_only": true
+  },
+  {
+    "sha256": "d1ce822d720be91349b83147b0ec5dec09d20671c559ff2a223b72eba5097294",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\cargotruck_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cargotruck_normal.dds",
+    "bytes": 1398260,
+    "local_only": true
+  },
+  {
+    "sha256": "6b9730ab506f6deb8ea65abdbe4b6f92c50d23314e8da68d49fb8e1e6a098b1c",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\cargotruck_spec.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cargotruck_spec.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "56f655c5a0fd307e74398602ac6adeb014ac99a67fd61c22a7700a6db12522a4",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\wreckedcargotruck_diffuse_red.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/wreckedcargotruck_diffuse_red.dds",
+    "bytes": 699192,
+    "local_only": true
+  },
+  {
+    "sha256": "13182e65da16d2861b73b623e97c41e35fbf1b7457d290f5f6aefd8173499422",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\powercrystal_norm.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/powercrystal_norm.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "216fe3fecc3d0451eb2e51b72d43684618d03086d293e6ca944637781afa46f8",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\powercrystal_spec.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/powercrystal_spec.dds",
+    "bytes": 349680,
+    "local_only": true
+  },
+  {
+    "sha256": "3c34be46af7016bb4010dabe7d4d18670884d70875796489874d19288e233bdf",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\shakuras_powercrystal_dif.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_powercrystal_dif.dds",
+    "bytes": 1398256,
+    "local_only": true
+  },
+  {
+    "sha256": "74c8a24c7cf87a09f17d20194625443a1e14b18e80e19b4d5754a0a5d135c2ec",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\shakuras_powercrystal_spec.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_powercrystal_spec.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "08a8116bc93777d289ed52e41f57eb10ef9a0171a445bdcfc911c49f52e4af97",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\storm_goldreflection.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/storm_goldreflection.dds",
+    "bytes": 131360,
+    "local_only": true
+  },
+  {
+    "sha256": "c678935f014f5468a1522e68328bfbd9fb18a5078542f965ba42a058b4711713",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\crystal_enviorment2.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystal_enviorment2.dds",
+    "bytes": 43832,
+    "local_only": true
+  },
+  {
+    "sha256": "89732a256d66baacbe2b57267ea1b7f486b35912fc1a3aa9eb57f0da18761602",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\core.sc2mod\\base.sc2assets\\Assets\\Textures\\bigwaves.dds",
+    "existing_file_verified": true,
+    "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds",
+    "bytes": 43860,
+    "local_only": true
+  },
+  {
+    "sha256": "f6e615817f7eea32c3f2a5d3b67a711af2e0fb607104f057ab07db4dc3c13880",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\geysersteam01_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geysersteam01_diffuse.dds",
+    "bytes": 5616,
+    "local_only": true
+  },
+  {
+    "sha256": "994c6013bf521955d521255fd679154ad780782fffacb193651ac7c98498e1f3",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\geyser_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_diffuse.dds",
+    "bytes": 174904,
+    "local_only": true
+  },
+  {
+    "sha256": "e8685bfaf1e819e79d98d0b802bf44332395b4810a236d2447f63384e0349dca",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\geyser_normal.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_normal.dds",
+    "bytes": 349684,
+    "local_only": true
+  },
+  {
+    "sha256": "ced420c750c376e1daea31626cdc8d6651bec6e31a8f965875b56e3b7c85dda3",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\smokewispy10.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy10.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "d6b923745116fd4141b00dd3b04ba98686d57744cde23b92e768eac4777a946b",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\geysersteam_diffuse.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geysersteam_diffuse.dds",
+    "bytes": 5616,
+    "local_only": true
+  },
+  {
+    "sha256": "5759decf2122439cbc42c4d5b75dad8216bbf219928e0995c2ce23bf9d9e7e28",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\core.sc2mod\\base.sc2assets\\Assets\\Textures\\smoketile4.dds",
+    "existing_file_verified": false,
+    "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/smoketile4.dds",
+    "bytes": 349680,
+    "local_only": true
+  },
+  {
+    "sha256": "7ea661b3c3e8d1bc69fb8284c9f78247f008421cb020af7553641a4f39769131",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\core.sc2mod\\base.sc2assets\\Assets\\Textures\\smoke_wispy11.dds",
+    "existing_file_verified": false,
+    "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/smoke_wispy11.dds",
+    "bytes": 87536,
+    "local_only": true
+  },
+  {
+    "sha256": "e5c0161f756ef495d91137ffb67d64d50f5ff739dfab29eccb8ab94ab952b52e",
+    "status": "ok",
+    "build": "98310",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\smoke_wispy9alpha.dds",
+    "existing_file_verified": false,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke_wispy9alpha.dds",
+    "bytes": 87536,
+    "local_only": true
+  }
+]

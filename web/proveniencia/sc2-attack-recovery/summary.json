@@ -1,0 +1,22 @@
+{
+  "native_models": 4,
+  "native_textures": 10,
+  "native_files": 14,
+  "native_bytes": 421960,
+  "runtime_pngs": 10,
+  "runtime_png_bytes": 289595,
+  "maximum_dimension": 256,
+  "atlases": {
+    "sparks": {
+      "columns": 2,
+      "rows": 2
+    },
+    "acid-splat": {
+      "columns": 4,
+      "rows": 4
+    }
+  },
+  "failed_files": 0,
+  "local_only": true,
+  "native_emitter_engine_ported": false
+}

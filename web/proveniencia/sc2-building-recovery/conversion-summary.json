@@ -1,0 +1,253 @@
+{
+  "semantic_entries": 55,
+  "successful_entries": 55,
+  "unique_glb_files": 52,
+  "unique_glb_bytes": 79474144,
+  "factions": {
+    "solar": 19,
+    "aether": 17,
+    "swarm": 19
+  },
+  "unique_animation_clips": 574,
+  "embedded_png_images": 229,
+  "khronos_errors": 0,
+  "khronos_warnings": 0,
+  "missing_texture_stems": {},
+  "failures": [],
+  "shared_native_model_states": [
+    {
+      "id": "orbitalcommand",
+      "nativeId": "orbitalcommand",
+      "label": "orbitalcommand",
+      "faction": "solar",
+      "race": "terran",
+      "type": "townhall",
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/CommandCenterEx1/CommandCenterEx1.m3",
+      "path": "./assets/buildings/commandcenter.glb",
+      "size": 11,
+      "boundsSize": [
+        5.065471410751343,
+        3.7896609157323837,
+        5.007408618927002
+      ],
+      "bounds": {
+        "min": [
+          -2.5410726070404053,
+          -0.07686446607112885,
+          -2.519394874572754
+        ],
+        "max": [
+          2.5243988037109375,
+          3.712796449661255,
+          2.488013744354248
+        ]
+      },
+      "bytes": 4071100,
+      "animations": [
+        "Fly Start_full",
+        "Fly Walk_full",
+        "Fly End_full",
+        "Stand Work_full",
+        "Stand_full",
+        "Fly Stand_full",
+        "Morph A_full",
+        "Fly Start A_full",
+        "Fly Walk A_full",
+        "Fly End A_full",
+        "Stand Work A_full",
+        "Attack_full",
+        "Fly Stand A_full",
+        "Morph B_full",
+        "Fly Start B_full",
+        "Fly Walk B_full",
+        "Fly End B_full",
+        "Stand Work B_full",
+        "Fly Stand B_full",
+        "Stand A_full",
+        "Stand B_full",
+        "Build A Start_full",
+        "Build A Stand_full",
+        "Build B Start_full",
+        "Build B Stand_full",
+        "Build C Start_full",
+        "Build C Stand_full",
+        "Build D Start_full",
+        "Build C Start Jump_full",
+        "Build C Stand Jump_full",
+        "Build D Stand Jump_full",
+        "Morph C_full"
+      ],
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 142
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "variantOf": null,
+      "campaignVariant": false,
+      "sourceKind": "shared-native-model-state",
+      "nativeFamily": "CommandCenterEx1",
+      "nativeModel": "CommandCenterEx1",
+      "modelState": "shared-native-animation-state",
+      "stateAnimation": "Stand B_full",
+      "sharedModelWith": "commandcenter",
+      "stateLimitation": "Native ActorData animation group verified; exported visibility/shader fidelity still requires visual QA."
+    },
+    {
+      "id": "planetaryfortress",
+      "nativeId": "planetaryfortress",
+      "label": "planetaryfortress",
+      "faction": "solar",
+      "race": "terran",
+      "type": "townhall",
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/CommandCenterEx1/CommandCenterEx1.m3",
+      "path": "./assets/buildings/commandcenter.glb",
+      "size": 11,
+      "boundsSize": [
+        5.065471410751343,
+        3.7896609157323837,
+        5.007408618927002
+      ],
+      "bounds": {
+        "min": [
+          -2.5410726070404053,
+          -0.07686446607112885,
+          -2.519394874572754
+        ],
+        "max": [
+          2.5243988037109375,
+          3.712796449661255,
+          2.488013744354248
+        ]
+      },
+      "bytes": 4071100,
+      "animations": [
+        "Fly Start_full",
+        "Fly Walk_full",
+        "Fly End_full",
+        "Stand Work_full",
+        "Stand_full",
+        "Fly Stand_full",
+        "Morph A_full",
+        "Fly Start A_full",
+        "Fly Walk A_full",
+        "Fly End A_full",
+        "Stand Work A_full",
+        "Attack_full",
+        "Fly Stand A_full",
+        "Morph B_full",
+        "Fly Start B_full",
+        "Fly Walk B_full",
+        "Fly End B_full",
+        "Stand Work B_full",
+        "Fly Stand B_full",
+        "Stand A_full",
+        "Stand B_full",
+        "Build A Start_full",
+        "Build A Stand_full",
+        "Build B Start_full",
+        "Build B Stand_full",
+        "Build C Start_full",
+        "Build C Stand_full",
+        "Build D Start_full",
+        "Build C Start Jump_full",
+        "Build C Stand Jump_full",
+        "Build D Stand Jump_full",
+        "Morph C_full"
+      ],
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 142
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "variantOf": null,
+      "campaignVariant": false,
+      "sourceKind": "shared-native-model-state",
+      "nativeFamily": "CommandCenterEx1",
+      "nativeModel": "CommandCenterEx1",
+      "modelState": "shared-native-animation-state",
+      "stateAnimation": "Stand A_full",
+      "sharedModelWith": "commandcenter",
+      "stateLimitation": "Native ActorData animation group verified; exported visibility/shader fidelity still requires visual QA."
+    },
+    {
+      "id": "warpgate",
+      "nativeId": "warpgate",
+      "label": "warpgate",
+      "faction": "aether",
+      "race": "protoss",
+      "type": "production",
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/GatewayEx1/GatewayEx1.m3",
+      "path": "./assets/buildings/gateway.glb",
+      "size": 8,
+      "boundsSize": [
+        5.010493278503418,
+        4.103567898273468,
+        4.841860055923462
+      ],
+      "bounds": {
+        "min": [
+          -2.505246639251709,
+          -0.32822614908218384,
+          -2.4215571880340576
+        ],
+        "max": [
+          2.505246639251709,
+          3.775341749191284,
+          2.4203028678894043
+        ]
+      },
+      "bytes": 1871664,
+      "animations": [
+        "Stand_full",
+        "Stand Work Start_full",
+        "Stand Work_full",
+        "Stand Work End_full",
+        "Stand Unpowered_UnPowered",
+        "Morph_full",
+        "Morph End_full",
+        "Stand Superior_full",
+        "Stand Superior Work Start_full",
+        "Stand Superior Work_full",
+        "Stand Superior Work End_full",
+        "Stand Unpowered Start_UnPowered",
+        "Stand Unpowered End_UnPowered",
+        "GLstand_SplitbodyAnim_Behavior"
+      ],
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 71
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "variantOf": null,
+      "campaignVariant": false,
+      "sourceKind": "shared-native-model-state",
+      "nativeFamily": "GatewayEx1",
+      "nativeModel": "GatewayEx1",
+      "modelState": "shared-native-animation-state",
+      "stateAnimation": "Stand Superior_full",
+      "sharedModelWith": "gateway",
+      "stateLimitation": "Native ActorData animation group verified; exported visibility/shader fidelity still requires visual QA."
+    }
+  ],
+  "registry": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v011\\assets\\buildings\\registry.mjs",
+  "limitations": [
+    "Particles/projectors/lights omitted during M3 conversion (--no-fx).",
+    "PBR conversion preserves source geometry and texture colors, but native shaders and animated visibility may differ.",
+    "Three upgrade forms share canonical native model bytes and use ActorData-verified animation groups."
+  ]
+}

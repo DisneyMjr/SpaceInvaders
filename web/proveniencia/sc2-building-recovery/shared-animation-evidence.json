@@ -1,0 +1,114 @@
+[
+  {
+    "source": "outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ActorData.xml",
+    "actor": "CommandCenter",
+    "model": [],
+    "glossaryAnim": [],
+    "events": [
+      {
+        "Terms": "ActorCreation",
+        "Send": "AnimGroupRemove A"
+      },
+      {
+        "Terms": "ActorCreation",
+        "Send": "AnimGroupRemove B"
+      },
+      {
+        "Terms": "AbilMorph.*.Start; MorphFrom CommandCenter; MorphTo OrbitalCommand",
+        "Send": "AnimGroupApply B"
+      },
+      {
+        "Terms": "AbilMorph.*.Cancel; MorphFrom CommandCenter; MorphTo OrbitalCommand",
+        "Send": "AnimGroupRemove B"
+      },
+      {
+        "Terms": "AbilMorph.*.Start; MorphFrom CommandCenter; MorphTo PlanetaryFortress",
+        "Send": "AnimGroupApply A"
+      },
+      {
+        "Terms": "AbilMorph.*.Cancel; MorphFrom CommandCenter; MorphTo PlanetaryFortress",
+        "Send": "AnimGroupRemove A"
+      }
+    ]
+  },
+  {
+    "source": "outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ActorData.xml",
+    "actor": "PlanetaryFortress",
+    "model": [
+      {
+        "value": "CommandCenter"
+      }
+    ],
+    "glossaryAnim": [
+      {
+        "value": "Stand,A"
+      }
+    ],
+    "events": [
+      {
+        "Terms": "ActorCreation",
+        "Send": "AnimGroupApply A"
+      }
+    ]
+  },
+  {
+    "source": "outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ActorData.xml",
+    "actor": "OrbitalCommand",
+    "model": [
+      {
+        "value": "CommandCenter"
+      }
+    ],
+    "glossaryAnim": [
+      {
+        "value": "Stand,B"
+      }
+    ],
+    "events": [
+      {
+        "Terms": "UnitBirth.OrbitalCommand",
+        "Send": "AnimGroupApply B {} {} Instant"
+      },
+      {
+        "Terms": "UnitBirth.OrbitalCommandFlying",
+        "Send": "AnimGroupApply B {} {} Instant"
+      },
+      {
+        "Terms": "AbilMorph.*.Finish; MorphFrom CommandCenter; MorphTo OrbitalCommand",
+        "Send": "AnimGroupApply B"
+      }
+    ]
+  },
+  {
+    "source": "outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ActorData.xml",
+    "actor": "Gateway",
+    "model": [],
+    "glossaryAnim": [],
+    "events": [
+      {
+        "Terms": "ActorCreation",
+        "Send": "AnimGroupRemove Superior"
+      }
+    ]
+  },
+  {
+    "source": "outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ActorData.xml",
+    "actor": "WarpGate",
+    "model": [
+      {
+        "value": "Gateway"
+      }
+    ],
+    "glossaryAnim": [
+      {
+        "value": "Stand,Superior"
+      }
+    ],
+    "events": [
+      {
+        "Terms": "ActorCreation",
+        "Send": "AnimGroupApply Superior"
+      }
+    ]
+  }
+]

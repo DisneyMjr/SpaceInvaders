@@ -1,0 +1,1741 @@
+[
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaRock/AgriaRock_00.m3",
+    "family": "AgriaRock",
+    "model": "AgriaRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "agriarock",
+    "nativeId": "agriarock",
+    "slug": "agriarock",
+    "label": "AgriaRock",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AgriaRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/AgriaRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaRockLarge/AgriaRockLarge_00.m3",
+    "family": "AgriaRockLarge",
+    "model": "AgriaRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "agriarocklarge",
+    "nativeId": "agriarocklarge",
+    "slug": "agriarocklarge",
+    "label": "AgriaRockLarge",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AgriaRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/AgriaRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AiurRock/AiurRock_00.m3",
+    "family": "AiurRock",
+    "model": "AiurRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "aiurrock",
+    "nativeId": "aiurrock",
+    "slug": "aiurrock",
+    "label": "AiurRock",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AuirRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/auirrocks_diffuse.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AiurRockLarge/AiurRockLarge_00.m3",
+    "family": "AiurRockLarge",
+    "model": "AiurRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "aiurrocklarge",
+    "nativeId": "aiurrocklarge",
+    "slug": "aiurrocklarge",
+    "label": "AiurRockLarge",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AuirRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/auirrocks_diffuse.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirCliffRocks/BelShirCliffRocks_00.m3",
+    "family": "BelShirCliffRocks",
+    "model": "BelShirCliffRocks_00",
+    "category": "cliff",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "belshircliffrocks",
+    "nativeId": "belshircliffrocks",
+    "slug": "belshircliffrocks",
+    "label": "BelShirCliffRocks",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BelshirCliffRocks.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshircliffrocks.dds"
+      },
+      {
+        "reference": "Assets/Textures/BelshirCliffRocksNormal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshircliffrocksnormal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirRuins/BelShirRuins_00.m3",
+    "family": "BelShirRuins",
+    "model": "BelShirRuins_00",
+    "category": "ruins",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "belshirruins",
+    "nativeId": "belshirruins",
+    "slug": "belshirruins",
+    "label": "BelShirRuins",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BS_Bricks_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bs_bricks_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/Bel_Shir_DoodadBricks.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bel_shir_doodadbricks.dds"
+      },
+      {
+        "reference": "Assets/Textures/Bel_Shir_DoodadBricks_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bel_shir_doodadbricks_spec.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRock/HavenRock_00.m3",
+    "family": "HavenRock",
+    "model": "HavenRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "havenrock",
+    "nativeId": "havenrock",
+    "slug": "havenrock",
+    "label": "HavenRock",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/HavenRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/HavenRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRockLarge/HavenRockLarge_00.m3",
+    "family": "HavenRockLarge",
+    "model": "HavenRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "havenrocklarge",
+    "nativeId": "havenrocklarge",
+    "slug": "havenrocklarge",
+    "label": "HavenRockLarge",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/HavenRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/HavenRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRockArch/HavenRockArch_00.m3",
+    "family": "HavenRockArch",
+    "model": "HavenRockArch_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "havenrockarch",
+    "nativeId": "havenrockarch",
+    "slug": "havenrockarch",
+    "label": "HavenRockArch",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharArchway_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chararchway_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Char_Cliff0_NRM.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_cliff0_nrm.dds"
+      },
+      {
+        "reference": "Assets/Textures/HavenRockArch.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrockarch.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShakurasRock/ShakurasRock_00.m3",
+    "family": "ShakurasRock",
+    "model": "ShakurasRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "shakurasrock",
+    "nativeId": "shakurasrock",
+    "slug": "shakurasrock",
+    "label": "ShakurasRock",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ShakurasRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ShakurasRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShakurasRockLarge/ShakurasRockLarge_00.m3",
+    "family": "ShakurasRockLarge",
+    "model": "ShakurasRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "shakurasrocklarge",
+    "nativeId": "shakurasrocklarge",
+    "slug": "shakurasrocklarge",
+    "label": "ShakurasRockLarge",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ShakurasRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ShakurasRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_Stone_Temple_Rubble/Shakuras_Stone_Temple_Rubble_00.m3",
+    "family": "Shakuras_Stone_Temple_Rubble",
+    "model": "Shakuras_Stone_Temple_Rubble_00",
+    "category": "ruins",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "shakuras-stone-temple-rubble",
+    "nativeId": "shakuras-stone-temple-rubble",
+    "slug": "shakuras-stone-temple-rubble",
+    "label": "Shakuras_Stone_Temple_Rubble",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Aiur_StoneTemple_RubblePile_N.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/aiur_stonetemple_rubblepile_n.dds"
+      },
+      {
+        "reference": "Assets/Textures/Aiur_StoneTemple_RubblePile_S.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/aiur_stonetemple_rubblepile_s.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shakuras_StoneTemple_RubblePile.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_stonetemple_rubblepile.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraRock/MarSaraRock_00.m3",
+    "family": "MarSaraRock",
+    "model": "MarSaraRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "marsararock",
+    "nativeId": "marsararock",
+    "slug": "marsararock",
+    "label": "MarSaraRock",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/MarSaraRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraRockLarge/MarSaraRockLarge_00.m3",
+    "family": "MarSaraRockLarge",
+    "model": "MarSaraRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "marsararocklarge",
+    "nativeId": "marsararocklarge",
+    "slug": "marsararocklarge",
+    "label": "MarSaraRockLarge",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/MarSaraRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DesertRockGiant/DesertRockGiant_00.m3",
+    "family": "DesertRockGiant",
+    "model": "DesertRockGiant_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "desertrockgiant",
+    "nativeId": "desertrockgiant",
+    "slug": "desertrockgiant",
+    "label": "DesertRockGiant",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DesertShearedRock1_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DesertShearedRock1_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower01AmbientOcclusion.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShearedRocksDesert/ShearedRocksDesert_00.m3",
+    "family": "ShearedRocksDesert",
+    "model": "ShearedRocksDesert_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "shearedrocksdesert",
+    "nativeId": "shearedrocksdesert",
+    "slug": "shearedrocksdesert",
+    "label": "ShearedRocksDesert",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DesertShearedRock1_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DesertShearedRock1_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ChiseledRock/ChiseledRock_00.m3",
+    "family": "ChiseledRock",
+    "model": "ChiseledRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "chiseledrock",
+    "nativeId": "chiseledrock",
+    "slug": "chiseledrock",
+    "label": "ChiseledRock",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ChiseledRocksSmall_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ChiseledRocksSmall_Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_normals.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ChiseledRockLarge/ChiseledRockLarge_00.m3",
+    "family": "ChiseledRockLarge",
+    "model": "ChiseledRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "chiseledrocklarge",
+    "nativeId": "chiseledrocklarge",
+    "slug": "chiseledrocklarge",
+    "label": "ChiseledRockLarge",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ChiseledRocksSmall_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ChiseledRocksSmall_Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_normals.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BrokenRocks/BrokenRocks_00.m3",
+    "family": "BrokenRocks",
+    "model": "BrokenRocks_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "brokenrocks",
+    "nativeId": "brokenrocks",
+    "slug": "brokenrocks",
+    "label": "BrokenRocks",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/DisolveNoise.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/disolvenoise.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculptChar_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptchar_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculpt_Normal.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculpt_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWetAlpha.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewetalpha.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWetSilhouetteAlpha.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewetsilhouettealpha.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BrokenRocksSmall/BrokenRocksSmall_00.m3",
+    "family": "BrokenRocksSmall",
+    "model": "BrokenRocksSmall_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "brokenrockssmall",
+    "nativeId": "brokenrockssmall",
+    "slug": "brokenrockssmall",
+    "label": "BrokenRocksSmall",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/DisolveNoise.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/disolvenoise.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculptChar_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptchar_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculpt_Normal.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculpt_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRock2x4/DestructibleRock2x4_00.m3",
+    "family": "DestructibleRock2x4",
+    "model": "DestructibleRock2x4_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "destructiblerock2x4",
+    "nativeId": "destructiblerock2x4",
+    "slug": "destructiblerock2x4",
+    "label": "DestructibleRock2x4",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1B.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1b.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebris2_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRock4x4/DestructibleRock4x4.m3",
+    "family": "DestructibleRock4x4",
+    "model": "DestructibleRock4x4",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "destructiblerock4x4",
+    "nativeId": "destructiblerock4x4",
+    "slug": "destructiblerock4x4",
+    "label": "DestructibleRock4x4",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1B.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1b.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebris2_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRockHuge/DestructibleRockHuge.m3",
+    "family": "DestructibleRockHuge",
+    "model": "DestructibleRockHuge",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "destructiblerockhuge",
+    "nativeId": "destructiblerockhuge",
+    "slug": "destructiblerockhuge",
+    "label": "DestructibleRockHuge",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1B.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1b.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebris2_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CollapsibleRockTower/CollapsibleRockTower.m3",
+    "family": "CollapsibleRockTower",
+    "model": "CollapsibleRockTower",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "collapsiblerocktower",
+    "nativeId": "collapsiblerocktower",
+    "slug": "collapsiblerocktower",
+    "label": "CollapsibleRockTower",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BrownDustParticles.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/browndustparticles.dds"
+      },
+      {
+        "reference": "Assets/Textures/DisolveNoise.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/disolvenoise.dds"
+      },
+      {
+        "reference": "Assets/Textures/HeatWave2_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave2_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraVines_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaravines_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculptChar_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptchar_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculptRockTower_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptrocktower_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculpt_Normal.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculpt_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Vines_Normal_MarSara.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/vines_normal_marsara.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTowerFlat_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktowerflat_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTowerFlat_Nrm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktowerflat_nrm.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTower_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTower_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTower_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldRock/IceWorldRock_00.m3",
+    "family": "IceWorldRock",
+    "model": "IceWorldRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceworldrock",
+    "nativeId": "iceworldrock",
+    "slug": "iceworldrock",
+    "label": "IceWorldRock",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Emiss.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_emiss.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_normals.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reflection_BelShir.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reflection_belshir.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldRockLarge/IceWorldRockLarge_00.m3",
+    "family": "IceWorldRockLarge",
+    "model": "IceWorldRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceworldrocklarge",
+    "nativeId": "iceworldrocklarge",
+    "slug": "iceworldrocklarge",
+    "label": "IceWorldRockLarge",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Emiss.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_emiss.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_normals.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reflection_BelShir.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reflection_belshir.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocks/IceShearedRocks_00.m3",
+    "family": "IceShearedRocks",
+    "model": "IceShearedRocks_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceshearedrocks",
+    "nativeId": "iceshearedrocks",
+    "slug": "iceshearedrocks",
+    "label": "IceShearedRocks",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridgeShort_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridgeshort_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Emis.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_emis.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_1.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/MainIceReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocksLarge/IceShearedRocksLarge_00.m3",
+    "family": "IceShearedRocksLarge",
+    "model": "IceShearedRocksLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceshearedrockslarge",
+    "nativeId": "iceshearedrockslarge",
+    "slug": "iceshearedrockslarge",
+    "label": "IceShearedRocksLarge",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridgeShort_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridgeshort_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Emis.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_emis.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_1.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reflection_BelShir.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reflection_belshir.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocksUpright/IceShearedRocksUpright_00.m3",
+    "family": "IceShearedRocksUpright",
+    "model": "IceShearedRocksUpright_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceshearedrocksupright",
+    "nativeId": "iceshearedrocksupright",
+    "slug": "iceshearedrocksupright",
+    "label": "IceShearedRocksUpright",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridgeShort_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridgeshort_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Emis.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_emis.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_1.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/MainIceReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceRockGiant/IceRockGiant_00.m3",
+    "family": "IceRockGiant",
+    "model": "IceRockGiant_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "icerockgiant",
+    "nativeId": "icerockgiant",
+    "slug": "icerockgiant",
+    "label": "IceRockGiant",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/IceWorld_Rock.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_rock.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_RockNormal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_rocknormal.dds"
+      },
+      {
+        "reference": "Assets/Textures/MainIceReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/ice_rocktowermasks.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowermasks.dds"
+      },
+      {
+        "reference": "Assets/Textures/ice_rocktowerspec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowerspec.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceRockTower/IceRockTower_00.m3",
+    "family": "IceRockTower",
+    "model": "IceRockTower_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "icerocktower",
+    "nativeId": "icerocktower",
+    "slug": "icerocktower",
+    "label": "IceRockTower",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/IceWorld_Rock.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_rock.dds"
+      },
+      {
+        "reference": "Assets/Textures/MainIceReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower01AmbientOcclusion.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower02Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower02normals.dds"
+      },
+      {
+        "reference": "Assets/Textures/ice_rocktowermasks.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowermasks.dds"
+      },
+      {
+        "reference": "Assets/Textures/ice_rocktowerspec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowerspec.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/SnowRefinery_Rock/SnowRefinery_Rock_00.m3",
+    "family": "SnowRefinery_Rock",
+    "model": "SnowRefinery_Rock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "snowrefinery-rock",
+    "nativeId": "snowrefinery-rock",
+    "slug": "snowrefinery-rock",
+    "label": "SnowRefinery_Rock",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/SnowBase_ShortCliff_01_diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/SnowBase_ShortCliff_01_norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/SnowBase_ShortCliff_01_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_spec.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldAmbientCrystals/IceWorldAmbientCrystals_00.m3",
+    "family": "IceWorldAmbientCrystals",
+    "model": "IceWorldAmbientCrystals_00",
+    "category": "crystal",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceworldambientcrystals",
+    "nativeId": "iceworldambientcrystals",
+    "slug": "iceworldambientcrystals",
+    "label": "IceWorldAmbientCrystals",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Crystal_Enviorment_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystal_enviorment_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/EnergyRing4Blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/energyring4blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/ResourceCrystalDiff_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystaldiff_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/resourcecrystalspec_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystalspec_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/trev_Crystal_Norms.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/trev_crystal_norms.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRock/CharRock_00.m3",
+    "family": "CharRock",
+    "model": "CharRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charrock",
+    "nativeId": "charrock",
+    "slug": "charrock",
+    "label": "CharRock",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharRock_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRock_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockLarge/CharRockLarge_00.m3",
+    "family": "CharRockLarge",
+    "model": "CharRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charrocklarge",
+    "nativeId": "charrocklarge",
+    "slug": "charrocklarge",
+    "label": "CharRockLarge",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharRock_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRock_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRock_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockHuge/CharRockHuge_00.m3",
+    "family": "CharRockHuge",
+    "model": "CharRockHuge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charrockhuge",
+    "nativeId": "charrockhuge",
+    "slug": "charrockhuge",
+    "label": "CharRockHuge",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharRockLarge_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRockLarge_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRockLarge_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDuneRock/CharDuneRock_00.m3",
+    "family": "CharDuneRock",
+    "model": "CharDuneRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "chardunerock",
+    "nativeId": "chardunerock",
+    "slug": "chardunerock",
+    "label": "CharDuneRock",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Char2_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char2_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharDuneRock_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chardunerock_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower01AmbientOcclusion.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDuneRockLarge/CharDuneRockLarge_00.m3",
+    "family": "CharDuneRockLarge",
+    "model": "CharDuneRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "chardunerocklarge",
+    "nativeId": "chardunerocklarge",
+    "slug": "chardunerocklarge",
+    "label": "CharDuneRockLarge",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Char2_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char2_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharDuneRock_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chardunerock_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower01AmbientOcclusion.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockFormation/CharRockFormation_00.m3",
+    "family": "CharRockFormation",
+    "model": "CharRockFormation_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charrockformation",
+    "nativeId": "charrockformation",
+    "slug": "charrockformation",
+    "label": "CharRockFormation",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharRockFormation_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrockformation_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRockFormation_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrockformation_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/GreySmoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/greysmoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharCrystal/CharCrystal_00.m3",
+    "family": "CharCrystal",
+    "model": "CharCrystal_00",
+    "category": "crystal",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charcrystal",
+    "nativeId": "charcrystal",
+    "slug": "charcrystal",
+    "label": "CharCrystal",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Emissive_All.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_emissive_all.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/CrystalHuge_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystalhuge_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharCrystalLarge/CharCrystalLarge_00.m3",
+    "family": "CharCrystalLarge",
+    "model": "CharCrystalLarge_00",
+    "category": "crystal",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charcrystallarge",
+    "nativeId": "charcrystallarge",
+    "slug": "charcrystallarge",
+    "label": "CharCrystalLarge",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Emissive_All.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_emissive_all.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/CrystalHuge_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystalhuge_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDestructibleRockCover/CharDestructibleRockCover.m3",
+    "family": "CharDestructibleRockCover",
+    "model": "CharDestructibleRockCover",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "chardestructiblerockcover",
+    "nativeId": "chardestructiblerockcover",
+    "slug": "chardestructiblerockcover",
+    "label": "CharDestructibleRockCover",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Diffuse_Char.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse_char.dds"
+      },
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Normal_Char.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal_char.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebris2_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Rocks1_Brown2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocks1_brown2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zergling_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zergling_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zergling_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zergling_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/RedstoneRockSpires/RedstoneRockSpires_00.m3",
+    "family": "RedstoneRockSpires",
+    "model": "RedstoneRockSpires_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "redstonerockspires",
+    "nativeId": "redstonerockspires",
+    "slug": "redstonerockspires",
+    "label": "RedstoneRockSpires",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/RedStoneRockSpires_NormalRework.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_normalrework.dds"
+      },
+      {
+        "reference": "Assets/Textures/RedStoneRockSpires_SpecularRework.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_specularrework.dds"
+      },
+      {
+        "reference": "Assets/Textures/RedStoneRockSpires_diffuseRework.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_diffuserework.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CommandCenterWrecked/CommandCenterWrecked_00.m3",
+    "family": "CommandCenterWrecked",
+    "model": "CommandCenterWrecked_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "commandcenterwrecked",
+    "nativeId": "commandcenterwrecked",
+    "slug": "commandcenterwrecked",
+    "label": "CommandCenterWrecked",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CommandCenterWreckedShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwreckedshadow_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenterWrecked_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwrecked_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenterWrecked_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwrecked_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BarracksWrecked/BarracksWrecked_00.m3",
+    "family": "BarracksWrecked",
+    "model": "BarracksWrecked_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "barrackswrecked",
+    "nativeId": "barrackswrecked",
+    "slug": "barrackswrecked",
+    "label": "BarracksWrecked",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BarracksWreckedShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswreckedshadow_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BarracksWrecked_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswrecked_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BarracksWrecked_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswrecked_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BunkerWrecked/BunkerWrecked_00.m3",
+    "family": "BunkerWrecked",
+    "model": "BunkerWrecked_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "bunkerwrecked",
+    "nativeId": "bunkerwrecked",
+    "slug": "bunkerwrecked",
+    "label": "BunkerWrecked",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BunkerWreckedShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwreckedshadow_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BunkerWrecked_Difffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwrecked_difffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BunkerWrecked_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwrecked_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ColonistVehicleWrecked/ColonistVehicleWrecked_00.m3",
+    "family": "ColonistVehicleWrecked",
+    "model": "ColonistVehicleWrecked_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "colonistvehiclewrecked",
+    "nativeId": "colonistvehiclewrecked",
+    "slug": "colonistvehiclewrecked",
+    "label": "ColonistVehicleWrecked",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ColonistVehicle_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/colonistvehicle_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ColonistVehicle_normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/colonistvehicle_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Dust3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dust3.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/WreckedCargoTruck/WreckedCargoTruck_00.m3",
+    "family": "WreckedCargoTruck",
+    "model": "WreckedCargoTruck_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "wreckedcargotruck",
+    "nativeId": "wreckedcargotruck",
+    "slug": "wreckedcargotruck",
+    "label": "WreckedCargoTruck",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CargoTruck_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cargotruck_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CargoTruck_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cargotruck_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/WreckedCargoTruck_Diffuse_Red.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/wreckedcargotruck_diffuse_red.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_PowerCrystal/Shakuras_PowerCrystal.m3",
+    "family": "Shakuras_PowerCrystal",
+    "model": "Shakuras_PowerCrystal",
+    "category": "crystal",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "shakuras-powercrystal",
+    "nativeId": "shakuras-powercrystal",
+    "slug": "shakuras-powercrystal",
+    "label": "Shakuras_PowerCrystal",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/PowerCrystal_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/powercrystal_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/PowerCrystal_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/powercrystal_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shakuras_PowerCrystal_Dif.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_powercrystal_dif.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shakuras_PowerCrystal_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_powercrystal_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/Storm_GoldReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/storm_goldreflection.dds"
+      }
+    ]
+  },
+  {
+    "id": "mineralfieldopaque-00",
+    "nativeId": "mineralfieldopaque-00",
+    "slug": "mineralfieldopaque-00",
+    "label": "MineralFieldOpaque_00",
+    "biome": "any",
+    "category": "resource",
+    "family": "MineralFieldOpaque",
+    "model": "MineralFieldOpaque_00",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/MineralFieldOpaque/MineralFieldOpaque_00.m3",
+    "auxiliary": false,
+    "textures": [
+      {
+        "reference": "Assets/Textures/Crystal_Enviorment2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystal_enviorment2.dds"
+      },
+      {
+        "reference": "Assets/Textures/ResourceCrystalDiff_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystaldiff_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/resourcecrystalspec_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystalspec_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/trev_Crystal_Norms.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/trev_crystal_norms.dds"
+      }
+    ]
+  },
+  {
+    "id": "mineralfieldopaque-01",
+    "nativeId": "mineralfieldopaque-01",
+    "slug": "mineralfieldopaque-01",
+    "label": "MineralFieldOpaque_01",
+    "biome": "any",
+    "category": "resource",
+    "family": "MineralFieldOpaque",
+    "model": "MineralFieldOpaque_01",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/MineralFieldOpaque/MineralFieldOpaque_01.m3",
+    "auxiliary": false,
+    "textures": [
+      {
+        "reference": "Assets/Textures/Crystal_Enviorment2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystal_enviorment2.dds"
+      },
+      {
+        "reference": "Assets/Textures/ResourceCrystalDiff_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystaldiff_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/resourcecrystalspec_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystalspec_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/trev_Crystal_Norms.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/trev_crystal_norms.dds"
+      }
+    ]
+  },
+  {
+    "id": "vespenegeyser",
+    "nativeId": "vespenegeyser",
+    "slug": "vespenegeyser",
+    "label": "VespeneGeyser",
+    "biome": "any",
+    "category": "resource",
+    "family": "VespeneGeyser",
+    "model": "VespeneGeyser",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/VespeneGeyser/VespeneGeyser.m3",
+    "auxiliary": false,
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/GeyserSteam01_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geysersteam01_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Geyser_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Geyser_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy10.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy10.dds"
+      },
+      {
+        "reference": "Assets/Textures/geysersteam_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geysersteam_diffuse.dds"
+      }
+    ]
+  },
+  {
+    "id": "vespenegeyser-ex2",
+    "nativeId": "vespenegeyser-ex2",
+    "slug": "vespenegeyser-ex2",
+    "label": "VespeneGeyser_Ex2",
+    "biome": "any",
+    "category": "resource",
+    "family": "VespeneGeyser_Ex2",
+    "model": "VespeneGeyser_Ex2",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/VespeneGeyser_Ex2/VespeneGeyser_Ex2.m3",
+    "auxiliary": false,
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/Geyser_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Geyser_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeTile4.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/smoketile4.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy10.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy10.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke_Wispy11.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/smoke_wispy11.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke_Wispy9Alpha.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke_wispy9alpha.dds"
+      },
+      {
+        "reference": "Assets/Textures/geysersteam_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geysersteam_diffuse.dds"
+      }
+    ]
+  }
+]

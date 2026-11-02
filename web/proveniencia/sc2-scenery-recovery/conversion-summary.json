@@ -1,0 +1,49 @@
+{
+  "selected": 53,
+  "successful": 50,
+  "unique_glb_files": 50,
+  "runtime_bytes": 54768368,
+  "embedded_png_images": 137,
+  "animation_clips": 44,
+  "khronos_errors": 0,
+  "khronos_warnings": 0,
+  "categories": {
+    "cliff": 1,
+    "crystal": 4,
+    "geyser": 2,
+    "mineral": 2,
+    "rock": 34,
+    "ruins": 2,
+    "wreckage": 5
+  },
+  "biomes": {
+    "any": 10,
+    "desert": 12,
+    "frost": 8,
+    "verdant": 11,
+    "volcano": 9
+  },
+  "missing_texture_stems": {},
+  "conversion_gaps": [
+    {
+      "id": "havenrockarch",
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRockArch/HavenRockArch_00.m3",
+      "error": "Converter emitted no visible glTF mesh; native visibility or unsupported model features remain unresolved"
+    },
+    {
+      "id": "icerockgiant",
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceRockGiant/IceRockGiant_00.m3",
+      "error": "Converter emitted no visible glTF mesh; native visibility or unsupported model features remain unresolved"
+    },
+    {
+      "id": "redstonerockspires",
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/RedstoneRockSpires/RedstoneRockSpires_00.m3",
+      "error": "Converter emitted no visible glTF mesh; native visibility or unsupported model features remain unresolved"
+    }
+  ],
+  "limitations": [
+    "M3 particles/projectors/lights omitted (--no-fx); native shader fidelity is bounded by glTF PBR conversion.",
+    "Normalization size is a gameplay scale suggestion; source mesh proportions and texture colors are retained.",
+    "Mineral Stand C is the highest emitted resource-level clip; geysers keep uncovered bind pose."
+  ]
+}

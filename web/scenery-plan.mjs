@@ -1,0 +1,9 @@
+export function sceneryPlan({chunks,assets,nativeObjects=[],zones=[],randomAt,biomeAt,mobile=false}){
+ const cap=mobile?90:240,plan=[],center=chunks.reduce((s,c)=>({x:s.x+c.cx/chunks.length,z:s.z+c.cz/chunks.length}),{x:0,z:0}),ordered=[...chunks].sort((a,b)=>Math.hypot(a.cx-center.x,a.cz-center.z)-Math.hypot(b.cx-center.x,b.cz-center.z)||a.cx-b.cx||a.cz-b.cz);
+ const normalized=s=>s.toLowerCase().replace(/[^a-z]/g,''),eligible=assets.filter(a=>!isResource(a)),blocked=(x,z,size)=>zones.some(a=>Math.hypot(x-a.x,z-a.z)<(a.radius||8)+size*.25),visible=new Set(chunks.map(c=>c.cx+','+c.cz));
+ const aliases=eligible.map(a=>({asset:a,keys:[a.nativeId,...(a.aliases||[])].filter(Boolean).map(normalized)})).sort((a,b)=>Math.max(...b.keys.map(k=>k.length))-Math.max(...a.keys.map(k=>k.length)));
+ for(const n of nativeObjects){if(plan.length>=cap*.55)break;if(!visible.has(Math.round(n.x/42)+','+Math.round(n.z/42)))continue;const name=normalized(n.nativeType),match=aliases.find(a=>a.keys.some(k=>k.length>=5&&(name===k||name.startsWith(k))));if(!match||blocked(n.x,n.z,match.asset.size))continue;plan.push({id:match.asset.id,x:n.x,z:n.z,rotation:n.rotation||0,size:match.asset.size,native:true})}
+ for(const {cx,cz}of ordered)for(let i=0;i<14&&plan.length<cap;i++){const x=(cx+randomAt(cx*37+i,cz,81)-.5)*42,z=(cz+randomAt(cx,cz*31+i,82)-.5)*42;if(Math.abs(z)<10&&x>-50&&x<80)continue;const biome=biomeAt(x,z),choices=eligible.filter(a=>a.biome===biome||a.biome==='any');if(!choices.length)continue;const a=choices[Math.floor(randomAt(x,z,83)*choices.length)],size=a.size*(.75+randomAt(x,z,84)*.5);if(blocked(x,z,size)||plan.some(b=>Math.hypot(b.x-x,b.z-z)<(size+b.size)*.3))continue;plan.push({id:a.id,x,z,rotation:randomAt(x,z,85)*Math.PI*2,size,native:false})}
+ return plan;
+}
+export function isResource(a){return /mineral|geyser|vespene|resource/i.test(a.category||'')}

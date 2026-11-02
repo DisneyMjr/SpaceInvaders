@@ -1,0 +1,947 @@
+[
+  {
+    "id": "first-light",
+    "source": "traynor01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 58,
+    "objectiveCount": 3,
+    "nativeFoliage": 448
+  },
+  {
+    "id": "rust-line",
+    "source": "traynor02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 83,
+    "objectiveCount": 2,
+    "nativeFoliage": 358
+  },
+  {
+    "id": "long-watch",
+    "source": "traynor03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 269,
+    "objectiveCount": 2,
+    "nativeFoliage": 203
+  },
+  {
+    "id": "lost-voices",
+    "source": "thanson01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 308,
+    "objectiveCount": 4,
+    "nativeFoliage": 1819
+  },
+  {
+    "id": "prism-network",
+    "source": "thanson02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 178,
+    "objectiveCount": 2,
+    "nativeFoliage": 5
+  },
+  {
+    "id": "obsidian-heart",
+    "source": "ttychus01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 239,
+    "objectiveCount": 3,
+    "nativeFoliage": 127
+  },
+  {
+    "id": "liberty-advancedcommand",
+    "source": "advancedcommand",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 340,
+    "objectiveCount": 3,
+    "nativeFoliage": 403
+  },
+  {
+    "id": "liberty-economy",
+    "source": "economy",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 5,
+    "nativeFoliage": 57
+  },
+  {
+    "id": "liberty-protosscombat",
+    "source": "protosscombat",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 3,
+    "nativeFoliage": 302
+  },
+  {
+    "id": "liberty-protosspsionics",
+    "source": "protosspsionics",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 3,
+    "nativeFoliage": 60
+  },
+  {
+    "id": "liberty-rushdefense",
+    "source": "rushdefense",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 17,
+    "objectiveCount": 4,
+    "nativeFoliage": 155
+  },
+  {
+    "id": "liberty-tarcade",
+    "source": "tarcade",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 58,
+    "objectiveCount": 0,
+    "nativeFoliage": 4
+  },
+  {
+    "id": "liberty-terrancombat",
+    "source": "terrancombat",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 3,
+    "nativeFoliage": 451
+  },
+  {
+    "id": "liberty-terrancovertops",
+    "source": "terrancovertops",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 326,
+    "objectiveCount": 3,
+    "nativeFoliage": 201
+  },
+  {
+    "id": "liberty-thanson03a",
+    "source": "thanson03a",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 143,
+    "objectiveCount": 5,
+    "nativeFoliage": 2589
+  },
+  {
+    "id": "liberty-thanson03b",
+    "source": "thanson03b",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 389,
+    "objectiveCount": 1,
+    "nativeFoliage": 1699
+  },
+  {
+    "id": "liberty-thorner01",
+    "source": "thorner01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 322,
+    "objectiveCount": 5,
+    "nativeFoliage": 315
+  },
+  {
+    "id": "liberty-thorner02",
+    "source": "thorner02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 217,
+    "objectiveCount": 3,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-thorner03",
+    "source": "thorner03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 259,
+    "objectiveCount": 6,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-thorner04",
+    "source": "thorner04",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 343,
+    "objectiveCount": 4,
+    "nativeFoliage": 22
+  },
+  {
+    "id": "liberty-thorner05s",
+    "source": "thorner05s",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 273,
+    "objectiveCount": 6,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-tstory01",
+    "source": "tstory01",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 24,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-ttosh01",
+    "source": "ttosh01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 207,
+    "objectiveCount": 3,
+    "nativeFoliage": 118
+  },
+  {
+    "id": "liberty-ttosh02",
+    "source": "ttosh02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 195,
+    "objectiveCount": 3,
+    "nativeFoliage": 1069
+  },
+  {
+    "id": "liberty-ttosh03a",
+    "source": "ttosh03a",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 412,
+    "objectiveCount": 4,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-ttosh03b",
+    "source": "ttosh03b",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 162,
+    "objectiveCount": 5,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-ttutorial01",
+    "source": "ttutorial01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 1,
+    "objectiveCount": 21,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-ttychus02",
+    "source": "ttychus02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 240,
+    "objectiveCount": 4,
+    "nativeFoliage": 118
+  },
+  {
+    "id": "liberty-ttychus03",
+    "source": "ttychus03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 266,
+    "objectiveCount": 3,
+    "nativeFoliage": 122
+  },
+  {
+    "id": "liberty-ttychus04",
+    "source": "ttychus04",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 247,
+    "objectiveCount": 3,
+    "nativeFoliage": 255
+  },
+  {
+    "id": "liberty-ttychus05",
+    "source": "ttychus05",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 152,
+    "objectiveCount": 3,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-tvalerian01",
+    "source": "tvalerian01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 373,
+    "objectiveCount": 2,
+    "nativeFoliage": 87
+  },
+  {
+    "id": "liberty-tvalerian02a",
+    "source": "tvalerian02a",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 603,
+    "objectiveCount": 2,
+    "nativeFoliage": 6
+  },
+  {
+    "id": "liberty-tvalerian02b",
+    "source": "tvalerian02b",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 422,
+    "objectiveCount": 2,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-tvalerian03",
+    "source": "tvalerian03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 493,
+    "objectiveCount": 1,
+    "nativeFoliage": 2
+  },
+  {
+    "id": "liberty-tzeratul01",
+    "source": "tzeratul01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 257,
+    "objectiveCount": 4,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "liberty-tzeratul02",
+    "source": "tzeratul02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 136,
+    "objectiveCount": 3,
+    "nativeFoliage": 460
+  },
+  {
+    "id": "liberty-tzeratul03",
+    "source": "tzeratul03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 440,
+    "objectiveCount": 4,
+    "nativeFoliage": 535
+  },
+  {
+    "id": "liberty-tzeratul04",
+    "source": "tzeratul04",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 94,
+    "objectiveCount": 3,
+    "nativeFoliage": 59
+  },
+  {
+    "id": "liberty-zergcombat",
+    "source": "zergcombat",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 3,
+    "nativeFoliage": 149
+  },
+  {
+    "id": "liberty-zerginfestation",
+    "source": "zerginfestation",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 216,
+    "objectiveCount": 3,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-voidprologue01",
+    "source": "voidprologue01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 724,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-voidprologue02",
+    "source": "voidprologue02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 243,
+    "objectiveCount": 0,
+    "nativeFoliage": 340
+  },
+  {
+    "id": "swarm-voidprologue03",
+    "source": "voidprologue03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 132,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-voidprologuestory",
+    "source": "voidprologuestory",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zchar01",
+    "source": "zchar01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 389,
+    "objectiveCount": 0,
+    "nativeFoliage": 50
+  },
+  {
+    "id": "swarm-zchar02",
+    "source": "zchar02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 232,
+    "objectiveCount": 0,
+    "nativeFoliage": 42
+  },
+  {
+    "id": "swarm-zchar03",
+    "source": "zchar03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 504,
+    "objectiveCount": 0,
+    "nativeFoliage": 6
+  },
+  {
+    "id": "swarm-zevolutionbaneling",
+    "source": "zevolutionbaneling",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 159,
+    "objectiveCount": 0,
+    "nativeFoliage": 171
+  },
+  {
+    "id": "swarm-zevolutionhydralisk",
+    "source": "zevolutionhydralisk",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 62,
+    "objectiveCount": 0,
+    "nativeFoliage": 1218
+  },
+  {
+    "id": "swarm-zevolutionmutalisk",
+    "source": "zevolutionmutalisk",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 52,
+    "objectiveCount": 0,
+    "nativeFoliage": 821
+  },
+  {
+    "id": "swarm-zevolutionroach",
+    "source": "zevolutionroach",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 53,
+    "objectiveCount": 0,
+    "nativeFoliage": 822
+  },
+  {
+    "id": "swarm-zevolutionswarmhost",
+    "source": "zevolutionswarmhost",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 69,
+    "objectiveCount": 0,
+    "nativeFoliage": 98
+  },
+  {
+    "id": "swarm-zevolutionultralisk",
+    "source": "zevolutionultralisk",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 140,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zevolutionzergling",
+    "source": "zevolutionzergling",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 82,
+    "objectiveCount": 0,
+    "nativeFoliage": 633
+  },
+  {
+    "id": "swarm-zexpedition01",
+    "source": "zexpedition01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 214,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zexpedition02",
+    "source": "zexpedition02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 240,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zexpedition03",
+    "source": "zexpedition03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 129,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zhybrid01",
+    "source": "zhybrid01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 225,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zhybrid02",
+    "source": "zhybrid02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 251,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zhybrid03",
+    "source": "zhybrid03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 235,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zkorhal01",
+    "source": "zkorhal01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 228,
+    "objectiveCount": 0,
+    "nativeFoliage": 72
+  },
+  {
+    "id": "swarm-zkorhal02",
+    "source": "zkorhal02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 382,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zkorhal03",
+    "source": "zkorhal03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 404,
+    "objectiveCount": 0,
+    "nativeFoliage": 27
+  },
+  {
+    "id": "swarm-zlab01",
+    "source": "zlab01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 147,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zlab02",
+    "source": "zlab02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 168,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zlab03",
+    "source": "zlab03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 213,
+    "objectiveCount": 0,
+    "nativeFoliage": 109
+  },
+  {
+    "id": "swarm-zspace01",
+    "source": "zspace01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 12,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zspace02",
+    "source": "zspace02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 418,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zstorychar",
+    "source": "zstorychar",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zstoryexpedition",
+    "source": "zstoryexpedition",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zstoryhybrid",
+    "source": "zstoryhybrid",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zstorykorhal",
+    "source": "zstorykorhal",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zstorylab",
+    "source": "zstorylab",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zstoryspace",
+    "source": "zstoryspace",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zstoryzerus",
+    "source": "zstoryzerus",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "swarm-zzerus01",
+    "source": "zzerus01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 141,
+    "objectiveCount": 0,
+    "nativeFoliage": 544
+  },
+  {
+    "id": "swarm-zzerus02",
+    "source": "zzerus02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 30,
+    "objectiveCount": 0,
+    "nativeFoliage": 266
+  },
+  {
+    "id": "swarm-zzerus03",
+    "source": "zzerus03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 73,
+    "objectiveCount": 0,
+    "nativeFoliage": 1200
+  },
+  {
+    "id": "void-epiloguestory01",
+    "source": "epiloguestory01",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-paiur01",
+    "source": "paiur01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 753,
+    "objectiveCount": 0,
+    "nativeFoliage": 187
+  },
+  {
+    "id": "void-paiur02",
+    "source": "paiur02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 199,
+    "objectiveCount": 0,
+    "nativeFoliage": 259
+  },
+  {
+    "id": "void-paiur03",
+    "source": "paiur03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 291,
+    "objectiveCount": 0,
+    "nativeFoliage": 267
+  },
+  {
+    "id": "void-paiur04",
+    "source": "paiur04",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 536,
+    "objectiveCount": 0,
+    "nativeFoliage": 128
+  },
+  {
+    "id": "void-paiur05",
+    "source": "paiur05",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 690,
+    "objectiveCount": 0,
+    "nativeFoliage": 210
+  },
+  {
+    "id": "void-paiur06",
+    "source": "paiur06",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 378,
+    "objectiveCount": 0,
+    "nativeFoliage": 284
+  },
+  {
+    "id": "void-pcampaigntest",
+    "source": "pcampaigntest",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 51,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-pkorhal01",
+    "source": "pkorhal01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 194,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-pkorhal02",
+    "source": "pkorhal02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 405,
+    "objectiveCount": 0,
+    "nativeFoliage": 24
+  },
+  {
+    "id": "void-pmoebius01",
+    "source": "pmoebius01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 291,
+    "objectiveCount": 0,
+    "nativeFoliage": 4
+  },
+  {
+    "id": "void-ppurifier01",
+    "source": "ppurifier01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 223,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-ppurifier02",
+    "source": "ppurifier02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 589,
+    "objectiveCount": 0,
+    "nativeFoliage": 683
+  },
+  {
+    "id": "void-ppurifier03",
+    "source": "ppurifier03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 963,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-pshakuras01",
+    "source": "pshakuras01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 368,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-pshakuras02",
+    "source": "pshakuras02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 63,
+    "objectiveCount": 0,
+    "nativeFoliage": 237
+  },
+  {
+    "id": "void-pstory01",
+    "source": "pstory01",
+    "nativeTerrain": false,
+    "decodeError": null,
+    "mappedObjects": 0,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-ptaldarim01",
+    "source": "ptaldarim01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 213,
+    "objectiveCount": 0,
+    "nativeFoliage": 385
+  },
+  {
+    "id": "void-ptaldarim02",
+    "source": "ptaldarim02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 228,
+    "objectiveCount": 0,
+    "nativeFoliage": 758
+  },
+  {
+    "id": "void-pulnar01",
+    "source": "pulnar01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 331,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-pulnar02",
+    "source": "pulnar02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 148,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-pulnar03",
+    "source": "pulnar03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 346,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-sc2epilogue01",
+    "source": "sc2epilogue01",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 739,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-sc2epilogue02",
+    "source": "sc2epilogue02",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 213,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-sc2epilogue03",
+    "source": "sc2epilogue03",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 239,
+    "objectiveCount": 0,
+    "nativeFoliage": 0
+  },
+  {
+    "id": "void-sc2tutorial",
+    "source": "sc2tutorial",
+    "nativeTerrain": true,
+    "decodeError": null,
+    "mappedObjects": 1,
+    "objectiveCount": 22,
+    "nativeFoliage": 25
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Terran/MarineWeaponLaunch/MarineWeaponLaunch.m3": [
+    "assets/textures/fireball_1hot.dds",
+    "assets/textures/glow_yellow1.dds"
+  ],
+  "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Terran/MarineWeaponImpact/MarineWeaponImpact.m3": [
+    "assets/textures/smokelit.dds",
+    "assets/textures/sparks4.dds"
+  ],
+  "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Protoss/StalkerMissileImpact/StalkerMissileImpact.m3": [
+    "assets/textures/glow_blue3.dds",
+    "assets/textures/glow_grey1.dds",
+    "assets/textures/heatwave1.dds",
+    "assets/textures/lightcone5.dds",
+    "assets/textures/lightningzap4.dds",
+    "assets/textures/shockwave_fx_3b.dds",
+    "assets/textures/smokewispy01c.dds"
+  ],
+  "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Zerg/RoachWeaponImpact/RoachWeaponImpact.m3": [
+    "assets/textures/animgoosplat1.dds",
+    "assets/textures/animgoosplat1_yellow.dds",
+    "assets/textures/gooball_1.dds",
+    "assets/textures/gooball_1_yellow.dds"
+  ]
+}

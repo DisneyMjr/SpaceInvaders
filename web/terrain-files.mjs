@@ -1,0 +1,1 @@
+export const terrainFiles=['./terrain.mjs','./terrain-math.mjs','./terrain-files.mjs',...['verdant','desert','frost','volcano'].flatMap(n=>['./assets/terrain/'+n+'.png','./assets/terrain/'+n+'-normal.png']),'./assets/terrain/volcano-emissive.png'];

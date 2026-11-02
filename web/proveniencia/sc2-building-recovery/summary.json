@@ -1,0 +1,29 @@
+{
+  "build": "98310",
+  "localOnly": true,
+  "installationWrites": false,
+  "semanticCoreEntries": 53,
+  "classicVariants": 2,
+  "uniqueSelectedModels": 52,
+  "referencedSelectedTextures": 329,
+  "recoveredUniqueFiles": 396,
+  "recoveredBytes": 254289398,
+  "byFormat": {
+    "m3": {
+      "files": 53,
+      "bytes": 18726528
+    },
+    "dds": {
+      "files": 339,
+      "bytes": 231327460
+    },
+    "xml": {
+      "files": 4,
+      "bytes": 4235410
+    }
+  },
+  "failures": [],
+  "catalogFiles": 1955,
+  "catalogBaseOrVariantNames": 866,
+  "missingSelectedSources": []
+}

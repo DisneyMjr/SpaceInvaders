@@ -1,0 +1,241 @@
+{
+  "source_build": "5.0.17.98310",
+  "models_of_origin": "ground material textures, not extracted map geometry",
+  "runtime_format": "RGB PNG, opaque, 1024x1024, identical boundary pixels; repeating UVs",
+  "normal_convention": "tangent-space RGB (OpenGL Y); regenerated from customized scalar relief",
+  "entries": [
+    {
+      "biome": "verdant",
+      "design": "Bosque de Éter: source mineral grain reworked with a teal moss/soil blend, periodic humidity patches and restrained organic speckles.",
+      "relationship": "derivative of authorized local SC2 textures, recomposed with new procedural design",
+      "sources": [
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/belshirex2_1.dds",
+          "bytes": 1398256,
+          "sha256": "6f50d2d7f01f8f1fc1b9e5e0d6e250194cc5aac6104df71c73c6d9688e750b4f",
+          "use": "albedo luminance input"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/belshirex2_1normal.dds",
+          "bytes": 1398260,
+          "sha256": "0db52d94a981abb88406ca0ce9dd7a26f643435da2d40264420bfb86ac7fafe7",
+          "use": "extracted reference; output normals regenerated from the customized relief"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/belshirex2_2.dds",
+          "bytes": 1398256,
+          "sha256": "01d31e64cff8c84a53e56b1b6b0917e7d60df88e6b64df1a7238bf66816dd982",
+          "use": "albedo luminance input"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/belshirex2_2normal.dds",
+          "bytes": 1398260,
+          "sha256": "d7941276cb0f674343a9045f853402a7bc00dde73e37346b25a4514509cb0005",
+          "use": "extracted reference; output normals regenerated from the customized relief"
+        }
+      ],
+      "outputs": [
+        {
+          "path": "terrain/verdant.png",
+          "bytes": 1325655,
+          "sha256": "56650023c68632cd6b3e9f287f6c3ff014fb5382adf85464be10029458fe2328",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "RGB",
+          "seam_edge_max_difference": 0
+        },
+        {
+          "path": "terrain/verdant-normal.png",
+          "bytes": 894483,
+          "sha256": "8cebf743b5f0eed1eacfb73fcdcff43fdb020a83fb1a71dbc4953c042c26c992",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "indexed RGB (256-color, no alpha)",
+          "seam_edge_max_difference": 0
+        }
+      ]
+    },
+    {
+      "biome": "desert",
+      "design": "Dunas de Ferrugem: ochre source sand/rock luminance, newly generated periodic wind ridges and dark erosion deposits.",
+      "relationship": "derivative of authorized local SC2 textures, recomposed with new procedural design",
+      "sources": [
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/marsarasandex2.dds",
+          "bytes": 1398260,
+          "sha256": "502623aea4b68da20ba7137e3e3696726dbba4bcb1b94c767750f480ba36bf37",
+          "use": "albedo luminance input"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/marsarasandnormalex2.dds",
+          "bytes": 1398256,
+          "sha256": "01c6ae551dbd0143b51b80fb28c8cc756bef478319221784006d32dfe99d5918",
+          "use": "extracted reference; output normals regenerated from the customized relief"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/marsararockyex2.dds",
+          "bytes": 1398260,
+          "sha256": "f4dc79150601434c2d2ac40263a9e35b918a7f64e3bfca480948533798a65659",
+          "use": "albedo luminance input"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/marsararockynormalex2.dds",
+          "bytes": 1398256,
+          "sha256": "9269c206b60d7d37d172c0d033e771216634cb567f3aa8c2ae828f7cbbe4ac5c",
+          "use": "extracted reference; output normals regenerated from the customized relief"
+        }
+      ],
+      "outputs": [
+        {
+          "path": "terrain/desert.png",
+          "bytes": 1635044,
+          "sha256": "85a434cc7101407250473975bf0ae3e4d1f4ff1f72cd7c1739e6571d789499bc",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "RGB",
+          "seam_edge_max_difference": 0
+        },
+        {
+          "path": "terrain/desert-normal.png",
+          "bytes": 861532,
+          "sha256": "d59a33d793258b4b2436c8bc711f8113c303e7e04d4e2e67db60f20a802bd70a",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "indexed RGB (256-color, no alpha)",
+          "seam_edge_max_difference": 0
+        }
+      ]
+    },
+    {
+      "biome": "frost",
+      "design": "Planalto Boreal: source snow and ice details recomposed in cyan/ivory with new periodic fractured-ice zones.",
+      "relationship": "derivative of authorized local SC2 textures, recomposed with new procedural design",
+      "sources": [
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/iceworld_1.dds",
+          "bytes": 1398256,
+          "sha256": "947bd772e5dd1851eddafeb50085280c772269c7db3dc3a6551f90b8521f2325",
+          "use": "albedo luminance input"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/iceworld_1normal.dds",
+          "bytes": 1398260,
+          "sha256": "a1458ac6bbe937dc93ab2bd4e0a0acc37f9cb629332c5b94c44d42653f6eff9c",
+          "use": "extracted reference; output normals regenerated from the customized relief"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/iceworld_2.dds",
+          "bytes": 1398256,
+          "sha256": "6974cc9fe946f7837729b462d1738912d5f10dda2a15914b96c583cc063cf654",
+          "use": "albedo luminance input"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/iceworld_2normal.dds",
+          "bytes": 1398260,
+          "sha256": "eb5908f7030c1d1346f4a8e57751bd5816aee22dcedc04187c14311291c44972",
+          "use": "extracted reference; output normals regenerated from the customized relief"
+        }
+      ],
+      "outputs": [
+        {
+          "path": "terrain/frost.png",
+          "bytes": 1345214,
+          "sha256": "54df7d2cfcb2bf2c5994ece094e0408209057d212b63da1e6f08ef370f7387eb",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "RGB",
+          "seam_edge_max_difference": 0
+        },
+        {
+          "path": "terrain/frost-normal.png",
+          "bytes": 590357,
+          "sha256": "b935e5fa861d288f12364b7f0013b09bbe299011dd5151cc5593e9fdefa30263",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "indexed RGB (256-color, no alpha)",
+          "seam_edge_max_difference": 0
+        }
+      ]
+    },
+    {
+      "biome": "volcano",
+      "design": "Caldeira Obsidiana: source volcanic grain darkened into charcoal basalt, with new toroidal Voronoi fractures and amber emissive veins.",
+      "relationship": "derivative of authorized local SC2 textures, recomposed with new procedural design",
+      "sources": [
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/chardunes_1.dds",
+          "bytes": 1398256,
+          "sha256": "370b80ee088cacf8d4f9ca539af25d0a2d7ddae8f5da82a7dcacbd156d1d6b41",
+          "use": "albedo luminance input"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/chardunes_1normal.dds",
+          "bytes": 1398260,
+          "sha256": "5db190114be0edfdaa1d383dc5c325e62ea4ec8b82e2aaffe6841e48ddc9a602",
+          "use": "extracted reference; output normals regenerated from the customized relief"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/chardunes_2.dds",
+          "bytes": 1398256,
+          "sha256": "0f4551812cb179559b4d45d5c387bf76f52c7f1a1c9898ffb61edf2f0d95fb89",
+          "use": "albedo luminance input"
+        },
+        {
+          "path": "mods/liberty.sc2mod/base.sc2assets/assets/textures/chardunes_2normal.dds",
+          "bytes": 1398260,
+          "sha256": "4209e8b64464397ef1cfc14426abdbb9ae131b0b52a98e10414c8ada13fd2255",
+          "use": "extracted reference; output normals regenerated from the customized relief"
+        }
+      ],
+      "outputs": [
+        {
+          "path": "terrain/volcano.png",
+          "bytes": 1160101,
+          "sha256": "7246e8620840eb461b3b6c78bec73ce71bf7989fb824ee2adf8ee34de8319971",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "RGB",
+          "seam_edge_max_difference": 0
+        },
+        {
+          "path": "terrain/volcano-normal.png",
+          "bytes": 790350,
+          "sha256": "82b2d9ded0c6e70997a47a58c7b782a7c2d7b7d01f7eb5acd84d3f25806a6e38",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "indexed RGB (256-color, no alpha)",
+          "seam_edge_max_difference": 0
+        },
+        {
+          "path": "terrain/volcano-emissive.png",
+          "bytes": 94605,
+          "sha256": "6f3598b597b80128aaa679877d1a58ddd3ebb23fd748595b1484361104cdf035",
+          "resolution": [
+            1024,
+            1024
+          ],
+          "mode": "RGB",
+          "seam_edge_max_difference": 0
+        }
+      ]
+    }
+  ],
+  "runtime_bytes": 8697341,
+  "normal_storage": "256-color RGB PNG palette for smaller download; browser decodes RGB normals"
+}

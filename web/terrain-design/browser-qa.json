@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "biomes": [
+    {
+      "map": "verdant",
+      "units": 12,
+      "saved": true
+    },
+    {
+      "map": "desert",
+      "units": 12,
+      "saved": true
+    },
+    {
+      "map": "frost",
+      "units": 12,
+      "saved": true
+    },
+    {
+      "map": "volcano",
+      "units": 12,
+      "saved": true
+    }
+  ],
+  "offlineMobileStartup": true,
+  "pageErrors": [],
+  "failedRequests": [],
+  "consoleErrors": []
+}

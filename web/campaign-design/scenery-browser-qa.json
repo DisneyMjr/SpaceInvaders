@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "maps": [
+    {
+      "map": "verdant",
+      "count": 240,
+      "batches": 32,
+      "species": 26,
+      "nativeResources": 16
+    },
+    {
+      "map": "desert",
+      "count": 240,
+      "batches": 44,
+      "species": 35,
+      "nativeResources": 16
+    },
+    {
+      "map": "frost",
+      "count": 240,
+      "batches": 34,
+      "species": 26,
+      "nativeResources": 16
+    },
+    {
+      "map": "volcano",
+      "count": 240,
+      "batches": 40,
+      "species": 33,
+      "nativeResources": 16
+    }
+  ],
+  "allGalleryAssets": 50,
+  "nativeCampaignPlacements": 33,
+  "deterministicSave": true,
+  "offlineMobile": true,
+  "pageErrors": []
+}

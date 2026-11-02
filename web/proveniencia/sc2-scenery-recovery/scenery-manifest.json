@@ -1,0 +1,6633 @@
+[
+  {
+    "id": "mineralfieldopaque-00",
+    "nativeId": "mineralfieldopaque-00",
+    "slug": "mineralfieldopaque-00",
+    "label": "MineralFieldOpaque_00",
+    "biome": "any",
+    "category": "resource",
+    "family": "MineralFieldOpaque",
+    "model": "MineralFieldOpaque_00",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/MineralFieldOpaque/MineralFieldOpaque_00.m3",
+    "auxiliary": false,
+    "textures": [
+      {
+        "reference": "Assets/Textures/Crystal_Enviorment2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystal_enviorment2.dds"
+      },
+      {
+        "reference": "Assets/Textures/ResourceCrystalDiff_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystaldiff_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/resourcecrystalspec_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystalspec_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/trev_Crystal_Norms.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/trev_crystal_norms.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\mineralfieldopaque-00.glb",
+    "bytes": 782216,
+    "sha256": "c3f76fec6feb92158ebab182e668d048eb8104a0ad8a016f49685b764e27dade",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [
+      {
+        "name": "Stand C_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 3.3329999446868896
+      },
+      {
+        "name": "Stand C 01_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 3.3329999446868896
+      },
+      {
+        "name": "Stand B_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 3.3329999446868896
+      },
+      {
+        "name": "Stand B 01_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 3.3329999446868896
+      },
+      {
+        "name": "Stand A_full",
+        "channels": 12,
+        "samplers": 12,
+        "duration": 3.3329999446868896
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\mineralfieldopaque-00.provenance.json",
+    "runtime": {
+      "id": "mineralfieldopaque-00",
+      "nativeId": "mineralfieldopaque00",
+      "label": "MineralFieldOpaque_00",
+      "category": "mineral",
+      "sourceCategory": "resource",
+      "biome": "any",
+      "aliases": [
+        "MineralFieldOpaque",
+        "MineralFieldOpaque_00",
+        "mineralfieldopaque-00",
+        "mineralfieldopaque00"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/MineralFieldOpaque/MineralFieldOpaque_00.m3",
+      "path": "./assets/scenery/mineralfieldopaque-00.glb",
+      "size": 3.2,
+      "boundsSize": [
+        2.147622227668762,
+        2.068010926246643,
+        1.186376929283142
+      ],
+      "bounds": {
+        "min": [
+          -1.0758689641952515,
+          -0.33321142196655273,
+          -0.6801708340644836
+        ],
+        "max": [
+          1.0717532634735107,
+          1.7347995042800903,
+          0.5062060952186584
+        ]
+      },
+      "animations": [
+        "Stand C_full",
+        "Stand C 01_full",
+        "Stand B_full",
+        "Stand B 01_full",
+        "Stand A_full"
+      ],
+      "stateAnimation": "Stand C_full",
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 14
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 782216,
+      "auxiliary": false
+    }
+  },
+  {
+    "id": "mineralfieldopaque-01",
+    "nativeId": "mineralfieldopaque-01",
+    "slug": "mineralfieldopaque-01",
+    "label": "MineralFieldOpaque_01",
+    "biome": "any",
+    "category": "resource",
+    "family": "MineralFieldOpaque",
+    "model": "MineralFieldOpaque_01",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/MineralFieldOpaque/MineralFieldOpaque_01.m3",
+    "auxiliary": false,
+    "textures": [
+      {
+        "reference": "Assets/Textures/Crystal_Enviorment2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystal_enviorment2.dds"
+      },
+      {
+        "reference": "Assets/Textures/ResourceCrystalDiff_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystaldiff_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/resourcecrystalspec_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystalspec_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/trev_Crystal_Norms.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/trev_crystal_norms.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\mineralfieldopaque-01.glb",
+    "bytes": 781748,
+    "sha256": "42cf2165225dde800ea586c19c56b0c1c420d192d0e3362df7bfd138fe082559",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [
+      {
+        "name": "Stand C_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 3.3329999446868896
+      },
+      {
+        "name": "Stand C 01_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 3.3329999446868896
+      },
+      {
+        "name": "Stand B_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 3.3329999446868896
+      },
+      {
+        "name": "Stand B 01_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 3.3329999446868896
+      },
+      {
+        "name": "Stand A_full",
+        "channels": 11,
+        "samplers": 11,
+        "duration": 3.3329999446868896
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\mineralfieldopaque-01.provenance.json",
+    "runtime": {
+      "id": "mineralfieldopaque-01",
+      "nativeId": "mineralfieldopaque01",
+      "label": "MineralFieldOpaque_01",
+      "category": "mineral",
+      "sourceCategory": "resource",
+      "biome": "any",
+      "aliases": [
+        "MineralFieldOpaque",
+        "MineralFieldOpaque_01",
+        "mineralfieldopaque-01",
+        "mineralfieldopaque01"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/MineralFieldOpaque/MineralFieldOpaque_01.m3",
+      "path": "./assets/scenery/mineralfieldopaque-01.glb",
+      "size": 3.2,
+      "boundsSize": [
+        1.9856016635894775,
+        1.8975762724876404,
+        1.4619910717010498
+      ],
+      "bounds": {
+        "min": [
+          -0.9309899806976318,
+          -0.33321112394332886,
+          -0.7927216291427612
+        ],
+        "max": [
+          1.0546116828918457,
+          1.5643651485443115,
+          0.6692694425582886
+        ]
+      },
+      "animations": [
+        "Stand C_full",
+        "Stand C 01_full",
+        "Stand B_full",
+        "Stand B 01_full",
+        "Stand A_full"
+      ],
+      "stateAnimation": "Stand C_full",
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 14
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 781748,
+      "auxiliary": false
+    }
+  },
+  {
+    "id": "vespenegeyser",
+    "nativeId": "vespenegeyser",
+    "slug": "vespenegeyser",
+    "label": "VespeneGeyser",
+    "biome": "any",
+    "category": "resource",
+    "family": "VespeneGeyser",
+    "model": "VespeneGeyser",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/VespeneGeyser/VespeneGeyser.m3",
+    "auxiliary": false,
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/GeyserSteam01_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geysersteam01_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Geyser_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Geyser_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy10.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy10.dds"
+      },
+      {
+        "reference": "Assets/Textures/geysersteam_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geysersteam_diffuse.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\vespenegeyser.glb",
+    "bytes": 786344,
+    "sha256": "3eecfe48dd08d367a1ebb3abe3f53da5990af56043025329260996a0228f10a4",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [
+      {
+        "name": "Cover Start_full",
+        "channels": 28,
+        "samplers": 28,
+        "duration": 12
+      },
+      {
+        "name": "Cover_full",
+        "channels": 28,
+        "samplers": 28,
+        "duration": 3.3320000171661377
+      },
+      {
+        "name": "Cover End_full",
+        "channels": 28,
+        "samplers": 28,
+        "duration": 1
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_1",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": null,
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1
+        },
+        "normalTexture": {
+          "index": 2
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\vespenegeyser.provenance.json",
+    "runtime": {
+      "id": "vespenegeyser",
+      "nativeId": "vespenegeyser",
+      "label": "VespeneGeyser",
+      "category": "geyser",
+      "sourceCategory": "resource",
+      "biome": "any",
+      "aliases": [
+        "VespeneGeyser",
+        "vespenegeyser"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/VespeneGeyser/VespeneGeyser.m3",
+      "path": "./assets/scenery/vespenegeyser.glb",
+      "size": 5.0,
+      "boundsSize": [
+        2.832480549812317,
+        1.328269101679325,
+        2.803359031677246
+      ],
+      "bounds": {
+        "min": [
+          -1.4184859991073608,
+          -0.08197364956140518,
+          -1.38511323928833
+        ],
+        "max": [
+          1.413994550704956,
+          1.24629545211792,
+          1.418245792388916
+        ]
+      },
+      "animations": [
+        "Cover Start_full",
+        "Cover_full",
+        "Cover End_full"
+      ],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 40
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "bytes": 786344,
+      "auxiliary": false
+    }
+  },
+  {
+    "id": "vespenegeyser-ex2",
+    "nativeId": "vespenegeyser-ex2",
+    "slug": "vespenegeyser-ex2",
+    "label": "VespeneGeyser_Ex2",
+    "biome": "any",
+    "category": "resource",
+    "family": "VespeneGeyser_Ex2",
+    "model": "VespeneGeyser_Ex2",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/VespeneGeyser_Ex2/VespeneGeyser_Ex2.m3",
+    "auxiliary": false,
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/Geyser_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Geyser_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geyser_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeTile4.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/smoketile4.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy10.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy10.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke_Wispy11.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/smoke_wispy11.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke_Wispy9Alpha.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke_wispy9alpha.dds"
+      },
+      {
+        "reference": "Assets/Textures/geysersteam_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/geysersteam_diffuse.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\vespenegeyser-ex2.glb",
+    "bytes": 790264,
+    "sha256": "0821c030f7812f1737a0f92b5167306193703407cec6d876c1028de3995137a5",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [
+      {
+        "name": "Cover Start_full",
+        "channels": 28,
+        "samplers": 28,
+        "duration": 12
+      },
+      {
+        "name": "Cover_full",
+        "channels": 28,
+        "samplers": 28,
+        "duration": 1
+      },
+      {
+        "name": "Cover End_full",
+        "channels": 28,
+        "samplers": 28,
+        "duration": 1
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_1",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": null,
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_3",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1
+        },
+        "normalTexture": {
+          "index": 2
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\vespenegeyser-ex2.provenance.json",
+    "runtime": {
+      "id": "vespenegeyser-ex2",
+      "nativeId": "vespenegeyserex2",
+      "label": "VespeneGeyser_Ex2",
+      "category": "geyser",
+      "sourceCategory": "resource",
+      "biome": "any",
+      "aliases": [
+        "VespeneGeyser_Ex2",
+        "vespenegeyser-ex2",
+        "vespenegeyserex2"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Resources/VespeneGeyser_Ex2/VespeneGeyser_Ex2.m3",
+      "path": "./assets/scenery/vespenegeyser-ex2.glb",
+      "size": 5.0,
+      "boundsSize": [
+        2.832480549812317,
+        1.328269101679325,
+        2.803359031677246
+      ],
+      "bounds": {
+        "min": [
+          -1.4184859991073608,
+          -0.08197364956140518,
+          -1.38511323928833
+        ],
+        "max": [
+          1.413994550704956,
+          1.24629545211792,
+          1.418245792388916
+        ]
+      },
+      "animations": [
+        "Cover Start_full",
+        "Cover_full",
+        "Cover End_full"
+      ],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 36
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "bytes": 790264,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaRock/AgriaRock_00.m3",
+    "family": "AgriaRock",
+    "model": "AgriaRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "agriarock",
+    "nativeId": "agriarock",
+    "slug": "agriarock",
+    "label": "AgriaRock",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AgriaRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/AgriaRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\agriarock.glb",
+    "bytes": 254816,
+    "sha256": "23d5606893fa139453d8db8f398dcc56ba2efc643584faf44f09e4f2f288dc0c",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\agriarock.provenance.json",
+    "runtime": {
+      "id": "agriarock",
+      "nativeId": "agriarock",
+      "label": "AgriaRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "verdant",
+      "aliases": [
+        "AgriaRock",
+        "AgriaRock_00",
+        "agriarock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaRock/AgriaRock_00.m3",
+      "path": "./assets/scenery/agriarock.glb",
+      "size": 2.5,
+      "boundsSize": [
+        0.25071335583925247,
+        0.5721865966916084,
+        0.24071871489286423
+      ],
+      "bounds": {
+        "min": [
+          -0.1154218539595604,
+          -0.5069954991340637,
+          -0.11170848459005356
+        ],
+        "max": [
+          0.13529150187969208,
+          0.06519109755754471,
+          0.12901023030281067
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 254816,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaRockLarge/AgriaRockLarge_00.m3",
+    "family": "AgriaRockLarge",
+    "model": "AgriaRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "agriarocklarge",
+    "nativeId": "agriarocklarge",
+    "slug": "agriarocklarge",
+    "label": "AgriaRockLarge",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AgriaRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/AgriaRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriarocks_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\agriarocklarge.glb",
+    "bytes": 255644,
+    "sha256": "21851f410291061a08eedd8afd440732db5e8a3bdce3554be6397f20e6e5e2d3",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\agriarocklarge.provenance.json",
+    "runtime": {
+      "id": "agriarocklarge",
+      "nativeId": "agriarocklarge",
+      "label": "AgriaRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "verdant",
+      "aliases": [
+        "AgriaRockLarge",
+        "AgriaRockLarge_00",
+        "agriarocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaRockLarge/AgriaRockLarge_00.m3",
+      "path": "./assets/scenery/agriarocklarge.glb",
+      "size": 6.5,
+      "boundsSize": [
+        0.8843400478363037,
+        1.050646722316742,
+        0.7726908624172211
+      ],
+      "bounds": {
+        "min": [
+          -0.4247191548347473,
+          -0.5035980343818665,
+          -0.39989954233169556
+        ],
+        "max": [
+          0.4596208930015564,
+          0.5470486879348755,
+          0.3727913200855255
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 255644,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AiurRock/AiurRock_00.m3",
+    "family": "AiurRock",
+    "model": "AiurRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "aiurrock",
+    "nativeId": "aiurrock",
+    "slug": "aiurrock",
+    "label": "AiurRock",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AuirRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/auirrocks_diffuse.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\aiurrock.glb",
+    "bytes": 524144,
+    "sha256": "e483a6ceb1b33258aa625b8c45adaf3595e9b984c54c44dd322477b22d53d694",
+    "mesh_count": 1,
+    "image_count": 1,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": null,
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\aiurrock.provenance.json",
+    "runtime": {
+      "id": "aiurrock",
+      "nativeId": "aiurrock",
+      "label": "AiurRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "verdant",
+      "aliases": [
+        "AiurRock",
+        "AiurRock_00",
+        "aiurrock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AiurRock/AiurRock_00.m3",
+      "path": "./assets/scenery/aiurrock.glb",
+      "size": 2.5,
+      "boundsSize": [
+        0.8424279689788818,
+        1.0696934759616852,
+        0.8938702344894409
+      ],
+      "bounds": {
+        "min": [
+          -0.40822386741638184,
+          -0.8090460896492004,
+          -0.4780743420124054
+        ],
+        "max": [
+          0.4342041015625,
+          0.26064738631248474,
+          0.4157958924770355
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 524144,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AiurRockLarge/AiurRockLarge_00.m3",
+    "family": "AiurRockLarge",
+    "model": "AiurRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "aiurrocklarge",
+    "nativeId": "aiurrocklarge",
+    "slug": "aiurrocklarge",
+    "label": "AiurRockLarge",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AuirRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/auirrocks_diffuse.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\aiurrocklarge.glb",
+    "bytes": 527800,
+    "sha256": "9de325a4c59563ee4c67a3a36c4795f5ead228e9aafffcb2247e1f026b1ec60a",
+    "mesh_count": 1,
+    "image_count": 1,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": null,
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\aiurrocklarge.provenance.json",
+    "runtime": {
+      "id": "aiurrocklarge",
+      "nativeId": "aiurrocklarge",
+      "label": "AiurRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "verdant",
+      "aliases": [
+        "AiurRockLarge",
+        "AiurRockLarge_00",
+        "aiurrocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AiurRockLarge/AiurRockLarge_00.m3",
+      "path": "./assets/scenery/aiurrocklarge.glb",
+      "size": 6.5,
+      "boundsSize": [
+        1.984522819519043,
+        1.6080212593078613,
+        1.822983741760254
+      ],
+      "bounds": {
+        "min": [
+          -1.014331340789795,
+          -0.8677295446395874,
+          -0.9051399230957031
+        ],
+        "max": [
+          0.970191478729248,
+          0.7402917146682739,
+          0.9178438186645508
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 527800,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirCliffRocks/BelShirCliffRocks_00.m3",
+    "family": "BelShirCliffRocks",
+    "model": "BelShirCliffRocks_00",
+    "category": "cliff",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "belshircliffrocks",
+    "nativeId": "belshircliffrocks",
+    "slug": "belshircliffrocks",
+    "label": "BelShirCliffRocks",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BelshirCliffRocks.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshircliffrocks.dds"
+      },
+      {
+        "reference": "Assets/Textures/BelshirCliffRocksNormal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshircliffrocksnormal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\belshircliffrocks.glb",
+    "bytes": 853816,
+    "sha256": "b5cab9644c6c205206a88a0ff4b28ca5b0360a87174070cc4a554edec2db5a97",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\belshircliffrocks.provenance.json",
+    "runtime": {
+      "id": "belshircliffrocks",
+      "nativeId": "belshircliffrocks",
+      "label": "BelShirCliffRocks",
+      "category": "cliff",
+      "sourceCategory": "cliff",
+      "biome": "verdant",
+      "aliases": [
+        "BelShirCliffRocks",
+        "BelShirCliffRocks_00",
+        "belshircliffrocks"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirCliffRocks/BelShirCliffRocks_00.m3",
+      "path": "./assets/scenery/belshircliffrocks.glb",
+      "size": 7,
+      "boundsSize": [
+        1.2742812037467957,
+        0.5630186991766095,
+        1.1420353055000305
+      ],
+      "bounds": {
+        "min": [
+          -0.6611250042915344,
+          -0.00932671595364809,
+          -0.6148123145103455
+        ],
+        "max": [
+          0.6131561994552612,
+          0.5536919832229614,
+          0.5272229909896851
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 7
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 853816,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirRuins/BelShirRuins_00.m3",
+    "family": "BelShirRuins",
+    "model": "BelShirRuins_00",
+    "category": "ruins",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "belshirruins",
+    "nativeId": "belshirruins",
+    "slug": "belshirruins",
+    "label": "BelShirRuins",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BS_Bricks_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bs_bricks_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/Bel_Shir_DoodadBricks.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bel_shir_doodadbricks.dds"
+      },
+      {
+        "reference": "Assets/Textures/Bel_Shir_DoodadBricks_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bel_shir_doodadbricks_spec.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\belshirruins.glb",
+    "bytes": 657872,
+    "sha256": "282b126dfb83541d2a50f098740a2108eb6fa5f2bafd249287fe774b248065a8",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\belshirruins.provenance.json",
+    "runtime": {
+      "id": "belshirruins",
+      "nativeId": "belshirruins",
+      "label": "BelShirRuins",
+      "category": "ruins",
+      "sourceCategory": "ruins",
+      "biome": "verdant",
+      "aliases": [
+        "BelShirRuins",
+        "BelShirRuins_00",
+        "belshirruins"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirRuins/BelShirRuins_00.m3",
+      "path": "./assets/scenery/belshirruins.glb",
+      "size": 8,
+      "boundsSize": [
+        1.533604085445404,
+        2.889880880713463,
+        0.9496320486068726
+      ],
+      "bounds": {
+        "min": [
+          -0.7668017148971558,
+          -0.10070823132991791,
+          -0.4748159646987915
+        ],
+        "max": [
+          0.7668023705482483,
+          2.789172649383545,
+          0.47481608390808105
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 657872,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRock/HavenRock_00.m3",
+    "family": "HavenRock",
+    "model": "HavenRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "havenrock",
+    "nativeId": "havenrock",
+    "slug": "havenrock",
+    "label": "HavenRock",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/HavenRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/HavenRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\havenrock.glb",
+    "bytes": 614252,
+    "sha256": "94f18d001a3300d40aea3fcdfc3c91e07ec9ade275e0cec7212ea136a897c2cb",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\havenrock.provenance.json",
+    "runtime": {
+      "id": "havenrock",
+      "nativeId": "havenrock",
+      "label": "HavenRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "verdant",
+      "aliases": [
+        "HavenRock",
+        "HavenRock_00",
+        "havenrock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRock/HavenRock_00.m3",
+      "path": "./assets/scenery/havenrock.glb",
+      "size": 2.5,
+      "boundsSize": [
+        0.8424279689788818,
+        0.6941786408424377,
+        0.8938702344894409
+      ],
+      "bounds": {
+        "min": [
+          -0.40822386741638184,
+          -0.433531254529953,
+          -0.4780743420124054
+        ],
+        "max": [
+          0.4342041015625,
+          0.26064738631248474,
+          0.4157958924770355
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 614252,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRockLarge/HavenRockLarge_00.m3",
+    "family": "HavenRockLarge",
+    "model": "HavenRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "havenrocklarge",
+    "nativeId": "havenrocklarge",
+    "slug": "havenrocklarge",
+    "label": "HavenRockLarge",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/HavenRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/HavenRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrocks_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\havenrocklarge.glb",
+    "bytes": 618148,
+    "sha256": "df646b68e3112041749b54c82cc9b3c7ab31695c89bd323b958ac2855984bf80",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\havenrocklarge.provenance.json",
+    "runtime": {
+      "id": "havenrocklarge",
+      "nativeId": "havenrocklarge",
+      "label": "HavenRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "verdant",
+      "aliases": [
+        "HavenRockLarge",
+        "HavenRockLarge_00",
+        "havenrocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRockLarge/HavenRockLarge_00.m3",
+      "path": "./assets/scenery/havenrocklarge.glb",
+      "size": 6.5,
+      "boundsSize": [
+        1.984522819519043,
+        1.6080212593078613,
+        1.822983741760254
+      ],
+      "bounds": {
+        "min": [
+          -1.014331340789795,
+          -0.8677295446395874,
+          -0.9051399230957031
+        ],
+        "max": [
+          0.970191478729248,
+          0.7402917146682739,
+          0.9178438186645508
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 618148,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HavenRockArch/HavenRockArch_00.m3",
+    "family": "HavenRockArch",
+    "model": "HavenRockArch_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "havenrockarch",
+    "nativeId": "havenrockarch",
+    "slug": "havenrockarch",
+    "label": "HavenRockArch",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharArchway_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chararchway_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Char_Cliff0_NRM.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_cliff0_nrm.dds"
+      },
+      {
+        "reference": "Assets/Textures/HavenRockArch.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/havenrockarch.dds"
+      }
+    ],
+    "ok": false,
+    "error": "Converter emitted no visible glTF mesh; native visibility or unsupported model features remain unresolved",
+    "quarantined_output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\unsupported-empty-glb\\havenrockarch.glb"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShakurasRock/ShakurasRock_00.m3",
+    "family": "ShakurasRock",
+    "model": "ShakurasRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "shakurasrock",
+    "nativeId": "shakurasrock",
+    "slug": "shakurasrock",
+    "label": "ShakurasRock",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ShakurasRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ShakurasRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\shakurasrock.glb",
+    "bytes": 841008,
+    "sha256": "a906742099fb5102fecfde11ce530ab242ef3bc5dfedae5f1cec79d11f268274",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\shakurasrock.provenance.json",
+    "runtime": {
+      "id": "shakurasrock",
+      "nativeId": "shakurasrock",
+      "label": "ShakurasRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "verdant",
+      "aliases": [
+        "ShakurasRock",
+        "ShakurasRock_00",
+        "shakurasrock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShakurasRock/ShakurasRock_00.m3",
+      "path": "./assets/scenery/shakurasrock.glb",
+      "size": 2.5,
+      "boundsSize": [
+        0.5557853430509567,
+        0.22745238605421036,
+        0.5348321497440338
+      ],
+      "bounds": {
+        "min": [
+          -0.3518124222755432,
+          0.0013626479776576161,
+          -0.2939605712890625
+        ],
+        "max": [
+          0.2039729207754135,
+          0.22881503403186798,
+          0.2408715784549713
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 841008,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShakurasRockLarge/ShakurasRockLarge_00.m3",
+    "family": "ShakurasRockLarge",
+    "model": "ShakurasRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "shakurasrocklarge",
+    "nativeId": "shakurasrocklarge",
+    "slug": "shakurasrocklarge",
+    "label": "ShakurasRockLarge",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ShakurasRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ShakurasRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakurasrocks_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\shakurasrocklarge.glb",
+    "bytes": 841664,
+    "sha256": "e9ce1014c468b20cf91b41ae4cf5676f1963266f2546a699f7a4745402e4b34a",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\shakurasrocklarge.provenance.json",
+    "runtime": {
+      "id": "shakurasrocklarge",
+      "nativeId": "shakurasrocklarge",
+      "label": "ShakurasRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "verdant",
+      "aliases": [
+        "ShakurasRockLarge",
+        "ShakurasRockLarge_00",
+        "shakurasrocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShakurasRockLarge/ShakurasRockLarge_00.m3",
+      "path": "./assets/scenery/shakurasrocklarge.glb",
+      "size": 6.5,
+      "boundsSize": [
+        1.238238275051117,
+        0.30401640059426427,
+        0.8421593010425568
+      ],
+      "bounds": {
+        "min": [
+          -0.7321203351020813,
+          -0.0028710556216537952,
+          -0.47681087255477905
+        ],
+        "max": [
+          0.5061179399490356,
+          0.3011453449726105,
+          0.3653484284877777
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 841664,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_Stone_Temple_Rubble/Shakuras_Stone_Temple_Rubble_00.m3",
+    "family": "Shakuras_Stone_Temple_Rubble",
+    "model": "Shakuras_Stone_Temple_Rubble_00",
+    "category": "ruins",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "shakuras-stone-temple-rubble",
+    "nativeId": "shakuras-stone-temple-rubble",
+    "slug": "shakuras-stone-temple-rubble",
+    "label": "Shakuras_Stone_Temple_Rubble",
+    "biome": "verdant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Aiur_StoneTemple_RubblePile_N.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/aiur_stonetemple_rubblepile_n.dds"
+      },
+      {
+        "reference": "Assets/Textures/Aiur_StoneTemple_RubblePile_S.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/aiur_stonetemple_rubblepile_s.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shakuras_StoneTemple_RubblePile.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_stonetemple_rubblepile.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\shakuras-stone-temple-rubble.glb",
+    "bytes": 801760,
+    "sha256": "37943275d27aafc7df1c07725cbcca9f226b1b1848f910cde0d243a53d1144aa",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\shakuras-stone-temple-rubble.provenance.json",
+    "runtime": {
+      "id": "shakuras-stone-temple-rubble",
+      "nativeId": "shakurasstonetemplerubble",
+      "label": "Shakuras_Stone_Temple_Rubble",
+      "category": "ruins",
+      "sourceCategory": "ruins",
+      "biome": "verdant",
+      "aliases": [
+        "Shakuras_Stone_Temple_Rubble",
+        "Shakuras_Stone_Temple_Rubble_00",
+        "shakuras-stone-temple-rubble",
+        "shakurasstonetemplerubble"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_Stone_Temple_Rubble/Shakuras_Stone_Temple_Rubble_00.m3",
+      "path": "./assets/scenery/shakuras-stone-temple-rubble.glb",
+      "size": 12.83,
+      "boundsSize": [
+        6.414950847625732,
+        0.9489654302597046,
+        3.3073668479919434
+      ],
+      "bounds": {
+        "min": [
+          -3.207475423812866,
+          -0.132290780544281,
+          -1.6536835432052612
+        ],
+        "max": [
+          3.207475423812866,
+          0.8166746497154236,
+          1.6536833047866821
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 801760,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraRock/MarSaraRock_00.m3",
+    "family": "MarSaraRock",
+    "model": "MarSaraRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "marsararock",
+    "nativeId": "marsararock",
+    "slug": "marsararock",
+    "label": "MarSaraRock",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/MarSaraRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\marsararock.glb",
+    "bytes": 536108,
+    "sha256": "b6f7d880d1e413d6b60bbbe970ba127d498d6438d4145cd84bb7e222f1071997",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\marsararock.provenance.json",
+    "runtime": {
+      "id": "marsararock",
+      "nativeId": "marsararock",
+      "label": "MarSaraRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "MarSaraRock",
+        "MarSaraRock_00",
+        "marsararock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraRock/MarSaraRock_00.m3",
+      "path": "./assets/scenery/marsararock.glb",
+      "size": 2.5,
+      "boundsSize": [
+        0.48130254447460175,
+        0.5697918087244034,
+        0.42448394000530243
+      ],
+      "bounds": {
+        "min": [
+          -0.2478109896183014,
+          -0.18389232456684113,
+          -0.23229408264160156
+        ],
+        "max": [
+          0.23349155485630035,
+          0.38589948415756226,
+          0.19218985736370087
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 536108,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraRockLarge/MarSaraRockLarge_00.m3",
+    "family": "MarSaraRockLarge",
+    "model": "MarSaraRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "marsararocklarge",
+    "nativeId": "marsararocklarge",
+    "slug": "marsararocklarge",
+    "label": "MarSaraRockLarge",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/MarSaraRocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraRocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsararocks_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\marsararocklarge.glb",
+    "bytes": 537464,
+    "sha256": "2a7eeea1373b7db2dcea707c9539524f15e829ecaf237e7991354635d7ec66b2",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\marsararocklarge.provenance.json",
+    "runtime": {
+      "id": "marsararocklarge",
+      "nativeId": "marsararocklarge",
+      "label": "MarSaraRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "MarSaraRockLarge",
+        "MarSaraRockLarge_00",
+        "marsararocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraRockLarge/MarSaraRockLarge_00.m3",
+      "path": "./assets/scenery/marsararocklarge.glb",
+      "size": 6.5,
+      "boundsSize": [
+        1.0814386010169983,
+        2.122048854827881,
+        1.1001691222190857
+      ],
+      "bounds": {
+        "min": [
+          -0.5570822358131409,
+          -0.9891396760940552,
+          -0.55763840675354
+        ],
+        "max": [
+          0.5243563652038574,
+          1.1329091787338257,
+          0.5425307154655457
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 537464,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DesertRockGiant/DesertRockGiant_00.m3",
+    "family": "DesertRockGiant",
+    "model": "DesertRockGiant_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "desertrockgiant",
+    "nativeId": "desertrockgiant",
+    "slug": "desertrockgiant",
+    "label": "DesertRockGiant",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DesertShearedRock1_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DesertShearedRock1_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower01AmbientOcclusion.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\desertrockgiant.glb",
+    "bytes": 1581920,
+    "sha256": "abc5ecb870f1947c07fc155b31d566fb4f14a861eb2f35df5deea97ab05ddb45",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\desertrockgiant.provenance.json",
+    "runtime": {
+      "id": "desertrockgiant",
+      "nativeId": "desertrockgiant",
+      "label": "DesertRockGiant",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "DesertRockGiant",
+        "DesertRockGiant_00",
+        "desertrockgiant"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DesertRockGiant/DesertRockGiant_00.m3",
+      "path": "./assets/scenery/desertrockgiant.glb",
+      "size": 6,
+      "boundsSize": [
+        3.148486852645874,
+        3.4642815589904785,
+        3.3916871547698975
+      ],
+      "bounds": {
+        "min": [
+          -1.5814847946166992,
+          -1.7499210834503174,
+          -1.6393835544586182
+        ],
+        "max": [
+          1.5670020580291748,
+          1.7143604755401611,
+          1.7523036003112793
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1581920,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShearedRocksDesert/ShearedRocksDesert_00.m3",
+    "family": "ShearedRocksDesert",
+    "model": "ShearedRocksDesert_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "shearedrocksdesert",
+    "nativeId": "shearedrocksdesert",
+    "slug": "shearedrocksdesert",
+    "label": "ShearedRocksDesert",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DesertShearedRock1_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DesertShearedRock1_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/desertshearedrock1_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\shearedrocksdesert.glb",
+    "bytes": 1197048,
+    "sha256": "a363ea8f06164fb5ad5ed492350914c8a9bea4a4818de70a12d47a248d5736ff",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\shearedrocksdesert.provenance.json",
+    "runtime": {
+      "id": "shearedrocksdesert",
+      "nativeId": "shearedrocksdesert",
+      "label": "ShearedRocksDesert",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "ShearedRocksDesert",
+        "ShearedRocksDesert_00",
+        "shearedrocksdesert"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ShearedRocksDesert/ShearedRocksDesert_00.m3",
+      "path": "./assets/scenery/shearedrocksdesert.glb",
+      "size": 6,
+      "boundsSize": [
+        2.262387990951538,
+        2.6174386739730835,
+        3.7036461159586906
+      ],
+      "bounds": {
+        "min": [
+          -1.2557344436645508,
+          -1.6046628952026367,
+          0.020393677055835724
+        ],
+        "max": [
+          1.0066535472869873,
+          1.0127757787704468,
+          3.7240397930145264
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1197048,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ChiseledRock/ChiseledRock_00.m3",
+    "family": "ChiseledRock",
+    "model": "ChiseledRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "chiseledrock",
+    "nativeId": "chiseledrock",
+    "slug": "chiseledrock",
+    "label": "ChiseledRock",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ChiseledRocksSmall_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ChiseledRocksSmall_Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_normals.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\chiseledrock.glb",
+    "bytes": 1073376,
+    "sha256": "ab2e7c601c5950ffaf51db29459aa325d1e52f116138344f258bd4db2a9551df",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\chiseledrock.provenance.json",
+    "runtime": {
+      "id": "chiseledrock",
+      "nativeId": "chiseledrock",
+      "label": "ChiseledRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "ChiseledRock",
+        "ChiseledRock_00",
+        "chiseledrock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ChiseledRock/ChiseledRock_00.m3",
+      "path": "./assets/scenery/chiseledrock.glb",
+      "size": 2.5,
+      "boundsSize": [
+        1.022064983844757,
+        0.8911444842815399,
+        1.0533931851387024
+      ],
+      "bounds": {
+        "min": [
+          -0.5110325217247009,
+          -0.3050380051136017,
+          -0.5266966223716736
+        ],
+        "max": [
+          0.5110324621200562,
+          0.5861064791679382,
+          0.5266965627670288
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1073376,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ChiseledRockLarge/ChiseledRockLarge_00.m3",
+    "family": "ChiseledRockLarge",
+    "model": "ChiseledRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "chiseledrocklarge",
+    "nativeId": "chiseledrocklarge",
+    "slug": "chiseledrocklarge",
+    "label": "ChiseledRockLarge",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ChiseledRocksSmall_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ChiseledRocksSmall_Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chiseledrockssmall_normals.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\chiseledrocklarge.glb",
+    "bytes": 1098828,
+    "sha256": "8bdc5444d8b52567a22c895aa2d9acc1de6e2a38f6859f4158494151d374a0f4",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\chiseledrocklarge.provenance.json",
+    "runtime": {
+      "id": "chiseledrocklarge",
+      "nativeId": "chiseledrocklarge",
+      "label": "ChiseledRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "ChiseledRockLarge",
+        "ChiseledRockLarge_00",
+        "chiseledrocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ChiseledRockLarge/ChiseledRockLarge_00.m3",
+      "path": "./assets/scenery/chiseledrocklarge.glb",
+      "size": 6.5,
+      "boundsSize": [
+        2.0831100940704346,
+        2.0011923070997,
+        1.8751510381698608
+      ],
+      "bounds": {
+        "min": [
+          -1.0415550470352173,
+          -0.02077481709420681,
+          -0.9375755190849304
+        ],
+        "max": [
+          1.0415550470352173,
+          1.9804174900054932,
+          0.9375755190849304
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1098828,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BrokenRocks/BrokenRocks_00.m3",
+    "family": "BrokenRocks",
+    "model": "BrokenRocks_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "brokenrocks",
+    "nativeId": "brokenrocks",
+    "slug": "brokenrocks",
+    "label": "BrokenRocks",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/DisolveNoise.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/disolvenoise.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculptChar_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptchar_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculpt_Normal.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculpt_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWetAlpha.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewetalpha.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWetSilhouetteAlpha.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewetsilhouettealpha.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\brokenrocks.glb",
+    "bytes": 931824,
+    "sha256": "bde80eb8b25e3c89e8b7cf48fcff1cfdb91883a93a3ec22052f7f8ca6dea2890",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [
+      {
+        "name": "Death_full",
+        "channels": 11,
+        "samplers": 11,
+        "duration": 6.665999889373779
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "MASK",
+        "alphaCutoff": 0.007843138,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\brokenrocks.provenance.json",
+    "runtime": {
+      "id": "brokenrocks",
+      "nativeId": "brokenrocks",
+      "label": "BrokenRocks",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "BrokenRocks",
+        "BrokenRocks_00",
+        "brokenrocks"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BrokenRocks/BrokenRocks_00.m3",
+      "path": "./assets/scenery/brokenrocks.glb",
+      "size": 4.276,
+      "boundsSize": [
+        2.1381362676620483,
+        0.34391995519399643,
+        2.044100046157837
+      ],
+      "bounds": {
+        "min": [
+          -1.0901334285736084,
+          -0.25129833817481995,
+          -1.017295002937317
+        ],
+        "max": [
+          1.04800283908844,
+          0.09262161701917648,
+          1.02680504322052
+        ]
+      },
+      "animations": [
+        "Death_full"
+      ],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 15
+        }
+      ],
+      "alphaModes": [
+        "MASK"
+      ],
+      "bytes": 931824,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BrokenRocksSmall/BrokenRocksSmall_00.m3",
+    "family": "BrokenRocksSmall",
+    "model": "BrokenRocksSmall_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "brokenrockssmall",
+    "nativeId": "brokenrockssmall",
+    "slug": "brokenrockssmall",
+    "label": "BrokenRocksSmall",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Broken_Rocks_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/broken_rocks_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/DisolveNoise.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/disolvenoise.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculptChar_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptchar_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculpt_Normal.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculpt_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\brokenrockssmall.glb",
+    "bytes": 908176,
+    "sha256": "1880842721c8ad3cdbe7edd33e4ca5125f5bed382fe807ecbbe907eb87b91560",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [
+      {
+        "name": "Death_full",
+        "channels": 5,
+        "samplers": 5,
+        "duration": 6.665999889373779
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_1",
+        "alphaMode": "MASK",
+        "alphaCutoff": 0.007843138,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\brokenrockssmall.provenance.json",
+    "runtime": {
+      "id": "brokenrockssmall",
+      "nativeId": "brokenrockssmall",
+      "label": "BrokenRocksSmall",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "BrokenRocksSmall",
+        "BrokenRocksSmall_00",
+        "brokenrockssmall"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BrokenRocksSmall/BrokenRocksSmall_00.m3",
+      "path": "./assets/scenery/brokenrockssmall.glb",
+      "size": 2.5,
+      "boundsSize": [
+        1.0712680220603943,
+        0.8869325146079063,
+        0.9676629304885864
+      ],
+      "bounds": {
+        "min": [
+          -0.5221719145774841,
+          -0.7861325144767761,
+          -0.5073623061180115
+        ],
+        "max": [
+          0.5490961074829102,
+          0.10080000013113022,
+          0.46030062437057495
+        ]
+      },
+      "animations": [
+        "Death_full"
+      ],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 13
+        }
+      ],
+      "alphaModes": [
+        "MASK"
+      ],
+      "bytes": 908176,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRock2x4/DestructibleRock2x4_00.m3",
+    "family": "DestructibleRock2x4",
+    "model": "DestructibleRock2x4_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "destructiblerock2x4",
+    "nativeId": "destructiblerock2x4",
+    "slug": "destructiblerock2x4",
+    "label": "DestructibleRock2x4",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1B.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1b.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebris2_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\destructiblerock2x4.glb",
+    "bytes": 682676,
+    "sha256": "b05fefe2f13f17670e67a63c7eaf048eb0955e698f6ae86969d46bd77ef541bf",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [
+      {
+        "name": "Stand_full",
+        "channels": 3,
+        "samplers": 3,
+        "duration": 1.4989999532699585
+      },
+      {
+        "name": "Stand 01_full",
+        "channels": 3,
+        "samplers": 3,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 02_full",
+        "channels": 2,
+        "samplers": 2,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 03_full",
+        "channels": 4,
+        "samplers": 4,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 04_full",
+        "channels": 3,
+        "samplers": 3,
+        "duration": 1.5
+      },
+      {
+        "name": "Death_full",
+        "channels": 26,
+        "samplers": 26,
+        "duration": 2.6659998893737793
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "MASK",
+        "alphaCutoff": 0.2509804,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\destructiblerock2x4.provenance.json",
+    "runtime": {
+      "id": "destructiblerock2x4",
+      "nativeId": "destructiblerock2x4",
+      "label": "DestructibleRock2x4",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "DestructibleRock2x4",
+        "DestructibleRock2x4_00",
+        "destructiblerock2x4"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRock2x4/DestructibleRock2x4_00.m3",
+      "path": "./assets/scenery/destructiblerock2x4.glb",
+      "size": 6,
+      "boundsSize": [
+        3.7044817209243774,
+        1.9218922853469849,
+        5.652326583862305
+      ],
+      "bounds": {
+        "min": [
+          -1.8701080083847046,
+          -0.25464439392089844,
+          -2.637491464614868
+        ],
+        "max": [
+          1.8343737125396729,
+          1.6672478914260864,
+          3.0148351192474365
+        ]
+      },
+      "animations": [
+        "Stand_full",
+        "Stand 01_full",
+        "Stand 02_full",
+        "Stand 03_full",
+        "Stand 04_full",
+        "Death_full"
+      ],
+      "stateAnimation": "Stand_full",
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 20
+        }
+      ],
+      "alphaModes": [
+        "MASK"
+      ],
+      "bytes": 682676,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRock4x4/DestructibleRock4x4.m3",
+    "family": "DestructibleRock4x4",
+    "model": "DestructibleRock4x4",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "destructiblerock4x4",
+    "nativeId": "destructiblerock4x4",
+    "slug": "destructiblerock4x4",
+    "label": "DestructibleRock4x4",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1B.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1b.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebris2_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\destructiblerock4x4.glb",
+    "bytes": 750756,
+    "sha256": "6a66febf30161d6d1ce4a865d695f6930f1a750ef3d7c84a0c0d7caf53ca37ff",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [
+      {
+        "name": "Stand_full",
+        "channels": 3,
+        "samplers": 3,
+        "duration": 1.4989999532699585
+      },
+      {
+        "name": "Stand 01_full",
+        "channels": 4,
+        "samplers": 4,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 02_full",
+        "channels": 2,
+        "samplers": 2,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 03_full",
+        "channels": 5,
+        "samplers": 5,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 04_full",
+        "channels": 3,
+        "samplers": 3,
+        "duration": 1.5
+      },
+      {
+        "name": "Death_full",
+        "channels": 52,
+        "samplers": 52,
+        "duration": 2
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "MASK",
+        "alphaCutoff": 0.2509804,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\destructiblerock4x4.provenance.json",
+    "runtime": {
+      "id": "destructiblerock4x4",
+      "nativeId": "destructiblerock4x4",
+      "label": "DestructibleRock4x4",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "DestructibleRock4x4",
+        "destructiblerock4x4"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRock4x4/DestructibleRock4x4.m3",
+      "path": "./assets/scenery/destructiblerock4x4.glb",
+      "size": 6,
+      "boundsSize": [
+        4.819044828414917,
+        1.8347599506378174,
+        5.184260368347168
+      ],
+      "bounds": {
+        "min": [
+          -2.2084579467773438,
+          -0.18009352684020996,
+          -2.4388625621795654
+        ],
+        "max": [
+          2.6105868816375732,
+          1.6546664237976074,
+          2.7453978061676025
+        ]
+      },
+      "animations": [
+        "Stand_full",
+        "Stand 01_full",
+        "Stand 02_full",
+        "Stand 03_full",
+        "Stand 04_full",
+        "Death_full"
+      ],
+      "stateAnimation": "Stand_full",
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 37
+        }
+      ],
+      "alphaModes": [
+        "MASK"
+      ],
+      "bytes": 750756,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRockHuge/DestructibleRockHuge.m3",
+    "family": "DestructibleRockHuge",
+    "model": "DestructibleRockHuge",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "destructiblerockhuge",
+    "nativeId": "destructiblerockhuge",
+    "slug": "destructiblerockhuge",
+    "label": "DestructibleRockHuge",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1B.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1b.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebris2_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TendrilStreak5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tendrilstreak5.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\destructiblerockhuge.glb",
+    "bytes": 962080,
+    "sha256": "a2c1fd75ea820edc8c1d8caec5f610d938db52f62720fb439bb207728145af14",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [
+      {
+        "name": "Stand_full",
+        "channels": 9,
+        "samplers": 9,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 01_full",
+        "channels": 8,
+        "samplers": 8,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 02_full",
+        "channels": 4,
+        "samplers": 4,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 03_full",
+        "channels": 11,
+        "samplers": 11,
+        "duration": 1.5
+      },
+      {
+        "name": "Stand 04_full",
+        "channels": 7,
+        "samplers": 7,
+        "duration": 1.5
+      },
+      {
+        "name": "Death_full",
+        "channels": 116,
+        "samplers": 116,
+        "duration": 2.6659998893737793
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "MASK",
+        "alphaCutoff": 0.2509804,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\destructiblerockhuge.provenance.json",
+    "runtime": {
+      "id": "destructiblerockhuge",
+      "nativeId": "destructiblerockhuge",
+      "label": "DestructibleRockHuge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "DestructibleRockHuge",
+        "destructiblerockhuge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/DestructibleRockHuge/DestructibleRockHuge.m3",
+      "path": "./assets/scenery/destructiblerockhuge.glb",
+      "size": 6,
+      "boundsSize": [
+        10.213204383850098,
+        1.7896791025996208,
+        8.535318851470947
+      ],
+      "bounds": {
+        "min": [
+          -4.878271579742432,
+          -0.10497062653303146,
+          -4.212310314178467
+        ],
+        "max": [
+          5.334932804107666,
+          1.6847084760665894,
+          4.3230085372924805
+        ]
+      },
+      "animations": [
+        "Stand_full",
+        "Stand 01_full",
+        "Stand 02_full",
+        "Stand 03_full",
+        "Stand 04_full",
+        "Death_full"
+      ],
+      "stateAnimation": "Stand_full",
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 60
+        }
+      ],
+      "alphaModes": [
+        "MASK"
+      ],
+      "bytes": 962080,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CollapsibleRockTower/CollapsibleRockTower.m3",
+    "family": "CollapsibleRockTower",
+    "model": "CollapsibleRockTower",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "collapsiblerocktower",
+    "nativeId": "collapsiblerocktower",
+    "slug": "collapsiblerocktower",
+    "label": "CollapsibleRockTower",
+    "biome": "desert",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BrownDustParticles.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/browndustparticles.dds"
+      },
+      {
+        "reference": "Assets/Textures/DisolveNoise.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/disolvenoise.dds"
+      },
+      {
+        "reference": "Assets/Textures/HeatWave2_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave2_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraVines_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaravines_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculptChar_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptchar_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculptRockTower_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculptrocktower_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebrisSculpt_Normal.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/rockdebrissculpt_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Vines_Normal_MarSara.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/vines_normal_marsara.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTowerFlat_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktowerflat_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTowerFlat_Nrm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktowerflat_nrm.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTower_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTower_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/collapsibleRockTower_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/collapsiblerocktower_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\collapsiblerocktower.glb",
+    "bytes": 1540676,
+    "sha256": "290251ac66949ff902c022a91cff51f3733dc0883379a7f7574b99cf0ebc2236",
+    "mesh_count": 1,
+    "image_count": 4,
+    "animations": [
+      {
+        "name": "Death_full",
+        "channels": 78,
+        "samplers": 78,
+        "duration": 3
+      },
+      {
+        "name": "Dead_full",
+        "channels": 79,
+        "samplers": 79,
+        "duration": 1
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "MASK",
+        "alphaCutoff": 0.5019608,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2
+        },
+        "normalTexture": {
+          "index": 3
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "name": "material_5",
+        "alphaMode": "MASK",
+        "alphaCutoff": 0.007843138,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2
+        },
+        "normalTexture": {
+          "index": 3
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\collapsiblerocktower.provenance.json",
+    "runtime": {
+      "id": "collapsiblerocktower",
+      "nativeId": "collapsiblerocktower",
+      "label": "CollapsibleRockTower",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "desert",
+      "aliases": [
+        "CollapsibleRockTower",
+        "collapsiblerocktower"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CollapsibleRockTower/CollapsibleRockTower.m3",
+      "path": "./assets/scenery/collapsiblerocktower.glb",
+      "size": 6,
+      "boundsSize": [
+        5.087130308151245,
+        5.085785508155823,
+        5.569773197174072
+      ],
+      "bounds": {
+        "min": [
+          -2.849106788635254,
+          -1.6656712293624878,
+          -2.560758590698242
+        ],
+        "max": [
+          2.238023519515991,
+          3.420114278793335,
+          3.00901460647583
+        ]
+      },
+      "animations": [
+        "Death_full",
+        "Dead_full"
+      ],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 67
+        }
+      ],
+      "alphaModes": [
+        "MASK",
+        "OPAQUE"
+      ],
+      "bytes": 1540676,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldRock/IceWorldRock_00.m3",
+    "family": "IceWorldRock",
+    "model": "IceWorldRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceworldrock",
+    "nativeId": "iceworldrock",
+    "slug": "iceworldrock",
+    "label": "IceWorldRock",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Emiss.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_emiss.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_normals.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reflection_BelShir.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reflection_belshir.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\iceworldrock.glb",
+    "bytes": 2243540,
+    "sha256": "9d92b95a07029e2fede70488ce925b1a23839606e140e294a4df292dd5f8d113",
+    "mesh_count": 1,
+    "image_count": 5,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_1",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "normalTexture": {
+          "index": 4
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\iceworldrock.provenance.json",
+    "runtime": {
+      "id": "iceworldrock",
+      "nativeId": "iceworldrock",
+      "label": "IceWorldRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "frost",
+      "aliases": [
+        "IceWorldRock",
+        "IceWorldRock_00",
+        "iceworldrock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldRock/IceWorldRock_00.m3",
+      "path": "./assets/scenery/iceworldrock.glb",
+      "size": 4.342,
+      "boundsSize": [
+        2.113174021244049,
+        0.8911444842815399,
+        2.171234369277954
+      ],
+      "bounds": {
+        "min": [
+          -1.125559687614441,
+          -0.3050380051136017,
+          -0.92023766040802
+        ],
+        "max": [
+          0.9876143336296082,
+          0.5861064791679382,
+          1.250996708869934
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "bytes": 2243540,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldRockLarge/IceWorldRockLarge_00.m3",
+    "family": "IceWorldRockLarge",
+    "model": "IceWorldRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceworldrocklarge",
+    "nativeId": "iceworldrocklarge",
+    "slug": "iceworldrocklarge",
+    "label": "IceWorldRockLarge",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Emiss.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_emiss.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorldRocksSmall_Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworldrockssmall_normals.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reflection_BelShir.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reflection_belshir.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\iceworldrocklarge.glb",
+    "bytes": 2266376,
+    "sha256": "d3d0843a61c17140a2d2db8a8008b105eeea14148efe8e909a9fc4584bccc4f1",
+    "mesh_count": 1,
+    "image_count": 5,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_1",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "normalTexture": {
+          "index": 4
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\iceworldrocklarge.provenance.json",
+    "runtime": {
+      "id": "iceworldrocklarge",
+      "nativeId": "iceworldrocklarge",
+      "label": "IceWorldRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "frost",
+      "aliases": [
+        "IceWorldRockLarge",
+        "IceWorldRockLarge_00",
+        "iceworldrocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldRockLarge/IceWorldRockLarge_00.m3",
+      "path": "./assets/scenery/iceworldrocklarge.glb",
+      "size": 8.155,
+      "boundsSize": [
+        4.0772693157196045,
+        1.8300537765026093,
+        3.912771701812744
+      ],
+      "bounds": {
+        "min": [
+          -1.8420536518096924,
+          -0.0500771701335907,
+          -1.8828296661376953
+        ],
+        "max": [
+          2.235215663909912,
+          1.7799766063690186,
+          2.029942035675049
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "bytes": 2266376,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocks/IceShearedRocks_00.m3",
+    "family": "IceShearedRocks",
+    "model": "IceShearedRocks_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceshearedrocks",
+    "nativeId": "iceshearedrocks",
+    "slug": "iceshearedrocks",
+    "label": "IceShearedRocks",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridgeShort_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridgeshort_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Emis.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_emis.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_1.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/MainIceReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\iceshearedrocks.glb",
+    "bytes": 3317268,
+    "sha256": "349a44eb5c2923a0bccdfe322726292dc01074ff18db0d6a4d00bee61bfba593",
+    "mesh_count": 1,
+    "image_count": 7,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_1",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "normalTexture": {
+          "index": 4
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "name": "material_2",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 5
+        },
+        "normalTexture": {
+          "index": 6
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\iceshearedrocks.provenance.json",
+    "runtime": {
+      "id": "iceshearedrocks",
+      "nativeId": "iceshearedrocks",
+      "label": "IceShearedRocks",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "frost",
+      "aliases": [
+        "IceShearedRocks",
+        "IceShearedRocks_00",
+        "iceshearedrocks"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocks/IceShearedRocks_00.m3",
+      "path": "./assets/scenery/iceshearedrocks.glb",
+      "size": 6,
+      "boundsSize": [
+        4.601704120635986,
+        2.6472551822662354,
+        4.656123101711273
+      ],
+      "bounds": {
+        "min": [
+          -2.300851345062256,
+          -1.619606852531433,
+          -0.917637050151825
+        ],
+        "max": [
+          2.3008527755737305,
+          1.0276483297348022,
+          3.7384860515594482
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "bytes": 3317268,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocksLarge/IceShearedRocksLarge_00.m3",
+    "family": "IceShearedRocksLarge",
+    "model": "IceShearedRocksLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceshearedrockslarge",
+    "nativeId": "iceshearedrockslarge",
+    "slug": "iceshearedrockslarge",
+    "label": "IceShearedRocksLarge",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridgeShort_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridgeshort_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Emis.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_emis.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_1.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reflection_BelShir.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reflection_belshir.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\iceshearedrockslarge.glb",
+    "bytes": 3429940,
+    "sha256": "23f86aa6ba2abd3a5efcec05d1aad0d598506894113ed8d1bff9766a14356ea1",
+    "mesh_count": 1,
+    "image_count": 7,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_1",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2
+        },
+        "normalTexture": {
+          "index": 3
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "name": "material_2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 4
+        },
+        "normalTexture": {
+          "index": 5
+        },
+        "emissiveTexture": {
+          "index": 6
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\iceshearedrockslarge.provenance.json",
+    "runtime": {
+      "id": "iceshearedrockslarge",
+      "nativeId": "iceshearedrockslarge",
+      "label": "IceShearedRocksLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "frost",
+      "aliases": [
+        "IceShearedRocksLarge",
+        "IceShearedRocksLarge_00",
+        "iceshearedrockslarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocksLarge/IceShearedRocksLarge_00.m3",
+      "path": "./assets/scenery/iceshearedrockslarge.glb",
+      "size": 9,
+      "boundsSize": [
+        10.301212787628174,
+        8.885528760030866,
+        11.463812589645386
+      ],
+      "bounds": {
+        "min": [
+          -5.150606155395508,
+          -0.011751370504498482,
+          -3.2091176509857178
+        ],
+        "max": [
+          5.150606632232666,
+          8.873777389526367,
+          8.254694938659668
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "bytes": 3429940,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocksUpright/IceShearedRocksUpright_00.m3",
+    "family": "IceShearedRocksUpright",
+    "model": "IceShearedRocksUpright_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceshearedrocksupright",
+    "nativeId": "iceshearedrocksupright",
+    "slug": "iceshearedrocksupright",
+    "label": "IceShearedRocksUpright",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GenericGlow64.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow64.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridgeShort_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridgeshort_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Emis.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_emis.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceBridge_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/icebridge_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_1.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_4Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_4normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/MainIceReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\iceshearedrocksupright.glb",
+    "bytes": 3317300,
+    "sha256": "15620d05917ac7945a999f045da12a78b730d5b7430876d6d28492638f6c8896",
+    "mesh_count": 1,
+    "image_count": 7,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": true,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_1",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3
+        },
+        "normalTexture": {
+          "index": 4
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "name": "material_2",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 5
+        },
+        "normalTexture": {
+          "index": 6
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\iceshearedrocksupright.provenance.json",
+    "runtime": {
+      "id": "iceshearedrocksupright",
+      "nativeId": "iceshearedrocksupright",
+      "label": "IceShearedRocksUpright",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "frost",
+      "aliases": [
+        "IceShearedRocksUpright",
+        "IceShearedRocksUpright_00",
+        "iceshearedrocksupright"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceShearedRocksUpright/IceShearedRocksUpright_00.m3",
+      "path": "./assets/scenery/iceshearedrocksupright.glb",
+      "size": 6,
+      "boundsSize": [
+        4.601701736450195,
+        3.425546407699585,
+        3.7128906846046448
+      ],
+      "bounds": {
+        "min": [
+          -2.2303032875061035,
+          -0.5575597286224365,
+          -0.6809383034706116
+        ],
+        "max": [
+          2.371398448944092,
+          2.8679866790771484,
+          3.031952381134033
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "BLEND",
+        "OPAQUE"
+      ],
+      "bytes": 3317300,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceRockGiant/IceRockGiant_00.m3",
+    "family": "IceRockGiant",
+    "model": "IceRockGiant_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "icerockgiant",
+    "nativeId": "icerockgiant",
+    "slug": "icerockgiant",
+    "label": "IceRockGiant",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/IceWorld_Rock.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_rock.dds"
+      },
+      {
+        "reference": "Assets/Textures/IceWorld_RockNormal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_rocknormal.dds"
+      },
+      {
+        "reference": "Assets/Textures/MainIceReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/ice_rocktowermasks.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowermasks.dds"
+      },
+      {
+        "reference": "Assets/Textures/ice_rocktowerspec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowerspec.dds"
+      }
+    ],
+    "ok": false,
+    "error": "Converter emitted no visible glTF mesh; native visibility or unsupported model features remain unresolved",
+    "quarantined_output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\unsupported-empty-glb\\icerockgiant.glb"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceRockTower/IceRockTower_00.m3",
+    "family": "IceRockTower",
+    "model": "IceRockTower_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "icerocktower",
+    "nativeId": "icerocktower",
+    "slug": "icerocktower",
+    "label": "IceRockTower",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/IceWorld_Rock.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/iceworld_rock.dds"
+      },
+      {
+        "reference": "Assets/Textures/MainIceReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mainicereflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower01AmbientOcclusion.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower02Normals.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower02normals.dds"
+      },
+      {
+        "reference": "Assets/Textures/ice_rocktowermasks.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowermasks.dds"
+      },
+      {
+        "reference": "Assets/Textures/ice_rocktowerspec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ice_rocktowerspec.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\icerocktower.glb",
+    "bytes": 1763792,
+    "sha256": "d28d2a9845b49d9277490cf14171ea3077995074676b6be289d9c71c506b1496",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\icerocktower.provenance.json",
+    "runtime": {
+      "id": "icerocktower",
+      "nativeId": "icerocktower",
+      "label": "IceRockTower",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "frost",
+      "aliases": [
+        "IceRockTower",
+        "IceRockTower_00",
+        "icerocktower"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceRockTower/IceRockTower_00.m3",
+      "path": "./assets/scenery/icerocktower.glb",
+      "size": 6,
+      "boundsSize": [
+        7.651704549789429,
+        19.163837254047394,
+        7.2395830154418945
+      ],
+      "bounds": {
+        "min": [
+          -3.5918333530426025,
+          -0.7447393536567688,
+          -3.7268714904785156
+        ],
+        "max": [
+          4.059871196746826,
+          18.419097900390625,
+          3.512711524963379
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 4
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1763792,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/SnowRefinery_Rock/SnowRefinery_Rock_00.m3",
+    "family": "SnowRefinery_Rock",
+    "model": "SnowRefinery_Rock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "snowrefinery-rock",
+    "nativeId": "snowrefinery-rock",
+    "slug": "snowrefinery-rock",
+    "label": "SnowRefinery_Rock",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/SnowBase_ShortCliff_01_diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/SnowBase_ShortCliff_01_norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/SnowBase_ShortCliff_01_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowbase_shortcliff_01_spec.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\snowrefinery-rock.glb",
+    "bytes": 837008,
+    "sha256": "5fdba24604dc0886234fe87e85c7552bdf8e7c5d18541a19979067ef228cab9e",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\snowrefinery-rock.provenance.json",
+    "runtime": {
+      "id": "snowrefinery-rock",
+      "nativeId": "snowrefineryrock",
+      "label": "SnowRefinery_Rock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "frost",
+      "aliases": [
+        "SnowRefinery_Rock",
+        "SnowRefinery_Rock_00",
+        "snowrefinery-rock",
+        "snowrefineryrock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/SnowRefinery_Rock/SnowRefinery_Rock_00.m3",
+      "path": "./assets/scenery/snowrefinery-rock.glb",
+      "size": 5.055,
+      "boundsSize": [
+        2.138138771057129,
+        0.09477727115154266,
+        2.527376413345337
+      ],
+      "bounds": {
+        "min": [
+          -1.0690693855285645,
+          -0.04738863930106163,
+          -1.2636882066726685
+        ],
+        "max": [
+          1.0690693855285645,
+          0.04738863185048103,
+          1.2636882066726685
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 837008,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldAmbientCrystals/IceWorldAmbientCrystals_00.m3",
+    "family": "IceWorldAmbientCrystals",
+    "model": "IceWorldAmbientCrystals_00",
+    "category": "crystal",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "iceworldambientcrystals",
+    "nativeId": "iceworldambientcrystals",
+    "slug": "iceworldambientcrystals",
+    "label": "IceWorldAmbientCrystals",
+    "biome": "frost",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Crystal_Enviorment_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystal_enviorment_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/EnergyRing4Blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/energyring4blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/ResourceCrystalDiff_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystaldiff_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/resourcecrystalspec_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/resourcecrystalspec_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/trev_Crystal_Norms.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/trev_crystal_norms.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\iceworldambientcrystals.glb",
+    "bytes": 822472,
+    "sha256": "55d7544956a50689e596bb4de1f8b35928bd96dccb3571b0f6fce147c3c5f4cc",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "BLEND",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\iceworldambientcrystals.provenance.json",
+    "runtime": {
+      "id": "iceworldambientcrystals",
+      "nativeId": "iceworldambientcrystals",
+      "label": "IceWorldAmbientCrystals",
+      "category": "crystal",
+      "sourceCategory": "crystal",
+      "biome": "frost",
+      "aliases": [
+        "IceWorldAmbientCrystals",
+        "IceWorldAmbientCrystals_00",
+        "iceworldambientcrystals"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/IceWorldAmbientCrystals/IceWorldAmbientCrystals_00.m3",
+      "path": "./assets/scenery/iceworldambientcrystals.glb",
+      "size": 5,
+      "boundsSize": [
+        2.9043551683425903,
+        1.0028296113014221,
+        3.0662829875946045
+      ],
+      "bounds": {
+        "min": [
+          -1.687338948249817,
+          -0.3373231887817383,
+          -1.6094651222229004
+        ],
+        "max": [
+          1.2170162200927734,
+          0.6655064225196838,
+          1.456817865371704
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 3
+        }
+      ],
+      "alphaModes": [
+        "BLEND"
+      ],
+      "bytes": 822472,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRock/CharRock_00.m3",
+    "family": "CharRock",
+    "model": "CharRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charrock",
+    "nativeId": "charrock",
+    "slug": "charrock",
+    "label": "CharRock",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharRock_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRock_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\charrock.glb",
+    "bytes": 294004,
+    "sha256": "23b356a4f2fd5922f547cbe8342930c7f0932aeebe48025add1f60382f56bdbb",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\charrock.provenance.json",
+    "runtime": {
+      "id": "charrock",
+      "nativeId": "charrock",
+      "label": "CharRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "volcano",
+      "aliases": [
+        "CharRock",
+        "CharRock_00",
+        "charrock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRock/CharRock_00.m3",
+      "path": "./assets/scenery/charrock.glb",
+      "size": 3.063,
+      "boundsSize": [
+        1.531457781791687,
+        1.173274040222168,
+        1.4717684984207153
+      ],
+      "bounds": {
+        "min": [
+          -0.7881066799163818,
+          -0.38876157999038696,
+          -0.7025793194770813
+        ],
+        "max": [
+          0.7433511018753052,
+          0.784512460231781,
+          0.769189178943634
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 294004,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockLarge/CharRockLarge_00.m3",
+    "family": "CharRockLarge",
+    "model": "CharRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charrocklarge",
+    "nativeId": "charrocklarge",
+    "slug": "charrocklarge",
+    "label": "CharRockLarge",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharRock_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRock_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRock_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrock_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\charrocklarge.glb",
+    "bytes": 424916,
+    "sha256": "ee340fc46bb70a3182787a7446d0ecce420b00a904018e458765c3be5784fd6a",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\charrocklarge.provenance.json",
+    "runtime": {
+      "id": "charrocklarge",
+      "nativeId": "charrocklarge",
+      "label": "CharRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "volcano",
+      "aliases": [
+        "CharRockLarge",
+        "CharRockLarge_00",
+        "charrocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockLarge/CharRockLarge_00.m3",
+      "path": "./assets/scenery/charrocklarge.glb",
+      "size": 6.5,
+      "boundsSize": [
+        2.6714245080947876,
+        2.9882045090198517,
+        1.996283233165741
+      ],
+      "bounds": {
+        "min": [
+          -1.0244576930999756,
+          -0.1944439709186554,
+          -1.1905778646469116
+        ],
+        "max": [
+          1.646966814994812,
+          2.7937605381011963,
+          0.8057053685188293
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 424916,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockHuge/CharRockHuge_00.m3",
+    "family": "CharRockHuge",
+    "model": "CharRockHuge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charrockhuge",
+    "nativeId": "charrockhuge",
+    "slug": "charrockhuge",
+    "label": "CharRockHuge",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharRockLarge_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRockLarge_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRockLarge_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrocklarge_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\charrockhuge.glb",
+    "bytes": 1224632,
+    "sha256": "eb69f22b76a744bf7606d010cbb68eed797fbab08d2b48d02ce610299700bb50",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\charrockhuge.provenance.json",
+    "runtime": {
+      "id": "charrockhuge",
+      "nativeId": "charrockhuge",
+      "label": "CharRockHuge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "volcano",
+      "aliases": [
+        "CharRockHuge",
+        "CharRockHuge_00",
+        "charrockhuge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockHuge/CharRockHuge_00.m3",
+      "path": "./assets/scenery/charrockhuge.glb",
+      "size": 6,
+      "boundsSize": [
+        6.703405857086182,
+        7.498302340507507,
+        5.009274005889893
+      ],
+      "bounds": {
+        "min": [
+          -2.211029052734375,
+          -0.6369961500167847,
+          -2.9785945415496826
+        ],
+        "max": [
+          4.492376804351807,
+          6.861306190490723,
+          2.03067946434021
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1224632,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDuneRock/CharDuneRock_00.m3",
+    "family": "CharDuneRock",
+    "model": "CharDuneRock_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "chardunerock",
+    "nativeId": "chardunerock",
+    "slug": "chardunerock",
+    "label": "CharDuneRock",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Char2_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char2_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharDuneRock_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chardunerock_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower01AmbientOcclusion.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\chardunerock.glb",
+    "bytes": 1770328,
+    "sha256": "9d1815999e28f7a077527e5ccf574d4ab1a6361f56bc9ba27dd6245d47808516",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\chardunerock.provenance.json",
+    "runtime": {
+      "id": "chardunerock",
+      "nativeId": "chardunerock",
+      "label": "CharDuneRock",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "volcano",
+      "aliases": [
+        "CharDuneRock",
+        "CharDuneRock_00",
+        "chardunerock"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDuneRock/CharDuneRock_00.m3",
+      "path": "./assets/scenery/chardunerock.glb",
+      "size": 6,
+      "boundsSize": [
+        2.2278518080711365,
+        5.083574533462524,
+        1.4551528692245483
+      ],
+      "bounds": {
+        "min": [
+          -0.704400360584259,
+          -1.75,
+          -0.7202901244163513
+        ],
+        "max": [
+          1.5234514474868774,
+          3.3335745334625244,
+          0.734862744808197
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1770328,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDuneRockLarge/CharDuneRockLarge_00.m3",
+    "family": "CharDuneRockLarge",
+    "model": "CharDuneRockLarge_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "chardunerocklarge",
+    "nativeId": "chardunerocklarge",
+    "slug": "chardunerocklarge",
+    "label": "CharDuneRockLarge",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Char2_2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char2_2.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharDuneRock_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chardunerock_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockTower01AmbientOcclusion.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocktower01ambientocclusion.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\chardunerocklarge.glb",
+    "bytes": 1773584,
+    "sha256": "ddbd52ebce16df2ab9ad9bd9b0a21a7b76b0f1425c5070a074bf86cb6a38eb0c",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\chardunerocklarge.provenance.json",
+    "runtime": {
+      "id": "chardunerocklarge",
+      "nativeId": "chardunerocklarge",
+      "label": "CharDuneRockLarge",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "volcano",
+      "aliases": [
+        "CharDuneRockLarge",
+        "CharDuneRockLarge_00",
+        "chardunerocklarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDuneRockLarge/CharDuneRockLarge_00.m3",
+      "path": "./assets/scenery/chardunerocklarge.glb",
+      "size": 6.5,
+      "boundsSize": [
+        2.3021141290664673,
+        2.931748390197754,
+        2.47993803024292
+      ],
+      "bounds": {
+        "min": [
+          -1.1266160011291504,
+          -1.749817967414856,
+          -1.228307843208313
+        ],
+        "max": [
+          1.175498127937317,
+          1.181930422782898,
+          1.251630187034607
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1773584,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockFormation/CharRockFormation_00.m3",
+    "family": "CharRockFormation",
+    "model": "CharRockFormation_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charrockformation",
+    "nativeId": "charrockformation",
+    "slug": "charrockformation",
+    "label": "CharRockFormation",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharRockFormation_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrockformation_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharRockFormation_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charrockformation_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/GreySmoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/greysmoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy1.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\charrockformation.glb",
+    "bytes": 476028,
+    "sha256": "afcba490193d1370dd90a1971ae761a5ffad15d96735995e2007c8b9216f3bfb",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_2",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\charrockformation.provenance.json",
+    "runtime": {
+      "id": "charrockformation",
+      "nativeId": "charrockformation",
+      "label": "CharRockFormation",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "volcano",
+      "aliases": [
+        "CharRockFormation",
+        "CharRockFormation_00",
+        "charrockformation"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharRockFormation/CharRockFormation_00.m3",
+      "path": "./assets/scenery/charrockformation.glb",
+      "size": 4.333,
+      "boundsSize": [
+        1.9768248200416565,
+        1.6402002200484276,
+        2.16660213470459
+      ],
+      "bounds": {
+        "min": [
+          -0.9550830721855164,
+          -0.09525390714406967,
+          -1.1523829698562622
+        ],
+        "max": [
+          1.0217417478561401,
+          1.544946312904358,
+          1.0142191648483276
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 4
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 476028,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharCrystal/CharCrystal_00.m3",
+    "family": "CharCrystal",
+    "model": "CharCrystal_00",
+    "category": "crystal",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charcrystal",
+    "nativeId": "charcrystal",
+    "slug": "charcrystal",
+    "label": "CharCrystal",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Emissive_All.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_emissive_all.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/CrystalHuge_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystalhuge_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\charcrystal.glb",
+    "bytes": 1123060,
+    "sha256": "d74fa574740a95ff5a3015d55a95411d6235016fa223f258c3f2bdb90dda434e",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\charcrystal.provenance.json",
+    "runtime": {
+      "id": "charcrystal",
+      "nativeId": "charcrystal",
+      "label": "CharCrystal",
+      "category": "crystal",
+      "sourceCategory": "crystal",
+      "biome": "volcano",
+      "aliases": [
+        "CharCrystal",
+        "CharCrystal_00",
+        "charcrystal"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharCrystal/CharCrystal_00.m3",
+      "path": "./assets/scenery/charcrystal.glb",
+      "size": 3.198,
+      "boundsSize": [
+        1.4561282396316528,
+        1.5989893078804016,
+        0.9807579219341278
+      ],
+      "bounds": {
+        "min": [
+          -0.7280641198158264,
+          -0.061665117740631104,
+          -0.49037885665893555
+        ],
+        "max": [
+          0.7280641198158264,
+          1.5373241901397705,
+          0.49037906527519226
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1123060,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharCrystalLarge/CharCrystalLarge_00.m3",
+    "family": "CharCrystalLarge",
+    "model": "CharCrystalLarge_00",
+    "category": "crystal",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "charcrystallarge",
+    "nativeId": "charcrystallarge",
+    "slug": "charcrystallarge",
+    "label": "CharCrystalLarge",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Emissive_All.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_emissive_all.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharCrystalHuge_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/charcrystalhuge_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/CrystalHuge_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/crystalhuge_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\charcrystallarge.glb",
+    "bytes": 1184328,
+    "sha256": "974efee9899cb42969e9cb375e8b635107c93d28153fc96e9df89ee312fc7789",
+    "mesh_count": 1,
+    "image_count": 3,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": {
+          "index": 2
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\charcrystallarge.provenance.json",
+    "runtime": {
+      "id": "charcrystallarge",
+      "nativeId": "charcrystallarge",
+      "label": "CharCrystalLarge",
+      "category": "crystal",
+      "sourceCategory": "crystal",
+      "biome": "volcano",
+      "aliases": [
+        "CharCrystalLarge",
+        "CharCrystalLarge_00",
+        "charcrystallarge"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharCrystalLarge/CharCrystalLarge_00.m3",
+      "path": "./assets/scenery/charcrystallarge.glb",
+      "size": 5,
+      "boundsSize": [
+        3.7840222120285034,
+        4.570250302553177,
+        4.638212203979492
+      ],
+      "bounds": {
+        "min": [
+          -1.8920114040374756,
+          -0.14566829800605774,
+          -2.319106340408325
+        ],
+        "max": [
+          1.8920108079910278,
+          4.424582004547119,
+          2.319105863571167
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 1
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1184328,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDestructibleRockCover/CharDestructibleRockCover.m3",
+    "family": "CharDestructibleRockCover",
+    "model": "CharDestructibleRockCover",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "chardestructiblerockcover",
+    "nativeId": "chardestructiblerockcover",
+    "slug": "chardestructiblerockcover",
+    "label": "CharDestructibleRockCover",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Diffuse_Char.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_diffuse_char.dds"
+      },
+      {
+        "reference": "Assets/Textures/DestructibleRockNatural_Normal_Char.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/destructiblerocknatural_normal_char.dds"
+      },
+      {
+        "reference": "Assets/Textures/RockDebris2_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rockdebris2_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Rocks1_Brown2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocks1_brown2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zergling_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zergling_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zergling_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zergling_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergling_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\chardestructiblerockcover.glb",
+    "bytes": 1341528,
+    "sha256": "2d8b86238f59e5617f789497240c42b0a46c0fcf2ed655bec46abbfef55b6e0b",
+    "mesh_count": 1,
+    "image_count": 5,
+    "animations": [
+      {
+        "name": "Stand_full",
+        "channels": 2,
+        "samplers": 2,
+        "duration": 0.9990000128746033
+      },
+      {
+        "name": "Death_full",
+        "channels": 54,
+        "samplers": 54,
+        "duration": 6.665999889373779
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "MASK",
+        "alphaCutoff": 0.1254902,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "name": "material_1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2
+        },
+        "normalTexture": {
+          "index": 3
+        },
+        "emissiveTexture": {
+          "index": 4
+        },
+        "emissiveFactor": [
+          1,
+          1,
+          1
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\chardestructiblerockcover.provenance.json",
+    "runtime": {
+      "id": "chardestructiblerockcover",
+      "nativeId": "chardestructiblerockcover",
+      "label": "CharDestructibleRockCover",
+      "category": "rock",
+      "sourceCategory": "rock",
+      "biome": "volcano",
+      "aliases": [
+        "CharDestructibleRockCover",
+        "chardestructiblerockcover"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharDestructibleRockCover/CharDestructibleRockCover.m3",
+      "path": "./assets/scenery/chardestructiblerockcover.glb",
+      "size": 6,
+      "boundsSize": [
+        4.647971868515015,
+        0.7929121851921082,
+        4.684334993362427
+      ],
+      "bounds": {
+        "min": [
+          -2.5030603408813477,
+          -0.05326789617538452,
+          -2.1928372383117676
+        ],
+        "max": [
+          2.144911527633667,
+          0.7396442890167236,
+          2.491497755050659
+        ]
+      },
+      "animations": [
+        "Stand_full",
+        "Death_full"
+      ],
+      "stateAnimation": "Stand_full",
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 39
+        }
+      ],
+      "alphaModes": [
+        "MASK",
+        "OPAQUE"
+      ],
+      "bytes": 1341528,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/RedstoneRockSpires/RedstoneRockSpires_00.m3",
+    "family": "RedstoneRockSpires",
+    "model": "RedstoneRockSpires_00",
+    "category": "rock",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "redstonerockspires",
+    "nativeId": "redstonerockspires",
+    "slug": "redstonerockspires",
+    "label": "RedstoneRockSpires",
+    "biome": "volcano",
+    "textures": [
+      {
+        "reference": "Assets/Textures/RedStoneRockSpires_NormalRework.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_normalrework.dds"
+      },
+      {
+        "reference": "Assets/Textures/RedStoneRockSpires_SpecularRework.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_specularrework.dds"
+      },
+      {
+        "reference": "Assets/Textures/RedStoneRockSpires_diffuseRework.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/redstonerockspires_diffuserework.dds"
+      }
+    ],
+    "ok": false,
+    "error": "Converter emitted no visible glTF mesh; native visibility or unsupported model features remain unresolved",
+    "quarantined_output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\unsupported-empty-glb\\redstonerockspires.glb"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CommandCenterWrecked/CommandCenterWrecked_00.m3",
+    "family": "CommandCenterWrecked",
+    "model": "CommandCenterWrecked_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "commandcenterwrecked",
+    "nativeId": "commandcenterwrecked",
+    "slug": "commandcenterwrecked",
+    "label": "CommandCenterWrecked",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CommandCenterWreckedShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwreckedshadow_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenterWrecked_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwrecked_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenterWrecked_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenterwrecked_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\commandcenterwrecked.glb",
+    "bytes": 1107552,
+    "sha256": "edc056be87bf7fd1368fd791c4e78d2d2f07a4df73f42f036fc386df561fd176",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [
+      {
+        "name": "Fly Start_full",
+        "channels": 2,
+        "samplers": 2,
+        "duration": 2
+      },
+      {
+        "name": "Fly Stand_full",
+        "channels": 2,
+        "samplers": 2,
+        "duration": 2
+      },
+      {
+        "name": "Fly Walk_full",
+        "channels": 2,
+        "samplers": 2,
+        "duration": 2
+      },
+      {
+        "name": "Fly End_full",
+        "channels": 2,
+        "samplers": 2,
+        "duration": 2
+      }
+    ],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\commandcenterwrecked.provenance.json",
+    "runtime": {
+      "id": "commandcenterwrecked",
+      "nativeId": "commandcenterwrecked",
+      "label": "CommandCenterWrecked",
+      "category": "wreckage",
+      "sourceCategory": "wreckage",
+      "biome": "any",
+      "aliases": [
+        "CommandCenterWrecked",
+        "CommandCenterWrecked_00",
+        "commandcenterwrecked"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CommandCenterWrecked/CommandCenterWrecked_00.m3",
+      "path": "./assets/scenery/commandcenterwrecked.glb",
+      "size": 8,
+      "boundsSize": [
+        5.807539224624634,
+        3.0215266048908234,
+        6.097611904144287
+      ],
+      "bounds": {
+        "min": [
+          -2.8900973796844482,
+          -0.45832231640815735,
+          -3.097949504852295
+        ],
+        "max": [
+          2.9174418449401855,
+          2.563204288482666,
+          2.999662399291992
+        ]
+      },
+      "animations": [
+        "Fly Start_full",
+        "Fly Stand_full",
+        "Fly Walk_full",
+        "Fly End_full"
+      ],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 3
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1107552,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BarracksWrecked/BarracksWrecked_00.m3",
+    "family": "BarracksWrecked",
+    "model": "BarracksWrecked_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "barrackswrecked",
+    "nativeId": "barrackswrecked",
+    "slug": "barrackswrecked",
+    "label": "BarracksWrecked",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BarracksWreckedShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswreckedshadow_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BarracksWrecked_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswrecked_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BarracksWrecked_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barrackswrecked_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\barrackswrecked.glb",
+    "bytes": 910560,
+    "sha256": "c081a36df8530585f356a10354f735302ecbbe0f520a490ad7106c0d8abf4a7e",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\barrackswrecked.provenance.json",
+    "runtime": {
+      "id": "barrackswrecked",
+      "nativeId": "barrackswrecked",
+      "label": "BarracksWrecked",
+      "category": "wreckage",
+      "sourceCategory": "wreckage",
+      "biome": "any",
+      "aliases": [
+        "BarracksWrecked",
+        "BarracksWrecked_00",
+        "barrackswrecked"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BarracksWrecked/BarracksWrecked_00.m3",
+      "path": "./assets/scenery/barrackswrecked.glb",
+      "size": 8,
+      "boundsSize": [
+        5.048222303390503,
+        2.657070606946945,
+        4.781954526901245
+      ],
+      "bounds": {
+        "min": [
+          -2.7895760536193848,
+          -0.48517438769340515,
+          -2.007089376449585
+        ],
+        "max": [
+          2.258646249771118,
+          2.17189621925354,
+          2.77486515045166
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 3
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 910560,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BunkerWrecked/BunkerWrecked_00.m3",
+    "family": "BunkerWrecked",
+    "model": "BunkerWrecked_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "bunkerwrecked",
+    "nativeId": "bunkerwrecked",
+    "slug": "bunkerwrecked",
+    "label": "BunkerWrecked",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BunkerWreckedShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwreckedshadow_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BunkerWrecked_Difffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwrecked_difffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BunkerWrecked_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunkerwrecked_normal.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\bunkerwrecked.glb",
+    "bytes": 858204,
+    "sha256": "2fea0eec96d207ef8ddf7fbf0aac9d99baf9f9b4b9bc50bb2673d7416c1e5494",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_1",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\bunkerwrecked.provenance.json",
+    "runtime": {
+      "id": "bunkerwrecked",
+      "nativeId": "bunkerwrecked",
+      "label": "BunkerWrecked",
+      "category": "wreckage",
+      "sourceCategory": "wreckage",
+      "biome": "any",
+      "aliases": [
+        "BunkerWrecked",
+        "BunkerWrecked_00",
+        "bunkerwrecked"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BunkerWrecked/BunkerWrecked_00.m3",
+      "path": "./assets/scenery/bunkerwrecked.glb",
+      "size": 7.315,
+      "boundsSize": [
+        3.657321810722351,
+        1.094486951828003,
+        3.475865125656128
+      ],
+      "bounds": {
+        "min": [
+          -1.9369161128997803,
+          -0.31676870584487915,
+          -1.6009832620620728
+        ],
+        "max": [
+          1.7204056978225708,
+          0.7777182459831238,
+          1.8748818635940552
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 3
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 858204,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ColonistVehicleWrecked/ColonistVehicleWrecked_00.m3",
+    "family": "ColonistVehicleWrecked",
+    "model": "ColonistVehicleWrecked_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "colonistvehiclewrecked",
+    "nativeId": "colonistvehiclewrecked",
+    "slug": "colonistvehiclewrecked",
+    "label": "ColonistVehicleWrecked",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/ColonistVehicle_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/colonistvehicle_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ColonistVehicle_normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/colonistvehicle_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Dust3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dust3.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\colonistvehiclewrecked.glb",
+    "bytes": 700644,
+    "sha256": "04dc034d8fc97e3d3a57bd2e82372c2d1fbb9dbc90b5da06db1dc5e3d7163c40",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\colonistvehiclewrecked.provenance.json",
+    "runtime": {
+      "id": "colonistvehiclewrecked",
+      "nativeId": "colonistvehiclewrecked",
+      "label": "ColonistVehicleWrecked",
+      "category": "wreckage",
+      "sourceCategory": "wreckage",
+      "biome": "any",
+      "aliases": [
+        "ColonistVehicleWrecked",
+        "ColonistVehicleWrecked_00",
+        "colonistvehiclewrecked"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/ColonistVehicleWrecked/ColonistVehicleWrecked_00.m3",
+      "path": "./assets/scenery/colonistvehiclewrecked.glb",
+      "size": 4.946,
+      "boundsSize": [
+        1.6813298463821411,
+        0.8454480990767479,
+        2.4729477167129517
+      ],
+      "bounds": {
+        "min": [
+          -0.8264008164405823,
+          -0.10290011018514633,
+          -1.1522594690322876
+        ],
+        "max": [
+          0.8549290299415588,
+          0.7425479888916016,
+          1.320688247680664
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 3
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 700644,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/WreckedCargoTruck/WreckedCargoTruck_00.m3",
+    "family": "WreckedCargoTruck",
+    "model": "WreckedCargoTruck_00",
+    "category": "wreckage",
+    "auxiliary": false,
+    "variantSuffix": "00",
+    "id": "wreckedcargotruck",
+    "nativeId": "wreckedcargotruck",
+    "slug": "wreckedcargotruck",
+    "label": "WreckedCargoTruck",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CargoTruck_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cargotruck_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CargoTruck_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cargotruck_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/WreckedCargoTruck_Diffuse_Red.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/wreckedcargotruck_diffuse_red.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\wreckedcargotruck.glb",
+    "bytes": 1238636,
+    "sha256": "237592d73aae35aea4985412802e1723840e2fdef7acb49ac31247b585b3792f",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\wreckedcargotruck.provenance.json",
+    "runtime": {
+      "id": "wreckedcargotruck",
+      "nativeId": "wreckedcargotruck",
+      "label": "WreckedCargoTruck",
+      "category": "wreckage",
+      "sourceCategory": "wreckage",
+      "biome": "any",
+      "aliases": [
+        "WreckedCargoTruck",
+        "WreckedCargoTruck_00",
+        "wreckedcargotruck"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/WreckedCargoTruck/WreckedCargoTruck_00.m3",
+      "path": "./assets/scenery/wreckedcargotruck.glb",
+      "size": 8,
+      "boundsSize": [
+        3.355201005935669,
+        1.8521966226398945,
+        4.167983770370483
+      ],
+      "bounds": {
+        "min": [
+          -1.698728084564209,
+          -0.03638153150677681,
+          -2.5095319747924805
+        ],
+        "max": [
+          1.65647292137146,
+          1.8158150911331177,
+          1.658451795578003
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 1238636,
+      "auxiliary": false
+    }
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_PowerCrystal/Shakuras_PowerCrystal.m3",
+    "family": "Shakuras_PowerCrystal",
+    "model": "Shakuras_PowerCrystal",
+    "category": "crystal",
+    "auxiliary": false,
+    "variantSuffix": null,
+    "id": "shakuras-powercrystal",
+    "nativeId": "shakuras-powercrystal",
+    "slug": "shakuras-powercrystal",
+    "label": "Shakuras_PowerCrystal",
+    "biome": "any",
+    "textures": [
+      {
+        "reference": "Assets/Textures/PowerCrystal_Norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/powercrystal_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/PowerCrystal_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/powercrystal_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shakuras_PowerCrystal_Dif.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_powercrystal_dif.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shakuras_PowerCrystal_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_powercrystal_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/Storm_GoldReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/storm_goldreflection.dds"
+      }
+    ],
+    "ok": true,
+    "output": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\spaceinvaders-v012\\assets\\scenery\\shakuras-powercrystal.glb",
+    "bytes": 610240,
+    "sha256": "ca38214796078e2eb021bcd10d266d5eb79679672191aefdceb4f4175e3e0b0c",
+    "mesh_count": 1,
+    "image_count": 2,
+    "animations": [],
+    "materials": [
+      {
+        "index": 0,
+        "name": "material_0",
+        "alphaMode": "OPAQUE",
+        "alphaCutoff": 0.5,
+        "doubleSided": false,
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "normalTexture": {
+          "index": 1
+        },
+        "emissiveTexture": null,
+        "emissiveFactor": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "khronos_errors": 0,
+    "khronos_warnings": 0,
+    "missing_texture_stems": [],
+    "provenance": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-scenery-recovery\\reports\\shakuras-powercrystal.provenance.json",
+    "runtime": {
+      "id": "shakuras-powercrystal",
+      "nativeId": "shakuraspowercrystal",
+      "label": "Shakuras_PowerCrystal",
+      "category": "crystal",
+      "sourceCategory": "crystal",
+      "biome": "any",
+      "aliases": [
+        "Shakuras_PowerCrystal",
+        "shakuras-powercrystal",
+        "shakuraspowercrystal"
+      ],
+      "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_PowerCrystal/Shakuras_PowerCrystal.m3",
+      "path": "./assets/scenery/shakuras-powercrystal.glb",
+      "size": 5,
+      "boundsSize": [
+        1.2406156063079834,
+        3.46840637922287,
+        1.0601919889450073
+      ],
+      "bounds": {
+        "min": [
+          -0.5968945622444153,
+          0.6105502247810364,
+          -0.5348460078239441
+        ],
+        "max": [
+          0.6437210440635681,
+          4.078956604003906,
+          0.5253459811210632
+        ]
+      },
+      "animations": [],
+      "stateAnimation": null,
+      "skins": [
+        {
+          "name": null,
+          "joint_count": 2
+        }
+      ],
+      "alphaModes": [
+        "OPAQUE"
+      ],
+      "bytes": 610240,
+      "auxiliary": false
+    }
+  }
+]

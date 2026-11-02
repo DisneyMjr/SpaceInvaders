@@ -1,0 +1,160 @@
+{
+  "passed": true,
+  "models": [
+    {
+      "label": "Extrator Solar",
+      "info": "4 partes • 3 texturas • 16 animações",
+      "animationOptions": 16
+    },
+    {
+      "label": "Vanguarda",
+      "info": "5 partes • 2 texturas • 24 animações",
+      "animationOptions": 24
+    },
+    {
+      "label": "Bastião",
+      "info": "7 partes • 5 texturas • 1 animações",
+      "animationOptions": 1
+    },
+    {
+      "label": "Asa-Rasante",
+      "info": "4 partes • 3 texturas • 3 animações",
+      "animationOptions": 3
+    },
+    {
+      "label": "Espectro",
+      "info": "6 partes • 4 texturas • 42 animações",
+      "animationOptions": 42
+    },
+    {
+      "label": "Demolidor",
+      "info": "4 partes • 3 texturas • 20 animações",
+      "animationOptions": 20
+    },
+    {
+      "label": "Guardião",
+      "info": "4 partes • 3 texturas • 13 animações",
+      "animationOptions": 13
+    },
+    {
+      "label": "Titã Solar",
+      "info": "6 partes • 6 texturas • 31 animações",
+      "animationOptions": 31
+    },
+    {
+      "label": "Farol Solar",
+      "info": "10 partes • 8 texturas • 32 animações",
+      "animationOptions": 32
+    },
+    {
+      "label": "Forja Solar",
+      "info": "5 partes • 4 texturas • 16 animações",
+      "animationOptions": 16
+    },
+    {
+      "label": "Sonda Lúmen",
+      "info": "4 partes • 3 texturas • 8 animações",
+      "animationOptions": 8
+    },
+    {
+      "label": "Lanceiro Aether",
+      "info": "5 partes • 5 texturas • 20 animações",
+      "animationOptions": 20
+    },
+    {
+      "label": "Custódio",
+      "info": "6 partes • 5 texturas • 24 animações",
+      "animationOptions": 24
+    },
+    {
+      "label": "Fênix Prismática",
+      "info": "5 partes • 4 texturas • 3 animações",
+      "animationOptions": 3
+    },
+    {
+      "label": "Oráculo",
+      "info": "4 partes • 3 texturas • 17 animações",
+      "animationOptions": 17
+    },
+    {
+      "label": "Errante",
+      "info": "4 partes • 3 texturas • 15 animações",
+      "animationOptions": 15
+    },
+    {
+      "label": "Vigia",
+      "info": "6 partes • 5 texturas • 12 animações",
+      "animationOptions": 12
+    },
+    {
+      "label": "Avatar Aether",
+      "info": "5 partes • 3 texturas • 20 animações",
+      "animationOptions": 20
+    },
+    {
+      "label": "Núcleo Aether",
+      "info": "7 partes • 5 texturas • 5 animações",
+      "animationOptions": 5
+    },
+    {
+      "label": "Portal Aether",
+      "info": "9 partes • 9 texturas • 14 animações",
+      "animationOptions": 14
+    },
+    {
+      "label": "Operário Vorax",
+      "info": "4 partes • 3 texturas • 10 animações",
+      "animationOptions": 10
+    },
+    {
+      "label": "Caçador Vorax",
+      "info": "4 partes • 3 texturas • 16 animações",
+      "animationOptions": 16
+    },
+    {
+      "label": "Couraçado",
+      "info": "4 partes • 3 texturas • 27 animações",
+      "animationOptions": 27
+    },
+    {
+      "label": "Vespa Astral",
+      "info": "4 partes • 3 texturas • 12 animações",
+      "animationOptions": 12
+    },
+    {
+      "label": "Lança-Vorax",
+      "info": "5 partes • 2 texturas • 24 animações",
+      "animationOptions": 24
+    },
+    {
+      "label": "Simbionte",
+      "info": "4 partes • 3 texturas • 22 animações",
+      "animationOptions": 22
+    },
+    {
+      "label": "Colosso Vorax",
+      "info": "4 partes • 3 texturas • 23 animações",
+      "animationOptions": 23
+    },
+    {
+      "label": "Ninho Vorax",
+      "info": "5 partes • 5 texturas • 22 animações",
+      "animationOptions": 22
+    },
+    {
+      "label": "Crisálida",
+      "info": "5 partes • 4 texturas • 9 animações",
+      "animationOptions": 9
+    },
+    {
+      "label": "Arca Médica · reserva",
+      "info": "7 partes • 4 texturas • 12 animações",
+      "animationOptions": 12
+    }
+  ],
+  "pageErrors": [],
+  "failedRequests": [],
+  "consoleMessages": [
+    "Service Worker registration blocked by Playwright"
+  ]
+}

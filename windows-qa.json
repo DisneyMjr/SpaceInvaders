@@ -1,0 +1,9 @@
+{
+  "passed": false,
+  "buildCompleted": true,
+  "runtime": "Electron 45.2.1 win32-x64",
+  "windowTest": "blocked-not-validated",
+  "reason": "Native Windows install-directory ACL requires ALL APPLICATION PACKAGES read/execute. ACL change rejected by automatic review; user chose not to modify permissions.",
+  "aclChanged": false,
+  "externalInternetTest": false
+}

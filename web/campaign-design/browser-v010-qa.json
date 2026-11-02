@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "scenarioStarts": 105,
+  "nativeVegetation": {
+    "plants": 380,
+    "batches": 19,
+    "effects": 3
+  },
+  "offlineMobile": true,
+  "trainingSaveRestored": true,
+  "pageErrors": [],
+  "notes": "Controlled startup and objective tests; no full human playthrough or balance certification."
+}

@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "catalogCore": 53,
+  "galleryModels": 55,
+  "desktopPlacement": {
+    "x": -43.99820278624802,
+    "z": -39.997553393846104,
+    "time": 12,
+    "crystals": 9900,
+    "active": false
+  },
+  "invalidNoCharge": true,
+  "cancelNoCharge": true,
+  "constructionTimerAndSave": true,
+  "mobileOfflineCatalogAndCancel": true,
+  "pageErrors": [],
+  "mobileOfflineCatalogCancelAndConfirmedPlacement": true
+}

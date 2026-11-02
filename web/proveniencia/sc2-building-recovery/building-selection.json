@@ -1,0 +1,3006 @@
+[
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/CommandCenterEx1/CommandCenterEx1.m3",
+    "race": "terran",
+    "family": "CommandCenterEx1",
+    "model": "CommandCenterEx1",
+    "slug": "commandcenter",
+    "nativeId": "commandcenter",
+    "faction": "solar",
+    "kind": "core",
+    "modelDataEvidence": "mods/liberty.sc2mod/base.sc2data/GameData/ModelData.xml",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/BulletShell1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bulletshell1.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandConstruction_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandconstruction_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandConstruction_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandconstruction_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/ComstatPlanetary_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/comstatplanetary_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ComstatPlanetary_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/comstatplanetary_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/EmergencyLight1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/emergencylight1.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_orange3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Yellow_Blend.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_yellow_blend.dds"
+      },
+      {
+        "reference": "Assets/Textures/HeatWave1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1BDark.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1bdark.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/LightCone2_Orange.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightcone2_orange.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke2.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/SupplyDepot/SupplyDepot.m3",
+    "race": "terran",
+    "family": "SupplyDepot",
+    "model": "SupplyDepot",
+    "slug": "supplydepot",
+    "nativeId": "supplydepot",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_orange1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke4.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke4.dds"
+      },
+      {
+        "reference": "Assets/Textures/StarBase1_Em.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/starbase1_em.dds"
+      },
+      {
+        "reference": "Assets/Textures/SupplyDepot_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/supplydepot_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/SupplyDepot_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/supplydepot_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/SupplyDepot_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/supplydepot_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/Barracks/Barracks.m3",
+    "race": "terran",
+    "family": "Barracks",
+    "model": "Barracks",
+    "slug": "barracks",
+    "nativeId": "barracks",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Barracks_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barracks_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Barracks_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barracks_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Barracks_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/barracks_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_orange1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Red1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_red1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Yellow1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_yellow1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke2.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/Refinery/Refinery.m3",
+    "race": "terran",
+    "family": "Refinery",
+    "model": "Refinery",
+    "slug": "refinery",
+    "nativeId": "refinery",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Yellow1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_yellow1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LightCone2_Orange.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightcone2_orange.dds"
+      },
+      {
+        "reference": "Assets/Textures/Orange.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/orange.dds"
+      },
+      {
+        "reference": "Assets/Textures/Refinery_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/refinery_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Refinery_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/refinery_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Refinery_Emissive_Red.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/refinery_emissive_red.dds"
+      },
+      {
+        "reference": "Assets/Textures/Refinery_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/refinery_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy9Green.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy9green.dds"
+      },
+      {
+        "reference": "Assets/Textures/White.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/white.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/EngineeringBay/EngineeringBay.m3",
+    "race": "terran",
+    "family": "EngineeringBay",
+    "model": "EngineeringBay",
+    "slug": "engineeringbay",
+    "nativeId": "engineeringbay",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/EngineeringBay_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/engineeringbay_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/EngineeringBay_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/engineeringbay_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/EngineeringBay_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/engineeringbay_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_orange1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Red1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_red1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke_Launch1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke_launch1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/Factory/Factory.m3",
+    "race": "terran",
+    "family": "Factory",
+    "model": "Factory",
+    "slug": "factory",
+    "nativeId": "factory",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Factory_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/factory_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Factory_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/factory_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Factory_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/factory_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_orange1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke2.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/Starport/Starport.m3",
+    "race": "terran",
+    "family": "Starport",
+    "model": "Starport",
+    "slug": "starport",
+    "nativeId": "starport",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran01_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran01_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_orange1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Red1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_red1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Starport_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/starport_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Starport_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/starport_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Starport_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/starport_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/Armory/Armory.m3",
+    "race": "terran",
+    "family": "Armory",
+    "model": "Armory",
+    "slug": "armory",
+    "nativeId": "armory",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Armory_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/armory_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Armory_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/armory_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Armory_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/armory_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/FusionCore/FusionCore.m3",
+    "race": "terran",
+    "family": "FusionCore",
+    "model": "FusionCore",
+    "slug": "fusioncore",
+    "nativeId": "fusioncore",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BloodTerranTileNormal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bloodterrantilenormal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/EggPortraitReflection.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/eggportraitreflection.dds"
+      },
+      {
+        "reference": "Assets/Textures/FusionCoreOoze_Diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fusioncoreooze_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/FusionCoreOoze_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fusioncoreooze_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/FusionCore_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fusioncore_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/FusionCore_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fusioncore_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/FusionCore_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fusioncore_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Lightning3_Orange.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightning3_orange.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/GhostAcademy/GhostAcademy.m3",
+    "race": "terran",
+    "family": "GhostAcademy",
+    "model": "GhostAcademy",
+    "slug": "ghostacademy",
+    "nativeId": "ghostacademy",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/GhostAcademy_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ghostacademy_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/GhostAcademy_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ghostacademy_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/GhostAcademy_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ghostacademy_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Green1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_green1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad99.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad99.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke4.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke4.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke_Launch1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke_launch1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/Bunker/Bunker.m3",
+    "race": "terran",
+    "family": "Bunker",
+    "model": "Bunker",
+    "slug": "bunker",
+    "nativeId": "bunker",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Bunker_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunker_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Bunker_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunker_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Bunker_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bunker_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/MissileTurret/MissileTurret.m3",
+    "race": "terran",
+    "family": "MissileTurret",
+    "model": "MissileTurret",
+    "slug": "missileturret",
+    "nativeId": "missileturret",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Black.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/black.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/MissileTurret_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/missileturret_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/MissileTurret_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/missileturret_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/MissileTurret_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/missileturret_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/NukeIcon3B.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nukeicon3b.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/SensorTower/SensorTower.m3",
+    "race": "terran",
+    "family": "SensorTower",
+    "model": "SensorTower",
+    "slug": "sensortower",
+    "nativeId": "sensortower",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Terran01_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran01_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Red1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_red1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SensorTower_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sensortower_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/SensorTower_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sensortower_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/SensorTower_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sensortower_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SensorTower_Splat.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sensortower_splat.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/TechLab/TechLab.m3",
+    "race": "terran",
+    "family": "TechLab",
+    "model": "TechLab",
+    "slug": "techlab",
+    "nativeId": "techlab",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_EmmisiveSam.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_emmisivesam.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Green1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_green1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shockwave_Blur1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shockwave_blur1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TechLab_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/techlab_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/TechLab_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/techlab_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/TechLab_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/techlab_normal.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/Reactor/Reactor.m3",
+    "race": "terran",
+    "family": "Reactor",
+    "model": "Reactor",
+    "slug": "reactor",
+    "nativeId": "reactor",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Terran01_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran01_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_EmmisiveSam.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_emmisivesam.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reactor_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reactor_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reactor_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reactor_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Reactor_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/reactor_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/Nexus/Nexus.m3",
+    "race": "protoss",
+    "family": "Nexus",
+    "model": "Nexus",
+    "slug": "nexus",
+    "nativeId": "nexus",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/EnergyFlash1C.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/energyflash1c.dds"
+      },
+      {
+        "reference": "Assets/Textures/Nexus_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nexus_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Nexus_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nexus_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Nexus_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nexus_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Nexus_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nexus_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pulse1_Blue2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pulse1_blue2.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy7.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy7.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/Pylon/Pylon.m3",
+    "race": "protoss",
+    "family": "Pylon",
+    "model": "Pylon",
+    "slug": "pylon",
+    "nativeId": "pylon",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/EnviroTest2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/envirotest2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Blue2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_blue2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/Assimilator/Assimilator.m3",
+    "race": "protoss",
+    "family": "Assimilator",
+    "model": "Assimilator",
+    "slug": "assimilator",
+    "nativeId": "assimilator",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Assimilator_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/assimilator_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Assimilator_EmissiveGreen.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/assimilator_emissivegreen.dds"
+      },
+      {
+        "reference": "Assets/Textures/Assimilator_EmissiveRed.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/assimilator_emissivered.dds"
+      },
+      {
+        "reference": "Assets/Textures/Assimilator_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/assimilator_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Assimilator_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/assimilator_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/EnviroTest2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/envirotest2.dds"
+      },
+      {
+        "reference": "Assets/Textures/HeatWave1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Green.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_green.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Red.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_red.dds"
+      },
+      {
+        "reference": "Assets/Textures/grad2b.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/grad2b.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/GatewayEx1/GatewayEx1.m3",
+    "race": "protoss",
+    "family": "GatewayEx1",
+    "model": "GatewayEx1",
+    "slug": "gateway",
+    "nativeId": "gateway",
+    "faction": "aether",
+    "kind": "core",
+    "modelDataEvidence": "mods/liberty.sc2mod/base.sc2data/GameData/ModelData.xml",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Bldg_Gateway_Emissive_HDR2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bldg_gateway_emissive_hdr2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Energy_ring1_128.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/energy_ring1_128.dds"
+      },
+      {
+        "reference": "Assets/Textures/EnviroTest2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/envirotest2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Lightning3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightning3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shields3x.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shields3x.dds"
+      },
+      {
+        "reference": "Assets/Textures/TimeBombNormal2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/timebombnormal2.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/WarpLine2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/warpline2.dds"
+      },
+      {
+        "reference": "Assets/Textures/WarpPlane1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/warpplane1.dds"
+      },
+      {
+        "reference": "Assets/Textures/orbitTech.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/orbittech.dds"
+      },
+      {
+        "reference": "Assets/Textures/pylon_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_spec.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/Forge/Forge.m3",
+    "race": "protoss",
+    "family": "Forge",
+    "model": "Forge",
+    "slug": "forge",
+    "nativeId": "forge",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/DigitalSigns1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/digitalsigns1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Forge_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/forge_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Forge_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/forge_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Forge_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/forge_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Forge_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/forge_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LazerBeam1_Orange1_Blend.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lazerbeam1_orange1_blend.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pulse1_Blue2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pulse1_blue2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/VoidEnergy1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/voidenergy1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/CyberneticsCore/CyberneticsCore.m3",
+    "race": "protoss",
+    "family": "CyberneticsCore",
+    "model": "CyberneticsCore",
+    "slug": "cyberneticscore",
+    "nativeId": "cyberneticscore",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CyberneticsCore_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cyberneticscore_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CyberneticsCore_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cyberneticscore_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CyberneticsCore_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cyberneticscore_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CyberneticsCore_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cyberneticscore_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/RoboticsFacility/RoboticsFacility.m3",
+    "race": "protoss",
+    "family": "RoboticsFacility",
+    "model": "RoboticsFacility",
+    "slug": "roboticsfacility",
+    "nativeId": "roboticsfacility",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/PlasmaField2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/plasmafield2.dds"
+      },
+      {
+        "reference": "Assets/Textures/ProtossReadout.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/protossreadout.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pulse1_Blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pulse1_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoboticsFacility_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roboticsfacility_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoboticsFacility_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roboticsfacility_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoboticsFacility_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roboticsfacility_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoboticsFacility_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roboticsfacility_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronHex1_Blue_Add.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronhex1_blue_add.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_blue3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_blue3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Tron_Pentagon1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tron_pentagon1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/RoboticsSupportBay/RoboticsSupportBay.m3",
+    "race": "protoss",
+    "family": "RoboticsSupportBay",
+    "model": "RoboticsSupportBay",
+    "slug": "roboticsbay",
+    "nativeId": "roboticsbay",
+    "faction": "aether",
+    "kind": "core",
+    "native_model_name": "RoboticsSupportBay",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LightCone5.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightcone5.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoboticSupport_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roboticsupport_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoboticSupport_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roboticsupport_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoboticSupport_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roboticsupport_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoboticSupport_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roboticsupport_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronCube3D.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/troncube3d.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronHex1_Blue_Add2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronhex1_blue_add2.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/Stargate/Stargate.m3",
+    "race": "protoss",
+    "family": "Stargate",
+    "model": "Stargate",
+    "slug": "stargate",
+    "nativeId": "stargate",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pulse1_Blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pulse1_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/Stargate_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/stargate_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Stargate_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/stargate_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Stargate_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/stargate_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Stargate_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/stargate_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/TimeBombNormalCleanRGB.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/timebombnormalcleanrgb.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronHex1_Blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronhex1_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_blue.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/FleetBeacon/FleetBeacon.m3",
+    "race": "protoss",
+    "family": "FleetBeacon",
+    "model": "FleetBeacon",
+    "slug": "fleetbeacon",
+    "nativeId": "fleetbeacon",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/FleetBecon_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fleetbecon_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/FleetBecon_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fleetbecon_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/FleetBecon_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fleetbecon_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/FleetBecon_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fleetbecon_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TechPlane2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/techplane2.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/Tronlines_Adj3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronlines_adj3.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/TwilightCouncil/TwilightCouncil.m3",
+    "race": "protoss",
+    "family": "TwilightCouncil",
+    "model": "TwilightCouncil",
+    "slug": "twilightcouncil",
+    "nativeId": "twilightcouncil",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pulse1_Blue2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pulse1_blue2.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/TwilightCouncil_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/twilightcouncil_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/TwilightCouncil_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/twilightcouncil_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/TwilightCouncil_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/twilightcouncil_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/TwilightCouncil_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/twilightcouncil_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/TemplarArchives/TemplarArchives.m3",
+    "race": "protoss",
+    "family": "TemplarArchives",
+    "model": "TemplarArchives",
+    "slug": "templararchive",
+    "nativeId": "templararchive",
+    "faction": "aether",
+    "kind": "core",
+    "native_model_name": "TemplarArchives",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Glow_Blue3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_blue3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TemplarArchives_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/templararchives_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/TemplarArchives_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/templararchives_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/TemplarArchives_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/templararchives_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/TemplarArchives_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/templararchives_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/DarkShrine/DarkShrine.m3",
+    "race": "protoss",
+    "family": "DarkShrine",
+    "model": "DarkShrine",
+    "slug": "darkshrine",
+    "nativeId": "darkshrine",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DarkShrine_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/darkshrine_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/DarkShrine_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/darkshrine_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/DarkShrine_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/darkshrine_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/DarkShrine_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/darkshrine_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Blue3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_blue3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Teamcolor.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_teamcolor.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/PhotonCannon/PhotonCannon.m3",
+    "race": "protoss",
+    "family": "PhotonCannon",
+    "model": "PhotonCannon",
+    "slug": "photoncannon",
+    "nativeId": "photoncannon",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Flare2B.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/flare2b.dds"
+      },
+      {
+        "reference": "Assets/Textures/GenericGlow2c.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/genericglow2c.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LazerBolt1_Blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lazerbolt1_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/PhotonCannonBase_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/photoncannonbase_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/PhotonCannonBase_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/photoncannonbase_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/PhotonCannonBase_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/photoncannonbase_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/PhotonCannonBase_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/photoncannonbase_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/PhotonCannon_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/photoncannon_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/PhotonCannon_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/photoncannon_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/PhotonCannon_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/photoncannon_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/PhotonCannon_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/photoncannon_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Protoss_Target_Ring.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/protoss_target_ring.dds"
+      },
+      {
+        "reference": "Assets/Textures/PylonRing1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylonring1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/WarpLine2_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/warpline2_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/protoss_tech1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/protoss_tech1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/Hatchery/Hatchery.m3",
+    "race": "zerg",
+    "family": "Hatchery",
+    "model": "Hatchery",
+    "slug": "hatchery",
+    "nativeId": "hatchery",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BloodSquirtRandom_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bloodsquirtrandom_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/CloudSingle.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cloudsingle.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Zerg_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_zerg_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gen_Splat2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gen_splat2.dds"
+      },
+      {
+        "reference": "Assets/Textures/GooSplat_1Purple.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/goosplat_1purple.dds"
+      },
+      {
+        "reference": "Assets/Textures/GooSplat_1_Normal2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/goosplat_1_normal2.dds"
+      },
+      {
+        "reference": "Assets/Textures/HatcheryMorph_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatcherymorph_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/HatcheryMorph_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatcherymorph_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/HatcheryMorph_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatcherymorph_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Tenticles2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_tenticles2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Tenticles2Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_tenticles2normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_TenticlesSpecular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_tenticlesspecular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/Lair/Lair.m3",
+    "race": "zerg",
+    "family": "Lair",
+    "model": "Lair",
+    "slug": "lair",
+    "nativeId": "lair",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CloudSingle.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cloudsingle.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/Hive/Hive.m3",
+    "race": "zerg",
+    "family": "Hive",
+    "model": "Hive",
+    "slug": "hive",
+    "nativeId": "hive",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CloudSingle.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/cloudsingle.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Hatchery_Upgrade_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hatchery_upgrade_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/Extractor/Extractor.m3",
+    "race": "zerg",
+    "family": "Extractor",
+    "model": "Extractor",
+    "slug": "extractor",
+    "nativeId": "extractor",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Extractor_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/extractor_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Extractor_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/extractor_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Extractor_Emissive_Depleted.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/extractor_emissive_depleted.dds"
+      },
+      {
+        "reference": "Assets/Textures/Extractor_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/extractor_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Extractor_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/extractor_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/SmokeWispy9Green.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokewispy9green.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/SpawningPool/SpawningPool.m3",
+    "race": "zerg",
+    "family": "SpawningPool",
+    "model": "SpawningPool",
+    "slug": "spawningpool",
+    "nativeId": "spawningpool",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/BigWaves_Strength.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bigwaves_strength.dds"
+      },
+      {
+        "reference": "Assets/Textures/DefaultWaterNormal0.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/defaultwaternormal0.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpawningPool_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spawningpool_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpawningPool_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spawningpool_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpawningPool_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spawningpool_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpawningPool_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spawningpool_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/EvolutionChamber/EvolutionChamber.m3",
+    "race": "zerg",
+    "family": "EvolutionChamber",
+    "model": "EvolutionChamber",
+    "slug": "evolutionchamber",
+    "nativeId": "evolutionchamber",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/EvolutionChamber_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/evolutionchamber_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/EvolutionChamber_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/evolutionchamber_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/EvolutionChamber_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/evolutionchamber_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/RoachWarren/RoachWarren.m3",
+    "race": "zerg",
+    "family": "RoachWarren",
+    "model": "RoachWarren",
+    "slug": "roachwarren",
+    "nativeId": "roachwarren",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/RoachWarren_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roachwarren_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoachWarren_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roachwarren_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/RoachWarren_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/roachwarren_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/BanelingNest/BanelingNest.m3",
+    "race": "zerg",
+    "family": "BanelingNest",
+    "model": "BanelingNest",
+    "slug": "banelingnest",
+    "nativeId": "banelingnest",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BanelingNest_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/banelingnest_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BanelingNest_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/banelingnest_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/BanelingNest_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/banelingnest_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/BanelingNest_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/banelingnest_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/HydraliskDen/HydraliskDen.m3",
+    "race": "zerg",
+    "family": "HydraliskDen",
+    "model": "HydraliskDen",
+    "slug": "hydraliskden",
+    "nativeId": "hydraliskden",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/HydraliskDen_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hydraliskden_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/HydraliskDen_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hydraliskden_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/HydraliskDen_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/hydraliskden_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/InfestationPit/InfestationPit.m3",
+    "race": "zerg",
+    "family": "InfestationPit",
+    "model": "InfestationPit",
+    "slug": "infestationpit",
+    "nativeId": "infestationpit",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/InfestationPit_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/infestationpit_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/InfestationPit_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/infestationpit_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/InfestationPit_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/infestationpit_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/InfestationPit_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/infestationpit_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/Spire/Spire.m3",
+    "race": "zerg",
+    "family": "Spire",
+    "model": "Spire",
+    "slug": "spire",
+    "nativeId": "spire",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Spire_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spire_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Spire_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spire_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Spire_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spire_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/GreaterSpire/GreaterSpire.m3",
+    "race": "zerg",
+    "family": "GreaterSpire",
+    "model": "GreaterSpire",
+    "slug": "greaterspire",
+    "nativeId": "greaterspire",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/GreaterSpire_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/greaterspire_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/GreaterSpire_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/greaterspire_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/GreaterSpire_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/greaterspire_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/UltraliskCavern/UltraliskCavern.m3",
+    "race": "zerg",
+    "family": "UltraliskCavern",
+    "model": "UltraliskCavern",
+    "slug": "ultraliskcavern",
+    "nativeId": "ultraliskcavern",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/UltraliskCavern_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ultraliskcavern_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/UltraliskCavern_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ultraliskcavern_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/UltraliskCavern_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ultraliskcavern_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/UltraliskCavern_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ultraliskcavern_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Ultralisk_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ultralisk_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Ultralisk_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ultralisk_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Ultralisk_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ultralisk_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Ultralisk_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/ultralisk_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/NydusNetwork/NydusNetwork.m3",
+    "race": "zerg",
+    "family": "NydusNetwork",
+    "model": "NydusNetwork",
+    "slug": "nydusnetwork",
+    "nativeId": "nydusnetwork",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/NydusNetwork_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nydusnetwork_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusNetwork_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nydusnetwork_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusNetwork_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nydusnetwork_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/NydusCanal/NydusCanal.m3",
+    "race": "zerg",
+    "family": "NydusCanal",
+    "model": "NydusCanal",
+    "slug": "nydusworm",
+    "nativeId": "nydusworm",
+    "faction": "swarm",
+    "kind": "core",
+    "native_model_name": "NydusCanal",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DirtChunk1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dirtchunk1.dds"
+      },
+      {
+        "reference": "Assets/Textures/DirtDebris1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dirtdebris1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Dust3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dust3.dds"
+      },
+      {
+        "reference": "Assets/Textures/GooSquirtRandom_R1_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/goosquirtrandom_r1_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/GooSquirtRandom_R1_Yellow.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/goosquirtrandom_r1_yellow.dds"
+      },
+      {
+        "reference": "Assets/Textures/GooSquirtRandom_R1_YellowSpec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/goosquirtrandom_r1_yellowspec.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/NewSmoke01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/newsmoke01.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal-Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal-emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal-Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal-normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal-Slime.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal-slime.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal-Specular2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal-specular2.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusCanal_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nyduscanal_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusWorm_Tentacle_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nydusworm_tentacle_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/NydusWorm_Tentacle_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/nydusworm_tentacle_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Rocks1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/rocks1.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/SpineCrawler/SpineCrawler.m3",
+    "race": "zerg",
+    "family": "SpineCrawler",
+    "model": "SpineCrawler",
+    "slug": "spinecrawler",
+    "nativeId": "spinecrawler",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BloodSpillInvert.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bloodspillinvert.dds"
+      },
+      {
+        "reference": "Assets/Textures/BloodSquirtRandom_R2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bloodsquirtrandom_r2.dds"
+      },
+      {
+        "reference": "Assets/Textures/BloodTerranTile.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bloodterrantile.dds"
+      },
+      {
+        "reference": "Assets/Textures/BloodyBuildingGuts.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bloodybuildingguts.dds"
+      },
+      {
+        "reference": "Assets/Textures/BloodyBuildingGuts_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bloodybuildingguts_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/DirtDebris1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dirtdebris1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Dust3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dust3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gen_Splat3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gen_splat3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gen_Splat3_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gen_splat3_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gen_Splat4_Normal2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gen_splat4_normal2.dds"
+      },
+      {
+        "reference": "Assets/Textures/GooTails_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gootails_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/HeatWave1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Heatradius1_Strength.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatradius1_strength.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpineCrawler_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spinecrawler_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpineCrawler_Ribbon_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spinecrawler_ribbon_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpineCrawler_Ribbon_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spinecrawler_ribbon_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpineCrawler_Ribbon_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spinecrawler_ribbon_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/SpineCrawler_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spinecrawler_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/ZergSplatBuildingDeath_Defuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergsplatbuildingdeath_defuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ZergSplatBuildingDeath_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergsplatbuildingdeath_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/ZergSplatBuildingDeath_Spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zergsplatbuildingdeath_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/Zerg_Guts2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/zerg_guts2.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      },
+      {
+        "reference": "Assets/Textures/spinecrawler_diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/spinecrawler_diffuse.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/SporeCrawler/SporeCrawler.m3",
+    "race": "zerg",
+    "family": "SporeCrawler",
+    "model": "SporeCrawler",
+    "slug": "sporecrawler",
+    "nativeId": "sporecrawler",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/DirtDebris1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dirtdebris1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Dust3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/dust3.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SporeCrawler_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sporecrawler_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/SporeCrawler_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sporecrawler_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/SporeCrawler_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sporecrawler_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/AutoTurret/AutoTurret.m3",
+    "race": "terran",
+    "family": "AutoTurret",
+    "model": "AutoTurret",
+    "slug": "autoturret",
+    "nativeId": "autoturret",
+    "faction": "solar",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Autoturret_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/autoturret_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Autoturret_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/autoturret_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/BulletShell1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bulletshell1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran01_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran01_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1B.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1b.dds"
+      },
+      {
+        "reference": "Assets/Textures/PBC_pipesmoke.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pbc_pipesmoke.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/LurkerDen/LurkerDen.m3",
+    "race": "zerg",
+    "family": "LurkerDen",
+    "model": "LurkerDen",
+    "slug": "lurkerden",
+    "nativeId": "lurkerden",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/LurkerDen_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lurkerden_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/LurkerDen_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lurkerden_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/LurkerDen_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lurkerden_specular.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Zerg/CreepTumor/CreepTumor.m3",
+    "race": "zerg",
+    "family": "CreepTumor",
+    "model": "CreepTumor",
+    "slug": "creeptumor",
+    "nativeId": "creeptumor",
+    "faction": "swarm",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BloodSquirtRandom_R1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bloodsquirtrandom_r1.dds"
+      },
+      {
+        "reference": "Assets/Textures/CreepTumorBirth_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/creeptumorbirth_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CreepTumorBirth_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/creeptumorbirth_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CreepTumorBirth_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/creeptumorbirth_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/CreepTumor_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/creeptumor_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CreepTumor_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/creeptumor_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CreepTumor_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/creeptumor_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gen_Splat2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gen_splat2.dds"
+      },
+      {
+        "reference": "Assets/Textures/GooSplat_1Purple.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/goosplat_1purple.dds"
+      },
+      {
+        "reference": "Assets/Textures/GooSplat_1_Normal2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/goosplat_1_normal2.dds"
+      },
+      {
+        "reference": "Assets/Textures/smokeLit.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/ProtossShield_Battery/ProtossShield_Battery.m3",
+    "race": "protoss",
+    "family": "ProtossShield_Battery",
+    "model": "ProtossShield_Battery",
+    "slug": "shieldbattery",
+    "nativeId": "shieldbattery",
+    "faction": "aether",
+    "kind": "core",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Grey1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_grey1.dds"
+      },
+      {
+        "reference": "Assets/Textures/SMX2_ArmyRoom_Reflection_DefaultMediumBlur.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smx2_armyroom_reflection_defaultmediumblur.dds"
+      },
+      {
+        "reference": "Assets/Textures/ShieldBattery_diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shieldbattery_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/ShieldBattery_emis.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shieldbattery_emis.dds"
+      },
+      {
+        "reference": "Assets/Textures/ShieldBattery_norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shieldbattery_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/ShieldBattery_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shieldbattery_spec.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shockwave_FX_5a.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shockwave_fx_5a.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shockwave_FX_6.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shockwave_fx_6.dds"
+      },
+      {
+        "reference": "Assets/Textures/Storm_EnergyPlane3_ZergResearch_Blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/storm_energyplane3_zergresearch_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/Storm_Lightning_FlipZaps1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/storm_lightning_flipzaps1.dds"
+      },
+      {
+        "reference": "Assets/Textures/TechPlane2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/techplane2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Tech_diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tech_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/Tech_norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tech_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/CommandCenterEx1/CommandCenterEx1.m3",
+    "race": "terran",
+    "family": "CommandCenterEx1",
+    "model": "CommandCenterEx1",
+    "slug": "orbitalcommand",
+    "nativeId": "orbitalcommand",
+    "faction": "solar",
+    "kind": "shared-native-model-state",
+    "shared_model_with": "commandcenter",
+    "limitation": "Native shared model with distinct animation group proved by actor data; web rendering still adapts shader/engine behavior.",
+    "native_animation_group": "B",
+    "native_animation_evidence": "mods/liberty.sc2mod/base.sc2data/GameData/ActorData.xml",
+    "modelDataEvidence": "mods/liberty.sc2mod/base.sc2data/GameData/ModelData.xml",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/BulletShell1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bulletshell1.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandConstruction_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandconstruction_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandConstruction_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandconstruction_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/ComstatPlanetary_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/comstatplanetary_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ComstatPlanetary_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/comstatplanetary_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/EmergencyLight1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/emergencylight1.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_orange3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Yellow_Blend.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_yellow_blend.dds"
+      },
+      {
+        "reference": "Assets/Textures/HeatWave1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1BDark.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1bdark.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/LightCone2_Orange.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightcone2_orange.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke2.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/CommandCenterEx1/CommandCenterEx1.m3",
+    "race": "terran",
+    "family": "CommandCenterEx1",
+    "model": "CommandCenterEx1",
+    "slug": "planetaryfortress",
+    "nativeId": "planetaryfortress",
+    "faction": "solar",
+    "kind": "shared-native-model-state",
+    "shared_model_with": "commandcenter",
+    "limitation": "Native shared model with distinct animation group proved by actor data; web rendering still adapts shader/engine behavior.",
+    "native_animation_group": "A",
+    "native_animation_evidence": "mods/liberty.sc2mod/base.sc2data/GameData/ActorData.xml",
+    "modelDataEvidence": "mods/liberty.sc2mod/base.sc2data/GameData/ModelData.xml",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/BulletShell1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bulletshell1.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandConstruction_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandconstruction_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandConstruction_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandconstruction_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/ComstatPlanetary_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/comstatplanetary_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ComstatPlanetary_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/comstatplanetary_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/EmergencyLight1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/emergencylight1.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_orange3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Yellow_Blend.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_yellow_blend.dds"
+      },
+      {
+        "reference": "Assets/Textures/HeatWave1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1BDark.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1bdark.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/LightCone2_Orange.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightcone2_orange.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke2.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/GatewayEx1/GatewayEx1.m3",
+    "race": "protoss",
+    "family": "GatewayEx1",
+    "model": "GatewayEx1",
+    "slug": "warpgate",
+    "nativeId": "warpgate",
+    "faction": "aether",
+    "kind": "shared-native-model-state",
+    "shared_model_with": "gateway",
+    "limitation": "Native shared model with distinct animation group proved by actor data; web rendering still adapts shader/engine behavior.",
+    "native_animation_group": "Superior",
+    "native_animation_evidence": "mods/liberty.sc2mod/base.sc2data/GameData/ActorData.xml",
+    "modelDataEvidence": "mods/liberty.sc2mod/base.sc2data/GameData/ModelData.xml",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Bldg_Gateway_Emissive_HDR2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bldg_gateway_emissive_hdr2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Energy_ring1_128.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/energy_ring1_128.dds"
+      },
+      {
+        "reference": "Assets/Textures/EnviroTest2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/envirotest2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Lightning3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightning3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shields3x.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shields3x.dds"
+      },
+      {
+        "reference": "Assets/Textures/TimeBombNormal2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/timebombnormal2.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/WarpLine2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/warpline2.dds"
+      },
+      {
+        "reference": "Assets/Textures/WarpPlane1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/warpplane1.dds"
+      },
+      {
+        "reference": "Assets/Textures/orbitTech.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/orbittech.dds"
+      },
+      {
+        "reference": "Assets/Textures/pylon_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_spec.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Terran/CommandCenter/CommandCenter.m3",
+    "race": "terran",
+    "family": "CommandCenter",
+    "model": "CommandCenter",
+    "slug": "commandcenter-classic",
+    "nativeId": "commandcenter-classic",
+    "faction": "solar",
+    "kind": "classic-native-variant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BigWaves.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/bigwaves.dds"
+      },
+      {
+        "reference": "Assets/Textures/BulletShell1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bulletshell1.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandCenter_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandcenter_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandConstruction_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandconstruction_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CommandConstruction_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/commandconstruction_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/ComstatPlanetary_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/comstatplanetary_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/ComstatPlanetary_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/comstatplanetary_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Terran_0001_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_terran_0001_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/EmergencyLight1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/emergencylight1.dds"
+      },
+      {
+        "reference": "Assets/Textures/FireBoom1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireboom1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/glow_haze1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Haze1Grey.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_haze1grey.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Orange3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_orange3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Glow_Yellow_Blend.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_yellow_blend.dds"
+      },
+      {
+        "reference": "Assets/Textures/HeatWave1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/heatwave1.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke1BDark.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/largesmoke1bdark.dds"
+      },
+      {
+        "reference": "Assets/Textures/LargeSmoke2.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/largesmoke2.dds"
+      },
+      {
+        "reference": "Assets/Textures/LightCone2_Orange.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightcone2_orange.dds"
+      },
+      {
+        "reference": "Assets/Textures/Mist1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/mist1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Smoke2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smoke2.dds"
+      }
+    ]
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Buildings/Protoss/Gateway/Gateway.m3",
+    "race": "protoss",
+    "family": "Gateway",
+    "model": "Gateway",
+    "slug": "gateway-classic",
+    "nativeId": "gateway-classic",
+    "faction": "aether",
+    "kind": "classic-native-variant",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Bldg_Gateway_Emissive_HDR2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/bldg_gateway_emissive_hdr2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Decal_Protoss_0000_01.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/decal_protoss_0000_01.dds"
+      },
+      {
+        "reference": "Assets/Textures/Energy_ring1_128.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/energy_ring1_128.dds"
+      },
+      {
+        "reference": "Assets/Textures/EnviroTest2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/envirotest2.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Gateway_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gateway_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Grad_Rays_Blue1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/grad_rays_blue1.dds"
+      },
+      {
+        "reference": "Assets/Textures/Lightning3.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightning3.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Pylon_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_specular.dds"
+      },
+      {
+        "reference": "Assets/Textures/Shields3x.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shields3x.dds"
+      },
+      {
+        "reference": "Assets/Textures/TimeBombNormal2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/timebombnormal2.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_Aqua.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_aqua.dds"
+      },
+      {
+        "reference": "Assets/Textures/TronSquare1_blue.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/tronsquare1_blue.dds"
+      },
+      {
+        "reference": "Assets/Textures/WarpLine2.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/warpline2.dds"
+      },
+      {
+        "reference": "Assets/Textures/WarpPlane1.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/warpplane1.dds"
+      },
+      {
+        "reference": "Assets/Textures/orbitTech.dds",
+        "source": "mods/core.sc2mod/base.sc2assets/Assets/Textures/orbittech.dds"
+      },
+      {
+        "reference": "Assets/Textures/pylon_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/pylon_spec.dds"
+      }
+    ]
+  }
+]

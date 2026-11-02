@@ -1,0 +1,25 @@
+{
+  "source_installation": "C:\\Program Files (x86)\\StarCraft II",
+  "build": "5.0.17.98310",
+  "selected_member_paths": 815,
+  "successful_files": 815,
+  "failed_files": 0,
+  "recovered_bytes": 112891308,
+  "campaign_map_folders": 105,
+  "campaigns": {
+    "void.sc2campaign": 26,
+    "swarm.sc2campaign": 38,
+    "liberty.sc2campaign": 41
+  },
+  "with_terrain": 95,
+  "existing_files_verified_against_local_bytes": 48,
+  "online_mode": false,
+  "online_fallback": "Disabled in the selectedS2 read/extract overrides; payloads opened via privateOpenFileLocal directly. No online extraction or retry.",
+  "budget_bytes": 1073741824,
+  "limitations": [
+    "Campaign map folders include story, tutorial, arcade, test and other scenarios;105folders doesnot mean105combatmissions.",
+    "Only selected phase members recovered:Galaxy scripts,Objects,MapInfo,DocumentInfo,terrainXML/HMAP andavailablePT-BR/enUSGameStrings. Not all cinematic,audio,art,trigger-source orpathingresources.",
+    "Native files were parsed/extracted; the SC2 campaign engine and Galaxy triggers are not executing in the web game.",
+    "Six map presentations were exported for the adapted web campaign; the other native phase files are catalog/recovery data only."
+  ]
+}

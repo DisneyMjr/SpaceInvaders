@@ -1,0 +1,19 @@
+{
+  "name": "spaceinvaders-astral",
+  "version": "0.14.0",
+  "private": true,
+  "description": "SpaceInvaders 3D \u2014 web e Windows com multiplayer por salas",
+  "main": "desktop/main.cjs",
+  "scripts": {
+    "start": "electron .",
+    "server": "node server/start.cjs",
+    "test": "node --test tests/*.test.cjs web/tests/*.test.mjs",
+    "build:windows": "node scripts/build-windows.cjs"
+  },
+  "dependencies": {
+    "ws": "8.22.1"
+  },
+  "devDependencies": {
+    "electron": "45.2.1"
+  }
+}

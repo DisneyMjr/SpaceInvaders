@@ -1,0 +1,20 @@
+{
+  "source_installation": "C:\\Program Files (x86)\\StarCraft II",
+  "build": "5.0.17.98310",
+  "native_models": 14,
+  "native_textures": 27,
+  "native_bytes": 8419188,
+  "model_bytes": 457744,
+  "texture_bytes": 7961444,
+  "failed_files": 0,
+  "missing_texture_references": 0,
+  "local_only": true,
+  "online_fallback": "Disabled by the separateofflineS2library; privateOpenFileLocal usedforpayloadread.",
+  "biome_model_counts": {
+    "verdant": 7,
+    "desert": 3,
+    "frost": 2,
+    "volcano": 2
+  },
+  "scope": "Selectednative foliage only; nowholefloraarchive ororiginalmapplacement reproduction."
+}

@@ -1,0 +1,320 @@
+[
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireball_1hot.dds",
+    "source_sha256": "343b229d574db7046a4d4eb6c5142f310b055a0212822ba4035fd473b8827720",
+    "path": "./assets/attack-effects/fireball.png",
+    "slug": "fireball",
+    "role": "fire/explosion",
+    "source_size": [
+      128,
+      128
+    ],
+    "size": [
+      128,
+      128
+    ],
+    "alpha_range": [
+      255,
+      255
+    ],
+    "bytes": 14713,
+    "sha256": "808ef4c5062d69fd1bcc41aad116e04163c15ef4c0005974f5924066e3b4ef0f",
+    "columns": 1,
+    "rows": 1,
+    "layout_status": "single-image-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 1,
+    "frame_origin": "top-left",
+    "blend": "additive",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Terran/MarineWeaponLaunch/MarineWeaponLaunch.m3"
+    ],
+    "animation_note": "Native single image; lifetime, scale and movement supplied by adapted web emitter."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_yellow1.dds",
+    "source_sha256": "97f9344180314ac55bdbd23b65e49558f7e47eacb5c99b50acd687eb3b39cee0",
+    "path": "./assets/attack-effects/muzzle-glow.png",
+    "slug": "muzzle-glow",
+    "role": "muzzle flash",
+    "source_size": [
+      128,
+      128
+    ],
+    "size": [
+      128,
+      128
+    ],
+    "alpha_range": [
+      255,
+      255
+    ],
+    "bytes": 8372,
+    "sha256": "3b716362cb7d4e44362c4be886ab3c4024b915135fc1eafead64b7c100add7a0",
+    "columns": 1,
+    "rows": 1,
+    "layout_status": "single-image-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 1,
+    "frame_origin": "top-left",
+    "blend": "additive",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Terran/MarineWeaponLaunch/MarineWeaponLaunch.m3"
+    ],
+    "animation_note": "Native single image; lifetime, scale and movement supplied by adapted web emitter."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sparks4.dds",
+    "source_sha256": "3466da47b372af349fb168379cdaff2d88df80607e05263f76f9d1e000d6c04a",
+    "path": "./assets/attack-effects/sparks.png",
+    "slug": "sparks",
+    "role": "impact sparks",
+    "source_size": [
+      128,
+      128
+    ],
+    "size": [
+      128,
+      128
+    ],
+    "alpha_range": [
+      255,
+      255
+    ],
+    "bytes": 8572,
+    "sha256": "1a43c480a86c1fc8b8da44f43b396195fd3d32f1e862e18e370f4e483c14fcec",
+    "columns": 2,
+    "rows": 2,
+    "layout_status": "visual-grid-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 4,
+    "frame_origin": "top-left",
+    "blend": "additive",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Terran/MarineWeaponImpact/MarineWeaponImpact.m3"
+    ],
+    "animation_note": "Grid observed in native image; row-major playback and timing are adaptation choices, not recovered native emitter timing."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds",
+    "source_sha256": "7937f866e203c0ea6dcad8c4979977e7b3f64b58cd247719e807f20157e5e9bd",
+    "path": "./assets/attack-effects/smoke.png",
+    "slug": "smoke",
+    "role": "smoke",
+    "source_size": [
+      128,
+      128
+    ],
+    "size": [
+      128,
+      128
+    ],
+    "alpha_range": [
+      1,
+      255
+    ],
+    "bytes": 17369,
+    "sha256": "b8ba9e766908ba5b8595f18086441542e7ff55d276d754ff53ae3b772fc7b1ee",
+    "columns": 1,
+    "rows": 1,
+    "layout_status": "single-image-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 1,
+    "frame_origin": "top-left",
+    "blend": "normal",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Terran/MarineWeaponImpact/MarineWeaponImpact.m3"
+    ],
+    "animation_note": "Native single image; lifetime, scale and movement supplied by adapted web emitter."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shockwave_fx_3b.dds",
+    "source_sha256": "2fed45853f349bbb242379d09b84b520b1b5328a20cff5f71a1d6aeb53a96bc6",
+    "path": "./assets/attack-effects/shockwave.png",
+    "slug": "shockwave",
+    "role": "energy ring",
+    "source_size": [
+      256,
+      256
+    ],
+    "size": [
+      256,
+      256
+    ],
+    "alpha_range": [
+      255,
+      255
+    ],
+    "bytes": 18640,
+    "sha256": "0f437e71f2dface87eacd795f9280935f8410eff7b43e0f3b55e862fc22069dd",
+    "columns": 1,
+    "rows": 1,
+    "layout_status": "single-image-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 1,
+    "frame_origin": "top-left",
+    "blend": "additive",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Protoss/StalkerMissileImpact/StalkerMissileImpact.m3"
+    ],
+    "animation_note": "Native single image; lifetime, scale and movement supplied by adapted web emitter."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_blue3.dds",
+    "source_sha256": "5bf2191cbb72f4f1ba07e580864dff53d59bc1bc6429e645c01d8b0fd526dc29",
+    "path": "./assets/attack-effects/plasma-glow.png",
+    "slug": "plasma-glow",
+    "role": "blue energy",
+    "source_size": [
+      128,
+      128
+    ],
+    "size": [
+      128,
+      128
+    ],
+    "alpha_range": [
+      0,
+      253
+    ],
+    "bytes": 12153,
+    "sha256": "dd8a31c833944de805df089cfa2bd18e707242751b0de23d0068664e9a8c912a",
+    "columns": 1,
+    "rows": 1,
+    "layout_status": "single-image-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 1,
+    "frame_origin": "top-left",
+    "blend": "additive",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Protoss/StalkerMissileImpact/StalkerMissileImpact.m3"
+    ],
+    "animation_note": "Native single image; lifetime, scale and movement supplied by adapted web emitter."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightningzap4.dds",
+    "source_sha256": "e3a8a5b8e36e920f7833c66929497990403b166ccdba343c6d7e42f3beb5ec86",
+    "path": "./assets/attack-effects/lightning.png",
+    "slug": "lightning",
+    "role": "energy arc",
+    "source_size": [
+      256,
+      256
+    ],
+    "size": [
+      256,
+      256
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 67168,
+    "sha256": "4f860c3baaacaf0ace0118d48983a1c67ea1a06a152c66813eb89a810d18733e",
+    "columns": 1,
+    "rows": 1,
+    "layout_status": "single-image-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 1,
+    "frame_origin": "top-left",
+    "blend": "additive",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Protoss/StalkerMissileImpact/StalkerMissileImpact.m3"
+    ],
+    "animation_note": "Native single image; lifetime, scale and movement supplied by adapted web emitter."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gooball_1.dds",
+    "source_sha256": "670615eece810ac0f9ad134c9f5d6284d8d13d6e446b6913ca5fd43cbd735306",
+    "path": "./assets/attack-effects/acid-ball.png",
+    "slug": "acid-ball",
+    "role": "goo/acid body",
+    "source_size": [
+      64,
+      64
+    ],
+    "size": [
+      64,
+      64
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 7208,
+    "sha256": "62e48dc1448af0c0edf6172d52e0c397fae603f29f205e2b0da0f48371348f17",
+    "columns": 1,
+    "rows": 1,
+    "layout_status": "single-image-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 1,
+    "frame_origin": "top-left",
+    "blend": "normal",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Zerg/RoachWeaponImpact/RoachWeaponImpact.m3"
+    ],
+    "animation_note": "Native single image; lifetime, scale and movement supplied by adapted web emitter."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/animgoosplat1.dds",
+    "source_sha256": "51af7623dbd4167e406ec1b9c1278a6a384afae7d79bf70bbe197ca0ad3ba588",
+    "path": "./assets/attack-effects/acid-splat.png",
+    "slug": "acid-splat",
+    "role": "goo/acid impact",
+    "source_size": [
+      256,
+      256
+    ],
+    "size": [
+      256,
+      256
+    ],
+    "alpha_range": [
+      0,
+      255
+    ],
+    "bytes": 122656,
+    "sha256": "ffecc3b788b8c2f466003a438a77aed64090510250c5d7fa3e67c21f2874f463",
+    "columns": 4,
+    "rows": 4,
+    "layout_status": "visual-grid-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 16,
+    "frame_origin": "top-left",
+    "blend": "normal",
+    "referenced_by": [
+      "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Zerg/RoachWeaponImpact/RoachWeaponImpact.m3"
+    ],
+    "animation_note": "Grid observed in native image; row-major playback and timing are adaptation choices, not recovered native emitter timing."
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_green3.dds",
+    "source_sha256": "23bf7ecd87212c661a6e9410667f299504ea6ad709f4690fe73f87fcb5819ee2",
+    "path": "./assets/attack-effects/acid-glow.png",
+    "slug": "acid-glow",
+    "role": "green energy",
+    "source_size": [
+      128,
+      128
+    ],
+    "size": [
+      128,
+      128
+    ],
+    "alpha_range": [
+      0,
+      253
+    ],
+    "bytes": 12744,
+    "sha256": "13c28a087ea67546a63147f6f8b9a8145033f589892db41ea9b9566ca6f49b11",
+    "columns": 1,
+    "rows": 1,
+    "layout_status": "single-image-inspected",
+    "color_transform": "none;RGBAdecodeandboundedresizeonly",
+    "frames": 1,
+    "frame_origin": "top-left",
+    "blend": "additive",
+    "referenced_by": [],
+    "animation_note": "Native single image; lifetime, scale and movement supplied by adapted web emitter."
+  }
+]

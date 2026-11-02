@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "roles": [
+    {
+      "role": "host",
+      "players": [
+        "veil",
+        "root"
+      ],
+      "seed": 1831127208
+    },
+    {
+      "role": "guest",
+      "players": [
+        "veil",
+        "root"
+      ],
+      "seed": 1831127208
+    }
+  ],
+  "guestMovementSynchronized": true,
+  "guestProductionSynchronized": true,
+  "guestConstructionSynchronized": true,
+  "guestResearchSynchronized": true,
+  "guestTransportSynchronized": true,
+  "fogFiltersNetworkEnemies": true,
+  "disconnectStopsMatch": true,
+  "pageErrors": []
+}

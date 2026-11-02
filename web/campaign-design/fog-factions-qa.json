@@ -1,0 +1,66 @@
+{
+  "passed": true,
+  "factions": [
+    {
+      "faction": "solar",
+      "enemy": "veil",
+      "hidden": true,
+      "hp": 115,
+      "speed": 4.6
+    },
+    {
+      "faction": "aether",
+      "enemy": "veil",
+      "hidden": true,
+      "hp": 115,
+      "speed": 4.6
+    },
+    {
+      "faction": "swarm",
+      "enemy": "veil",
+      "hidden": true,
+      "hp": 115,
+      "speed": 4.6
+    },
+    {
+      "faction": "veil",
+      "enemy": "veil",
+      "hidden": true,
+      "hp": 109.25,
+      "speed": 5.152
+    },
+    {
+      "faction": "silex",
+      "enemy": "veil",
+      "hidden": true,
+      "hp": 135.7,
+      "speed": 4.14
+    },
+    {
+      "faction": "root",
+      "enemy": "veil",
+      "hidden": true,
+      "hp": 128.8,
+      "speed": 4.784
+    }
+  ],
+  "discovery": {
+    "hiddenTarget": null,
+    "revealed": true,
+    "visibleTarget": true,
+    "red": 69,
+    "scout": 25,
+    "enemy": 2,
+    "x": -9.780857705700189,
+    "z": 71.95526217139259
+  },
+  "memory": {
+    "hiddenAgain": true,
+    "explored": true,
+    "remembered": true,
+    "saved": true
+  },
+  "freshEncountersDiffer": true,
+  "offlineMobile": true,
+  "pageErrors": []
+}

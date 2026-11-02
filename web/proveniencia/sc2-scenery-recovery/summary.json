@@ -1,0 +1,41 @@
+{
+  "build": "98310",
+  "localOnly": true,
+  "installationWrites": false,
+  "selectedModels": 53,
+  "linkedTextures": 135,
+  "recoveredFiles": 188,
+  "bytes": 84868088,
+  "failures": [],
+  "missingTextures": [],
+  "selectedByBiome": {
+    "verdant": 12,
+    "desert": 12,
+    "frost": 9,
+    "volcano": 10,
+    "any": 10
+  },
+  "selectedByCategory": {
+    "rock": 37,
+    "cliff": 1,
+    "ruins": 2,
+    "crystal": 4,
+    "wreckage": 5,
+    "resource": 4
+  },
+  "catalogModelFiles": 13729,
+  "catalogFolders": 3658,
+  "catalogAuxiliaryFiles": 570,
+  "catalogNumericVariantFiles": 12168,
+  "catalogByCategory": {
+    "other": 7393,
+    "props": 1139,
+    "cliff": 838,
+    "ruins": 808,
+    "wreckage": 872,
+    "vegetation": 1539,
+    "rock": 1014,
+    "crystal": 126
+  },
+  "countNote": "Folders and filenames are not independent playable objects. Classification is a path/name heuristic; includes editor/legacy content and variants."
+}

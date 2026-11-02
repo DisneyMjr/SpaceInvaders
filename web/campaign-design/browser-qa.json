@@ -1,0 +1,58 @@
+{
+  "passed": true,
+  "scenarioChecks": [
+    {
+      "id": "first-light",
+      "result": "victory",
+      "army": 3
+    },
+    {
+      "id": "rust-line",
+      "result": "victory",
+      "remainingHQ": true
+    },
+    {
+      "id": "long-watch",
+      "result": "victory",
+      "waveBefore": 1,
+      "waveAfterLoad": 1,
+      "timeBefore": 25.0000000000004,
+      "timeAfterLoad": 25.0000000000004
+    },
+    {
+      "id": "lost-voices",
+      "result": "victory",
+      "remainingNeutral": 0,
+      "rescued": 3
+    },
+    {
+      "id": "prism-network",
+      "result": "victory",
+      "captureBefore": {
+        "beacon-1": 20.000000000000153,
+        "beacon-2": 20.000000000000153,
+        "beacon-3": 20.000000000000153
+      },
+      "captureAfterLoad": {
+        "beacon-1": 20.000000000000153,
+        "beacon-2": 20.000000000000153,
+        "beacon-3": 20.000000000000153
+      }
+    },
+    {
+      "id": "obsidian-heart",
+      "result": "victory",
+      "completed": 6
+    }
+  ],
+  "controlGroup": true,
+  "attackMove": {
+    "ordered": "attackMove",
+    "enemySelected": true
+  },
+  "heroLossDefeat": true,
+  "progressSurvivesReload": true,
+  "offlineMobileMission": true,
+  "pageErrors": [],
+  "notes": "Completion checks use controlled world states and accelerated simulation; not a six-mission human playthrough or balance test."
+}

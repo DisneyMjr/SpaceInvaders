@@ -1,0 +1,314 @@
+{
+  "scope": "Bounded local inventory/XML/localization research, installation build 98310; no web claims or new official race assertion.",
+  "raceDistinction": "Terran, Protoss and Zerg are the three underlying race families in this research. Nova, Han/Horner, Tal'darim, Purifiers, Nerazim and Primal are commanders, subgroups, lineages or asset/skin families within them. These are not six additional official races.",
+  "groups": [
+    {
+      "id": "nova-covertops",
+      "baseRace": "Terran",
+      "classification": "commander-and-asset-family",
+      "inventoryModelFilesIncludingAuxiliaries": 152,
+      "inventoryPrimaryNameCandidates": 43,
+      "evidence": [
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\swarmstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 567,
+          "id": "Character/Name/Nova",
+          "excerpt": "Nova"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\liberty.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 578,
+          "id": "Achievement/Name/NovaCovertOpsChapter01",
+          "excerpt": "Nova: Operações Secretas 01"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ModelData.xml",
+          "line": 11840,
+          "id": "Hellbat_CovertOps_Collection",
+          "excerpt": "\"Hellbat_CovertOps_Collection\" parent=\"HellionHellbatBase\"/>"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 473455,
+          "id": "Marine_CovertOps_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Terran/Marine_CovertOps_Collection/Marine_CovertOps_Collection.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 473514,
+          "id": "Marauder_CovertOps_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Terran/Marauder_CovertOps_Collection/Marauder_CovertOps_Collection.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 473553,
+          "id": "Medivac_CovertOps_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Terran/Medivac_CovertOps_Collection/Medivac_CovertOps_Collection.m3"
+        }
+      ],
+      "limits": "Asset family names establish local content presence; they do not establish a separate playable race or complete independent tech tree. Han/Horner commander linkage uses character strings plus the combined HornerHan asset namespace."
+    },
+    {
+      "id": "han-horner",
+      "baseRace": "Terran",
+      "classification": "characters-commanders-and-asset-family",
+      "inventoryModelFilesIncludingAuxiliaries": 48,
+      "inventoryPrimaryNameCandidates": 13,
+      "evidence": [
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\swarmstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 554,
+          "id": "Character/Name/Horner",
+          "excerpt": "Horner"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\swarmstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 564,
+          "id": "Character/Name/MiraHan",
+          "excerpt": "Mira Han"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 473978,
+          "id": "HornerHan_StrikeFighter_Upgrade",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Terran/HornerHan_StrikeFighter_Upgrade/HornerHan_StrikeFighter_Upgrade.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 473982,
+          "id": "HornerHan_StrikeFighter",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Terran/HornerHan_StrikeFighter/HornerHan_StrikeFighter.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 474320,
+          "id": "CommandCenter_HornerHan_Coop",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Terran/CommandCenter_HornerHan_Coop/CommandCenter_HornerHan_Coop.m3"
+        }
+      ],
+      "limits": "Asset family names establish local content presence; they do not establish a separate playable race or complete independent tech tree. Han/Horner commander linkage uses character strings plus the combined HornerHan asset namespace."
+    },
+    {
+      "id": "taldarim",
+      "baseRace": "Protoss",
+      "classification": "faction-subgroup",
+      "inventoryModelFilesIncludingAuxiliaries": 264,
+      "inventoryPrimaryNameCandidates": 77,
+      "evidence": [
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\voidstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 289,
+          "id": "Map/ContactTitle/PTaldarim01",
+          "excerpt": "Alarak<n/>Primeiro Ascendente<n/>Tal'darim"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ModelData.xml",
+          "line": 8852,
+          "id": "RoboticsSupportBay_Taldarim_Collection",
+          "excerpt": "\"RoboticsSupportBay_Taldarim_Collection\" parent=\"RoboticsBay\">"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 475754,
+          "id": "Probe_Taldarim_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/Probe_Taldarim_Collection/Probe_Taldarim_Collection.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 475756,
+          "id": "Probe_Taldarim",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/Probe_Taldarim/Probe_Taldarim.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 475795,
+          "id": "Phoenix_Taldarim_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/Phoenix_Taldarim_Collection/Phoenix_Taldarim_Collection.m3"
+        }
+      ],
+      "limits": "Asset family names establish local content presence; they do not establish a separate playable race or complete independent tech tree. Han/Horner commander linkage uses character strings plus the combined HornerHan asset namespace."
+    },
+    {
+      "id": "purifiers",
+      "baseRace": "Protoss",
+      "classification": "faction-subgroup",
+      "inventoryModelFilesIncludingAuxiliaries": 222,
+      "inventoryPrimaryNameCandidates": 69,
+      "evidence": [
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\liberty.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 1756,
+          "id": "Button/Tooltip/ColossusFenix",
+          "excerpt": "Facção dos Purificadores<n/>Andarilho de batalha com ataque em área poderoso. Consegue subir e descer de penhascos.<n/><n/><c val=\"ffff8a\">Ataca unidades terrestres.</c>"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ModelData.xml",
+          "line": 12368,
+          "id": "Interceptor_Purifier_Collection",
+          "excerpt": "\"Interceptor_Purifier_Collection\" parent=\"Unit\" Race=\"Protoss\">"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 475761,
+          "id": "Probe_Purifier_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/Probe_Purifier_Collection/Probe_Purifier_Collection.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 475804,
+          "id": "Phoenix_Purifier_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/Phoenix_Purifier_Collection/Phoenix_Purifier_Collection.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 475806,
+          "id": "Phoenix_Purifier_HoloUnit",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/Phoenix_Purifier_HoloUnit/Phoenix_Purifier_HoloUnit.m3"
+        }
+      ],
+      "limits": "Asset family names establish local content presence; they do not establish a separate playable race or complete independent tech tree. Han/Horner commander linkage uses character strings plus the combined HornerHan asset namespace."
+    },
+    {
+      "id": "nerazim",
+      "baseRace": "Protoss",
+      "classification": "faction-subgroup",
+      "inventoryModelFilesIncludingAuxiliaries": 13,
+      "inventoryPrimaryNameCandidates": 4,
+      "evidence": [
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\voidstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 287,
+          "id": "Map/ContactTitle/PShakuras01",
+          "excerpt": "Vorazun<n/>Matriarca<n/>Nerazim"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 476272,
+          "id": "Immortal_Nerazim_HoloUnit",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/Immortal_Nerazim_HoloUnit/Immortal_Nerazim_HoloUnit.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 476273,
+          "id": "Immortal_Nerazim",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/Immortal_Nerazim/Immortal_Nerazim.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 476587,
+          "id": "WarpPrism_Nerazim_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Protoss/WarpPrism_Nerazim_Collection/WarpPrism_Nerazim_Collection.m3"
+        }
+      ],
+      "limits": "Asset family names establish local content presence; they do not establish a separate playable race or complete independent tech tree. Han/Horner commander linkage uses character strings plus the combined HornerHan asset namespace."
+    },
+    {
+      "id": "primal",
+      "baseRace": "Zerg",
+      "classification": "primal-lineage-and-asset-family",
+      "inventoryModelFilesIncludingAuxiliaries": 196,
+      "inventoryPrimaryNameCandidates": 80,
+      "evidence": [
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\swarmstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 574,
+          "id": "Character/Name/PrimalZergAdvisor",
+          "excerpt": "Dehaka"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\swarmstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt",
+          "line": 80,
+          "id": "ArmyUnit/Description/MutaliskViper",
+          "excerpt": "Víbora adaptada de essência coletada em Zerus. Sequências primevas otimizadas. Mutações redundantes removidas. Mais forte. Bom para o Enxame. A variante Víbora abduz o alvo, emite nuvem incapacitante. Manipula "
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ModelData.xml",
+          "line": 8900,
+          "id": "Baneling_Primal_Collection_Death",
+          "excerpt": "\"Baneling_Primal_Collection_Death\" parent=\"UnitDeath\" Race=\"Zerg\">"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 474691,
+          "id": "SwarmHost_Primal_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Zerg/SwarmHost_Primal_Collection/SwarmHost_Primal_Collection.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 474696,
+          "id": "SwarmHostSpawn_Primal_Collection_Detonate",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Zerg/SwarmHostSpawn_Primal_Collection_Detonate/SwarmHostSpawn_Primal_Collection_Detonate.m3"
+        },
+        {
+          "source": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt",
+          "line": 474697,
+          "id": "SwarmHostSpawn_Primal_Collection",
+          "excerpt": "mods/liberty.sc2mod/base.sc2assets/Assets/Units/Zerg/SwarmHostSpawn_Primal_Collection/SwarmHostSpawn_Primal_Collection.m3"
+        }
+      ],
+      "limits": "Asset family names establish local content presence; they do not establish a separate playable race or complete independent tech tree. Han/Horner commander linkage uses character strings plus the combined HornerHan asset namespace."
+    }
+  ],
+  "originalFactionProposals": [
+    {
+      "id": "pacto-do-veu",
+      "name": "Pacto do Véu",
+      "baseRace": "solar",
+      "inspirationGroups": [
+        "nova-covertops",
+        "han-horner"
+      ],
+      "originalDesign": "Força expedicionária de reconhecimento e contratos: unidades caras, desembarque preciso e apoio aéreo temporário.",
+      "newOfficialRace": false
+    },
+    {
+      "id": "coro-de-silex",
+      "name": "Coro de Sílex",
+      "baseRace": "aether",
+      "inspirationGroups": [
+        "purifiers",
+        "nerazim",
+        "taldarim"
+      ],
+      "originalDesign": "Custódios sintéticos de arquivos minerais: escudos ligados em rede, patrulhas discretas e prioridade em controle de território.",
+      "newOfficialRace": false
+    },
+    {
+      "id": "prole-raiz-negra",
+      "name": "Prole Raiz-Negra",
+      "baseRace": "swarm",
+      "inspirationGroups": [
+        "primal"
+      ],
+      "originalDesign": "Organismo colonial de raízes móveis: adaptações por combate e escolha entre carapaça, mobilidade e secreções corrosivas.",
+      "newOfficialRace": false
+    }
+  ],
+  "sources": {
+    "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\work\\sc2-inventory\\all-paths.txt": {
+      "bytes": 66773478,
+      "sha256": "5b8d5d1e030ff9ecb8d275962e7404551893e7df19101bffe582d135e94c26a5"
+    },
+    "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2data\\GameData\\ModelData.xml": {
+      "bytes": 2167640,
+      "sha256": "98f1ffd0878b201ade5d814b4454426fef4283eb778736d1d2a146e59a5c7a04"
+    },
+    "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\liberty.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt": {
+      "bytes": 396692,
+      "sha256": "49f0b7069fcf611a831fcea9934b15717f565600168f585237b34070b81604fb"
+    },
+    "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\voidstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt": {
+      "bytes": 310945,
+      "sha256": "5ebfaa1d195d2119765ee8b09f65b52fe1d921e267ac6e0e20948928573c39fe"
+    },
+    "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\campaigns\\swarmstory.sc2campaign\\ptbr.sc2data\\LocalizedData\\GameStrings.txt": {
+      "bytes": 582611,
+      "sha256": "0d04e7cc1ee7ac831225a9723b515a6d13dc0c86bc4b0dd6e2883228a84f9a65"
+    }
+  },
+  "limits": [
+    "No full balance/ability/commander XML execution or complete official faction census.",
+    "Some model-name hits are cosmetic Collection skins or auxiliary states; counts are files, not independent units.",
+    "New faction mechanics and names are original proposals for SpaceInvaders, not recovered SC2 mechanics."
+  ]
+}

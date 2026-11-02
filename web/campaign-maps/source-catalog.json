@@ -1,0 +1,270 @@
+[
+  {
+    "id": "traynor01",
+    "title": "O dia da libertação",
+    "tileset": "MarSara",
+    "nativeDimensions": [
+      137,
+      161
+    ],
+    "objectives": [
+      {
+        "scriptLine": 4348,
+        "keys": [
+          "Param/Value/803351AA",
+          "Param/Value/35F6BD78"
+        ],
+        "text": [
+          "Destruir o Quartel-general de logística",
+          "Destruir o Quartel-general de logística na Estação Fim do Mundo será um belo golpe contra a autoridade da Supremacia em Mar Sara e também irá liberar armas e recursos imprescindíveis."
+        ]
+      },
+      {
+        "scriptLine": 4418,
+        "keys": [
+          "Param/Value/36E48EA7",
+          "Param/Value/410310C4"
+        ],
+        "text": [
+          "Raynor precisa sobreviver",
+          "Raynor não pode morrer, pois arruinaria a sua reputação."
+        ]
+      },
+      {
+        "scriptLine": 4478,
+        "keys": [
+          "Param/Value/67FC761F",
+          "Param/Value/9E29DE5C"
+        ],
+        "text": [
+          "Destruir as placas holográficas da Supremacia",
+          "A Supremacia inunda as colônias distantes com propaganda. Destruir esses sinais do poder da Supremacia incitará as pessoas a se rebelarem."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "traynor02",
+    "title": "Os fora-da-lei",
+    "tileset": "MarSara",
+    "nativeDimensions": [
+      137,
+      137
+    ],
+    "objectives": [
+      {
+        "scriptLine": 4420,
+        "keys": [
+          "Param/Value/F014BD9E",
+          "Param/Value/1834D61B"
+        ],
+        "text": [
+          "Destruir a base da Supremacia",
+          "A Supremacia estava enviando à força residentes de Fim do mundo para trabalharem na base Pedra Branca e desencavar um valioso artefato alienígena. Destrua a base e garanta a posse do artefato."
+        ]
+      },
+      {
+        "scriptLine": 4514,
+        "keys": [
+          "Param/Value/CF60F8FD",
+          "Param/Value/5E553DF6"
+        ],
+        "text": [
+          "Resgatar os rebeldes",
+          "O ataque à Base Fim do Mundo inspirou a revolta generalizada em Mar Sara e um pequeno foco de resistência de combatentes rebeldes está cercado pelas tropas da Supremacia. Ajude os rebeldes em sua luta contra os opressores da Supremacia."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "traynor03",
+    "title": "Hora Zero",
+    "tileset": "MarSara",
+    "nativeDimensions": [
+      129,
+      129
+    ],
+    "objectives": [
+      {
+        "scriptLine": 4433,
+        "keys": [
+          "Param/Value/58ACACB4",
+          "Param/Value/E68CA25F"
+        ],
+        "text": [
+          "Aguardar a evacuação",
+          "Os zergs voltaram! Defenda a base por tempo suficiente para o transporte chegar e fazer a evacuação de Mar Sara."
+        ]
+      },
+      {
+        "scriptLine": 4495,
+        "keys": [
+          "Param/Value/F805BF8E",
+          "Param/Value/E7E8684A",
+          "Param/Value/62BDD509",
+          "Param/Value/A1EE5B7F"
+        ],
+        "text": [
+          "Resgatar os rebeldes (",
+          "/3",
+          ")",
+          "O avanço rápido dos zergs isolou alguns combatentes rebeldes fora da base. Eles não vão aguentar muito tempo sozinhos. Resgate-os!"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thanson01",
+    "title": "A Evacuação",
+    "tileset": "Agria",
+    "nativeDimensions": [
+      153,
+      201
+    ],
+    "objectives": [
+      {
+        "scriptLine": 5293,
+        "keys": [
+          "Param/Value/E2D2B8C2",
+          "Param/Value/75A746D2"
+        ],
+        "text": [
+          "Chegar ao assentamento da Dra. Hanson",
+          "O planeta Agria está sendo dominado pelos zergs. Mande suas tropas até o assentamento em que os colonos sobreviventes estão resistindo."
+        ]
+      },
+      {
+        "scriptLine": 5388,
+        "keys": [
+          "Param/Value/DA0F59F5",
+          "Param/Value/02AC2B85",
+          "Param/Value/9D657228",
+          "Param/Value/2A5C2427"
+        ],
+        "text": [
+          "Escoltar colonos até as naves da colônia (",
+          "/",
+          ")",
+          "Proteja os colonos no caminho para o estaleiro sideral, de onde serão evacuados em naves da colônia."
+        ]
+      },
+      {
+        "scriptLine": 5392,
+        "keys": [
+          "Param/Value/16FE1334",
+          "Param/Value/8B5EA2CC",
+          "Param/Value/E0B8EF62",
+          "Param/Value/BEDB5804",
+          "Param/Value/9A73EBCA"
+        ],
+        "text": [
+          "Não deixar %NumberDead% colonos morrerem",
+          "%NumberDead%",
+          "(%NumberKilled% Mortos)",
+          "%NumberKilled%",
+          "Se muitos colonos morrerem, não haverá colonos suficientes para iniciar uma nova colônia e a missão falhará."
+        ]
+      },
+      {
+        "scriptLine": 5488,
+        "keys": [
+          "Param/Value/3851E49D",
+          "Param/Value/42B56155",
+          "Param/Value/05BF0798"
+        ],
+        "text": [
+          "Coletar o DNA da Crisálida (",
+          "/3 (Pesquisa)",
+          "Use uma unidade terrestre para extrair DNA de qualquer crisálida zerg que você encontrar para o Stetmann no laboratório da Hipérion."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "thanson02",
+    "title": "A Infestação",
+    "tileset": "Meinhoff",
+    "nativeDimensions": [
+      161,
+      193
+    ],
+    "objectives": [
+      {
+        "scriptLine": 4480,
+        "keys": [
+          "Param/Value/A583A361",
+          "Param/Value/DDDA8C18",
+          "Param/Value/F10F8990",
+          "Param/Value/4FE95072",
+          "Param/Value/43FE14C8"
+        ],
+        "text": [
+          "Eliminar a infestação (",
+          "%number% Estruturas remanescentes",
+          "%number%",
+          ")",
+          "A infestação zerg está se espalhando por Meinhoff. Impeça-a destruindo todas as bioassinaturas zergs, incluindo estruturas zergs."
+        ]
+      },
+      {
+        "scriptLine": 4593,
+        "keys": [
+          "Param/Value/DBD089CB",
+          "Param/Value/2148E280",
+          "Param/Value/84F789E6"
+        ],
+        "text": [
+          "Matar os Infestadores (",
+          "/2)",
+          "Os zergs estão usando Infestadores para acelerar a conquista do planeta Meinhoff. Cace-os à noite para ajudar Stetmann em sua pesquisa."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ttychus01",
+    "title": "Quebrar e roubar",
+    "tileset": "Monlyth",
+    "nativeDimensions": [
+      209,
+      121
+    ],
+    "objectives": [
+      {
+        "scriptLine": 4118,
+        "keys": [
+          "Param/Value/9E172D60",
+          "Param/Value/7B506F18"
+        ],
+        "text": [
+          "Chegar até o Artefato",
+          "Os protoss Tal'Darim de Monlyth protegem um artefato antigo, mas o enxame zerg se aproxima. Chegue até o artefato antes de perdê-lo."
+        ]
+      },
+      {
+        "scriptLine": 4223,
+        "keys": [
+          "Param/Value/88629B8D",
+          "Param/Value/35A1F683"
+        ],
+        "text": [
+          "Destruir as Estátuas (0/3)",
+          "Destrua os três Fanáticus de pedra que protegem o artefato."
+        ]
+      },
+      {
+        "scriptLine": 4317,
+        "keys": [
+          "Param/Value/D3C88D88",
+          "Param/Value/E005FE1E",
+          "Param/Value/3A5CA4C7"
+        ],
+        "text": [
+          "<s val=\"ObjRewardSummary_Protoss\">Localizar relíquias protoss",
+          "</s>",
+          "O Stetmann pediu para você coletar relíquias protoss antigas para poder estudá-las e entender melhor a tecnologia protoss."
+        ]
+      }
+    ]
+  }
+]

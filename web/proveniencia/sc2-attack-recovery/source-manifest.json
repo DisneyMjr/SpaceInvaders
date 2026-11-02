@@ -1,0 +1,142 @@
+[
+  {
+    "sha256": "54ffb631ecc8724c3c019c3f040ab1c68e7435b7a0245ccfe937bb0195cf5178",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Terran/MarineWeaponLaunch/MarineWeaponLaunch.m3",
+    "bytes": 38048,
+    "existing_file_verified": false,
+    "status": "ok",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Effects\\Terran\\MarineWeaponLaunch\\MarineWeaponLaunch.m3",
+    "build": "98310",
+    "local_only": true
+  },
+  {
+    "sha256": "4d4e7fc6b7f6e03d605872f288c0838d523e8d041d43453aa112915c47ee608c",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Terran/MarineWeaponImpact/MarineWeaponImpact.m3",
+    "bytes": 18224,
+    "existing_file_verified": false,
+    "status": "ok",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Effects\\Terran\\MarineWeaponImpact\\MarineWeaponImpact.m3",
+    "build": "98310",
+    "local_only": true
+  },
+  {
+    "sha256": "aaa3985c1b7e21409426f420ab8a0c98ff580b10da3f4711f74312fd3d44de9b",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Protoss/StalkerMissileImpact/StalkerMissileImpact.m3",
+    "bytes": 49472,
+    "existing_file_verified": false,
+    "status": "ok",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Effects\\Protoss\\StalkerMissileImpact\\StalkerMissileImpact.m3",
+    "build": "98310",
+    "local_only": true
+  },
+  {
+    "sha256": "325cc6beedc0aae04788d0297772751e5015658768ed02041e15c18ca88f51ef",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Effects/Zerg/RoachWeaponImpact/RoachWeaponImpact.m3",
+    "bytes": 17120,
+    "existing_file_verified": false,
+    "status": "ok",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Effects\\Zerg\\RoachWeaponImpact\\RoachWeaponImpact.m3",
+    "build": "98310",
+    "local_only": true
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/fireball_1hot.dds",
+    "build": "98310",
+    "sha256": "343b229d574db7046a4d4eb6c5142f310b055a0212822ba4035fd473b8827720",
+    "existing_file_verified": false,
+    "local_only": true,
+    "bytes": 11064,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\fireball_1hot.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_yellow1.dds",
+    "build": "98310",
+    "sha256": "97f9344180314ac55bdbd23b65e49558f7e47eacb5c99b50acd687eb3b39cee0",
+    "existing_file_verified": true,
+    "local_only": true,
+    "bytes": 11064,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\glow_yellow1.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/sparks4.dds",
+    "build": "98310",
+    "sha256": "3466da47b372af349fb168379cdaff2d88df80607e05263f76f9d1e000d6c04a",
+    "existing_file_verified": false,
+    "local_only": true,
+    "bytes": 8320,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\sparks4.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/smokelit.dds",
+    "build": "98310",
+    "sha256": "7937f866e203c0ea6dcad8c4979977e7b3f64b58cd247719e807f20157e5e9bd",
+    "existing_file_verified": true,
+    "local_only": true,
+    "bytes": 22000,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\smokelit.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shockwave_fx_3b.dds",
+    "build": "98310",
+    "sha256": "2fed45853f349bbb242379d09b84b520b1b5328a20cff5f71a1d6aeb53a96bc6",
+    "existing_file_verified": false,
+    "local_only": true,
+    "bytes": 43832,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\shockwave_fx_3b.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_blue3.dds",
+    "build": "98310",
+    "sha256": "5bf2191cbb72f4f1ba07e580864dff53d59bc1bc6429e645c01d8b0fd526dc29",
+    "existing_file_verified": true,
+    "local_only": true,
+    "bytes": 22000,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\glow_blue3.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/lightningzap4.dds",
+    "build": "98310",
+    "sha256": "e3a8a5b8e36e920f7833c66929497990403b166ccdba343c6d7e42f3beb5ec86",
+    "existing_file_verified": false,
+    "local_only": true,
+    "bytes": 65664,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\lightningzap4.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/gooball_1.dds",
+    "build": "98310",
+    "sha256": "670615eece810ac0f9ad134c9f5d6284d8d13d6e446b6913ca5fd43cbd735306",
+    "existing_file_verified": false,
+    "local_only": true,
+    "bytes": 5616,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\gooball_1.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/animgoosplat1.dds",
+    "build": "98310",
+    "sha256": "51af7623dbd4167e406ec1b9c1278a6a384afae7d79bf70bbe197ca0ad3ba588",
+    "existing_file_verified": false,
+    "local_only": true,
+    "bytes": 87536,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\animgoosplat1.dds",
+    "status": "ok"
+  },
+  {
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/glow_green3.dds",
+    "build": "98310",
+    "sha256": "23bf7ecd87212c661a6e9410667f299504ea6ad709f4690fe73f87fcb5819ee2",
+    "existing_file_verified": true,
+    "local_only": true,
+    "bytes": 22000,
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\glow_green3.dds",
+    "status": "ok"
+  }
+]

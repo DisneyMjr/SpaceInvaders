@@ -1,0 +1,306 @@
+[
+  {
+    "family": "BelShirTree",
+    "biome": "verdant",
+    "kind": "tree",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirTree/BelShirTree_00.m3",
+    "slug": "belshirtree",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BelShirTreeA_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirtreea_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BelShirTreeA_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirtreea_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/TreeShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/treeshadow_diffuse.dds"
+      }
+    ],
+    "native_bytes": 29248,
+    "native_sha256": "cbf5de50acca2024d31f637b863b379aef93239aa8c48a4237ba7a4ccb59acf8",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "AgriaTree",
+    "biome": "verdant",
+    "kind": "tree",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaTree/AgriaTree_00.m3",
+    "slug": "agriatree",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AgriaTreeA_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriatreea_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/AgriaTree_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriatree_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/TreeShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/treeshadow_diffuse.dds"
+      }
+    ],
+    "native_bytes": 27024,
+    "native_sha256": "8a2cb9cd6695c5d0193559b59ffa4736b62655c71b3570c41748f0ff2ebcc396",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "MarSaraTree",
+    "biome": "desert",
+    "kind": "tree",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraTree/MarSaraTree_00.m3",
+    "slug": "marsaratree",
+    "textures": [
+      {
+        "reference": "Assets/Textures/MarSaraTree00_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaratree00_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraTree00_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaratree00_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/TreeShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/treeshadow_diffuse.dds"
+      }
+    ],
+    "native_bytes": 30832,
+    "native_sha256": "5b254aea9d088f91846893751f14854e7b96e006bff33ca7914e59db41e2e8de",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "BelShirBush",
+    "biome": "verdant",
+    "kind": "shrub",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirBush/BelShirBush_00.m3",
+    "slug": "belshirbush",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BelShirBush_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirbush_diffuse.dds"
+      }
+    ],
+    "native_bytes": 9952,
+    "native_sha256": "ba3481bd64dcbdaf720b01713f47291e770d580eaa1932b08bfb9e575ca08555",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "BelShirShrub",
+    "biome": "verdant",
+    "kind": "shrub",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirShrub/BelShirShrub_00.m3",
+    "slug": "belshirshrub",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BelShirShrubs_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirshrubs_diffuse.dds"
+      }
+    ],
+    "native_bytes": 10256,
+    "native_sha256": "d32b8bacfbc344fb38d938250d0709cbc451515d499d19b136076eb1f57a7fe0",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "AgriaUnderbrush",
+    "biome": "verdant",
+    "kind": "ground-cover",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaUnderbrush/AgriaUnderbrush_00.m3",
+    "slug": "agriaunderbrush",
+    "textures": [
+      {
+        "reference": "Assets/Textures/AgriaUnderbrush_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriaunderbrush_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/TreeShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/treeshadow_diffuse.dds"
+      }
+    ],
+    "native_bytes": 17088,
+    "native_sha256": "db41eb9e164715f6cf13cae1a26b618a159065f5b7c990a38a244811ed01009b",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "BelShirFoliage",
+    "biome": "verdant",
+    "kind": "ground-cover",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirFoliage/BelShirFoliage_00.m3",
+    "slug": "belshirfoliage",
+    "textures": [
+      {
+        "reference": "Assets/Textures/BelShirTreeB_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirtreeb_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/BelShirTreeB_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirtreeb_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/TreeShadow_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/treeshadow_diffuse.dds"
+      }
+    ],
+    "native_bytes": 25456,
+    "native_sha256": "af03a63e78519d5b0dfb25d99ba91b19c0321bd42aa457047e406a72fb323255",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "Shakuras_TallGrass",
+    "biome": "verdant",
+    "kind": "grass",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_TallGrass/Shakuras_TallGrass_00.m3",
+    "slug": "shakuras-tallgrass",
+    "textures": [
+      {
+        "reference": "Assets/Textures/shakuras_tallgrass_diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_tallgrass_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/shakuras_tallgrass_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_tallgrass_spec.dds"
+      }
+    ],
+    "native_bytes": 34544,
+    "native_sha256": "712e40e5ce14735fcc11d8e2b5bff54a5c07026c4c2ae3bb784498de09a66c48",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "MarSaraCactus",
+    "biome": "desert",
+    "kind": "cactus",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraCactus/MarSaraCactus_00.m3",
+    "slug": "marsaracactus",
+    "textures": [
+      {
+        "reference": "Assets/Textures/MarSaraCactus_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaracactus_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraCactus_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaracactus_normal.dds"
+      }
+    ],
+    "native_bytes": 21664,
+    "native_sha256": "1e7ead372f81f400609f63885f7a5189b11638461119ff829b81596e43739cbd",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "MarSaraTreeDead",
+    "biome": "desert",
+    "kind": "dead-tree",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraTreeDead/MarSaraTreeDead_00.m3",
+    "slug": "marsaratreedead",
+    "textures": [
+      {
+        "reference": "Assets/Textures/MarSaraTreeDead_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaratreedead_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/MarSaraTreeDead_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaratreedead_normal.dds"
+      }
+    ],
+    "native_bytes": 17920,
+    "native_sha256": "38d4707b9c183d8cf8bda0c3a45aa864a993411fe89a801496e804b8add54756",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "SnowTrees",
+    "biome": "frost",
+    "kind": "tree",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/SnowTrees/SnowTrees_00.m3",
+    "slug": "snowtrees",
+    "textures": [
+      {
+        "reference": "Assets/Textures/SnowTrees_diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/SnowTrees_norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/SnowTrees_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_spec.dds"
+      }
+    ],
+    "native_bytes": 42384,
+    "native_sha256": "bac120009bc344de1ba8183755530a9cc45d8eb10d5eb54b4147317568681fbb",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "HeavySnowTree",
+    "biome": "frost",
+    "kind": "tree",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HeavySnowTree/HeavySnowTree.m3",
+    "slug": "heavysnowtree",
+    "textures": [
+      {
+        "reference": "Assets/Textures/SnowTrees_diff.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_diff.dds"
+      },
+      {
+        "reference": "Assets/Textures/SnowTrees_norm.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_norm.dds"
+      },
+      {
+        "reference": "Assets/Textures/SnowTrees_spec.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_spec.dds"
+      }
+    ],
+    "native_bytes": 112208,
+    "native_sha256": "50352f3ca26c9c1397b9bd8d260e4b6dd9e5f9e254e9ef0db3f8ff6a444accc2",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "CharTree",
+    "biome": "volcano",
+    "kind": "charred-tree",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharTree/CharTree_00.m3",
+    "slug": "chartree",
+    "textures": [
+      {
+        "reference": "Assets/Textures/CharTree_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chartree_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharTree_Emissive.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chartree_emissive.dds"
+      },
+      {
+        "reference": "Assets/Textures/CharTree_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chartree_normal.dds"
+      }
+    ],
+    "native_bytes": 39408,
+    "native_sha256": "02d51d6a6054d68d85b9eea861c2dc01923b7f7b5480a69e1da64bc815360bb2",
+    "preserve_native_appearance": true
+  },
+  {
+    "family": "CharTreeSpiny",
+    "biome": "volcano",
+    "kind": "charred-tree",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharTreeSpiny/CharTreeSpiny_00.m3",
+    "slug": "chartreespiny",
+    "textures": [
+      {
+        "reference": "Assets/Textures/Char_TreeSpiny_Diffuse.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_treespiny_diffuse.dds"
+      },
+      {
+        "reference": "Assets/Textures/Char_TreeSpiny_Normal.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_treespiny_normal.dds"
+      },
+      {
+        "reference": "Assets/Textures/Char_TreeSpiny_Specular.dds",
+        "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_treespiny_specular.dds"
+      }
+    ],
+    "native_bytes": 39760,
+    "native_sha256": "d50420304b3a93997ca5b18511b49338921b4bbb7d7dd0df9db13ac58e23c1f3",
+    "preserve_native_appearance": true
+  }
+]

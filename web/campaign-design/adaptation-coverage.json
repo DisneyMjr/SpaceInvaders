@@ -1,0 +1,23 @@
+{
+  "sourceFolders": 105,
+  "legacyPreserved": 6,
+  "generated": 99,
+  "kinds": {
+    "eliminate": 23,
+    "capture": 18,
+    "survive": 9,
+    "outposts": 2,
+    "finale": 7,
+    "escort": 20,
+    "collect": 3,
+    "rescue": 2,
+    "establish": 15
+  },
+  "trainingScenarios": 67,
+  "nativeTerrain": 95,
+  "uniqueSourcePaths": 105,
+  "limitations": [
+    "Native gameplay scripts and cinematics are not executed; each source folder receives a declared web adaptation.",
+    "Player ownership and map actors are conservatively normalized to supported classes; cinematic player 15 actors are omitted."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": "0.169.0",
+  "source": "https://registry.npmjs.org/three/-/three-0.169.0.tgz",
+  "license": "MIT",
+  "files": [
+    {
+      "path": "build/three.module.js",
+      "bytes": 1304820,
+      "sha256": "0a3368c165eea773490aec7b77c22de70e3eac288503409256fdbf4d12578416"
+    },
+    {
+      "path": "examples/jsm/loaders/GLTFLoader.js",
+      "bytes": 110029,
+      "sha256": "6f1719dcc6a179d30273dfb0de07a8c898a7981f7b08e600b446387f5967371f"
+    },
+    {
+      "path": "examples/jsm/utils/BufferGeometryUtils.js",
+      "bytes": 31768,
+      "sha256": "c25b7930e570e9ec56173cd3b866ec8d2e10016630db3937efb439daf1cedbf6"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1081,
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    },
+    {
+      "path": "examples/jsm/utils/SkeletonUtils.js",
+      "bytes": 8802,
+      "sha256": "ee412be1aa05f3051c2bda8ea89612c1ba70c5c87de62b56040282120d5eb991"
+    }
+  ],
+  "static_imports": {
+    "build/three.module.js": [],
+    "examples/jsm/loaders/GLTFLoader.js": [
+      "three",
+      "../utils/BufferGeometryUtils.js"
+    ],
+    "examples/jsm/utils/BufferGeometryUtils.js": [
+      "three"
+    ],
+    "examples/jsm/utils/SkeletonUtils.js": [
+      "three"
+    ]
+  }
+}

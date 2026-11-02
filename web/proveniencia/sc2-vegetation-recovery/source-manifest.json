@@ -1,0 +1,412 @@
+[
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BelShirTree\\BelShirTree_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirTree/BelShirTree_00.m3",
+    "bytes": 29248,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "cbf5de50acca2024d31f637b863b379aef93239aa8c48a4237ba7a4ccb59acf8",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\AgriaTree\\AgriaTree_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaTree/AgriaTree_00.m3",
+    "bytes": 27024,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "8a2cb9cd6695c5d0193559b59ffa4736b62655c71b3570c41748f0ff2ebcc396",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\MarSaraTree\\MarSaraTree_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraTree/MarSaraTree_00.m3",
+    "bytes": 30832,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "5b254aea9d088f91846893751f14854e7b96e006bff33ca7914e59db41e2e8de",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BelShirBush\\BelShirBush_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirBush/BelShirBush_00.m3",
+    "bytes": 9952,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "ba3481bd64dcbdaf720b01713f47291e770d580eaa1932b08bfb9e575ca08555",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BelShirShrub\\BelShirShrub_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirShrub/BelShirShrub_00.m3",
+    "bytes": 10256,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "d32b8bacfbc344fb38d938250d0709cbc451515d499d19b136076eb1f57a7fe0",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\AgriaUnderbrush\\AgriaUnderbrush_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/AgriaUnderbrush/AgriaUnderbrush_00.m3",
+    "bytes": 17088,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "db41eb9e164715f6cf13cae1a26b618a159065f5b7c990a38a244811ed01009b",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\BelShirFoliage\\BelShirFoliage_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/BelShirFoliage/BelShirFoliage_00.m3",
+    "bytes": 25456,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "af03a63e78519d5b0dfb25d99ba91b19c0321bd42aa457047e406a72fb323255",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\Shakuras_TallGrass\\Shakuras_TallGrass_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/Shakuras_TallGrass/Shakuras_TallGrass_00.m3",
+    "bytes": 34544,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "712e40e5ce14735fcc11d8e2b5bff54a5c07026c4c2ae3bb784498de09a66c48",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\MarSaraCactus\\MarSaraCactus_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraCactus/MarSaraCactus_00.m3",
+    "bytes": 21664,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "1e7ead372f81f400609f63885f7a5189b11638461119ff829b81596e43739cbd",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\MarSaraTreeDead\\MarSaraTreeDead_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/MarSaraTreeDead/MarSaraTreeDead_00.m3",
+    "bytes": 17920,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "38d4707b9c183d8cf8bda0c3a45aa864a993411fe89a801496e804b8add54756",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\SnowTrees\\SnowTrees_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/SnowTrees/SnowTrees_00.m3",
+    "bytes": 42384,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "bac120009bc344de1ba8183755530a9cc45d8eb10d5eb54b4147317568681fbb",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\HeavySnowTree\\HeavySnowTree.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/HeavySnowTree/HeavySnowTree.m3",
+    "bytes": 112208,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "50352f3ca26c9c1397b9bd8d260e4b6dd9e5f9e254e9ef0db3f8ff6a444accc2",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharTree\\CharTree_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharTree/CharTree_00.m3",
+    "bytes": 39408,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "02d51d6a6054d68d85b9eea861c2dc01923b7f7b5480a69e1da64bc815360bb2",
+    "local_only": true
+  },
+  {
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Doodads\\CharTreeSpiny\\CharTreeSpiny_00.m3",
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Doodads/CharTreeSpiny/CharTreeSpiny_00.m3",
+    "bytes": 39760,
+    "status": "ok",
+    "existing_file_verified": false,
+    "build": "98310",
+    "sha256": "d50420304b3a93997ca5b18511b49338921b4bbb7d7dd0df9db13ac58e23c1f3",
+    "local_only": true
+  },
+  {
+    "bytes": 349680,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirtreea_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\belshirtreea_diffuse.dds",
+    "local_only": true,
+    "sha256": "8b0bd56bfd6e0b2cd9ad69be3441fdd566844e81a938d8bb13a27cda06795f57",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 349684,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirtreea_normal.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\belshirtreea_normal.dds",
+    "local_only": true,
+    "sha256": "59b024eea758f89d97ae67df44fc5dd47dcb7e0ee3a05e7624d4a465ad332797",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 5616,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/treeshadow_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\treeshadow_diffuse.dds",
+    "local_only": true,
+    "sha256": "b1d468fe99e78f96cb635847fd4c46936bc2958867adeecd6e676aa9a6035450",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 349680,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriatreea_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\agriatreea_diffuse.dds",
+    "local_only": true,
+    "sha256": "e26df82a6333f9b742649ac15b519ba0b1dddc558a0d696184bc53ce55c674d1",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 349684,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriatree_normal.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\agriatree_normal.dds",
+    "local_only": true,
+    "sha256": "28cc2f8ad69f7a7c4ed0a2ccc5e97239d02d08f9498c63042780a3936ba8c257",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 349680,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaratree00_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsaratree00_diffuse.dds",
+    "local_only": true,
+    "sha256": "b1be5e6d0618c2d576bf377107ee51d5aa472076b4fa5803b990e9aecaea6204",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 349684,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaratree00_normal.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsaratree00_normal.dds",
+    "local_only": true,
+    "sha256": "9215952b0e769be8b2f7a11effcfb624f2f0675f0c4c4a9913d65a2c314679ce",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 174928,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirbush_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\belshirbush_diffuse.dds",
+    "local_only": true,
+    "sha256": "e583037dfec4cba064937b8edbd4b775d83298fb7318f1a43980e6fb4898e567",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 174928,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirshrubs_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\belshirshrubs_diffuse.dds",
+    "local_only": true,
+    "sha256": "2fe37c1eced5859c4d9ae48ff2456d8b579f747c7e33d562aaf2dc5e66a5309c",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 87536,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/agriaunderbrush_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\agriaunderbrush_diffuse.dds",
+    "local_only": true,
+    "sha256": "120e3368fb875821527c5a6d18ed9d30666ec80a2eb122de730bed766121cc5b",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 349680,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirtreeb_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\belshirtreeb_diffuse.dds",
+    "local_only": true,
+    "sha256": "2933f54b024f71194379dbdcd480ed4c1dc0ef5daea45bf6dcfe530671ff3cd1",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 349684,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/belshirtreeb_normal.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\belshirtreeb_normal.dds",
+    "local_only": true,
+    "sha256": "17b14fa7efe066ae3dabc3f5554d03c457721ae568d0dbe8aa46043a3eaf9e32",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 22032,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_tallgrass_diff.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\shakuras_tallgrass_diff.dds",
+    "local_only": true,
+    "sha256": "cd399874dde25ec1262b6511351821e890689476ee594285ca73685cdba58c8e",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 22032,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/shakuras_tallgrass_spec.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\shakuras_tallgrass_spec.dds",
+    "local_only": true,
+    "sha256": "ad8e96d92ac48789cb6de31a7bec2ec232a4bf0e4ee186cffc11eca912dde03e",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 43832,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaracactus_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsaracactus_diffuse.dds",
+    "local_only": true,
+    "sha256": "e23179706f5793f7672ca3048f57ade6ae5fff9756d24efd1417580e4b3930aa",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 87540,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaracactus_normal.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsaracactus_normal.dds",
+    "local_only": true,
+    "sha256": "3b1612f4b3e9df76f77675b211996e788b4561b95eed0ca7b71ec438622ecb39",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 174928,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaratreedead_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsaratreedead_diffuse.dds",
+    "local_only": true,
+    "sha256": "b06cb32a6c278621cc7db21dc003d7d3e8c5f59ddc73a618d2b5a170b863259f",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 174932,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/marsaratreedead_normal.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\marsaratreedead_normal.dds",
+    "local_only": true,
+    "sha256": "874de6a4170c548be902f752bcd3585929d8c59282bd899c679819eef1181b12",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 1398256,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_diff.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\snowtrees_diff.dds",
+    "local_only": true,
+    "sha256": "663a58a3c044580dc354441c7f282c3eea9cdeae3c9131613520b8e6bae29d0e",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 1398260,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_norm.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\snowtrees_norm.dds",
+    "local_only": true,
+    "sha256": "55b0c2dd87146ce17710be63e2fb038bbe88abe0f6c69e8efc94bca1646e2ae2",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 699192,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/snowtrees_spec.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\snowtrees_spec.dds",
+    "local_only": true,
+    "sha256": "dbf74866e5692ded0ca52f564fe663a710b9f488107df213e347771355f76970",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 87528,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chartree_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\chartree_diffuse.dds",
+    "local_only": true,
+    "sha256": "9b7a327d0ac003a04fdd41eaecbbc3ef47aa7f9e4275a9c7bcd902ba6bb6840a",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 87528,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chartree_emissive.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\chartree_emissive.dds",
+    "local_only": true,
+    "sha256": "ea9ca14a74fd3863495e799bed0df8002541c814af4fb0cfa2901c3ce6eafa17",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 174932,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/chartree_normal.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\chartree_normal.dds",
+    "local_only": true,
+    "sha256": "60c4eb2f89672ae955c683578c5d065544e7105e5da0172cf7882dcd75363bfe",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 87528,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_treespiny_diffuse.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\char_treespiny_diffuse.dds",
+    "local_only": true,
+    "sha256": "277e64e90787e084a6b05a8ea88fed6a50df91b646e02add3305b9f248f40783",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 174932,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_treespiny_normal.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\char_treespiny_normal.dds",
+    "local_only": true,
+    "sha256": "7a5a7e138bab0396cf6c7ed03823aad04f0487cd07c9d9c601900b2a7e8e2dc3",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  },
+  {
+    "bytes": 87528,
+    "source": "mods/liberty.sc2mod/base.sc2assets/Assets/Textures/char_treespiny_specular.dds",
+    "path": "C:\\Users\\disne\\Documents\\Codex\\2026-11-01\\referenced-chatgpt-conversation-this-is-an-2\\outputs\\sc2-extracted\\mods\\liberty.sc2mod\\base.sc2assets\\Assets\\Textures\\char_treespiny_specular.dds",
+    "local_only": true,
+    "sha256": "a8c4686ca911c6bb33765729b07aeac6a0454fb53a663d556b7aab8cafb28d1f",
+    "build": "98310",
+    "existing_file_verified": false,
+    "status": "ok"
+  }
+]
