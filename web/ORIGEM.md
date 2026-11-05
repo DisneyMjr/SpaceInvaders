@@ -66,3 +66,33 @@ Atualização 0.13: três novas facções originais inspiradas nos subgrupos loc
 ## Arte de menu 0.15
 
 Comandantes e ambiente orbital criados com geração de imagens para este projeto, a partir de descrições inspiradas na composição das referências fornecidas pelo usuário. As figuras são imagens estáticas usadas nas telas de navegação; não foram extraídas das capturas nem representam portabilidade dos personagens ou menus nativos completos. Os controles, plataformas, molduras, indicadores e demais elementos de interface são implementados em HTML/CSS/JavaScript.
+
+
+## Unidades detalhadas 0.18 — 4 de novembro de 2026
+
+As 49 entradas ativas de personagens e veículos foram substituídas por modelos da pasta assets/realistic-units. Nove bases novas foram geradas na conta do usuário no Tencent HY 3D Global, a partir de descrições próprias e da direção visual aprovada: militar futurista, robótica industrial e alienígena orgânica. A referência Solar foi criada com geração de imagem; os demais modelos-base foram gerados por descrições de texto. Os protótipos geométricos em blocos desta etapa foram retirados da distribuição.
+
+Equipamentos, blindagens, órgãos, raízes, pás e acessórios das variantes foram modelados localmente. As novas malhas e suas texturas não foram copiadas dos antigos personagens ou veículos. Os movimentos dos personagens usam adaptações autorizadas das animações do Marine disponível no projeto; articulações e ciclos dos veículos, plataformas, rotores e criaturas aladas foram produzidos nesta atualização. O inventário assets/realistic-units/inventory.json registra a base, personalização, animações e mapas de cada entrada.
+
+Os mapas PBR fornecidos pelas gerações foram preservados em PNG e compartilhados entre variantes; a redução para 1024 pixels ocorre apenas no carregamento em memória. Os recursos de construções, cenário, retratos e áudio descritos nas seções históricas anteriores continuam com sua procedência original.
+
+Revisão 5/11/2026: a geometria ativa das construções passou a ser gerada por faction-structures.mjs, com arquitetura militar, industrial e orgânica própria e texturas de painéis geradas por código. Os arquivos de construções anteriores permanecem no pacote para referência, mas media.mjs não os carrega nas partidas. model-detail.mjs cria versões leves em memória dos nossos modelos, preservando os GLBs de fonte.
+
+Construções realistas: modelos de fábrica industrial e colmeia gerados no Tencent HY 3D a partir de referências originais produzidas com imagegen em 5/11/2026. Fontes GLB e referências preservadas em outputs/construcoes-realistas. Geometria e mapas extraídos sem alterar o modelo de origem; nenhuma geometria de construções do jogo anterior é usada nesses dois modelos.
+
+Base militar Solar gerada no Tencent a partir de solar-comando-referencia.png, recebida em 5/11/2026 como 33085a4a05d564b6251a0ab197c17f61.glb. Fonte preservada em outputs/construcoes-realistas/solar-comando-tencent.glb. Ativa também no Véu com acabamento de facção.
+
+
+# Construções realistas instaladas
+
+As três sedes detalhadas e os nove novos modelos estão instalados na cópia atualizada do jogo. Defesa, tecnologia e serviços/extração usam modelos próprios militares Solar, industriais Aether e orgânicos Vorax. Véu, Sílex e Raiz-Negra recebem os modelos da família com seus acabamentos de facção. São 12 fontes detalhadas para os 106 itens do catálogo; itens da mesma categoria compartilham modelo. Não são 106 modelos diferentes.
+
+Os nove downloads foram identificados visualmente e preservados em fontes-restantes/, com hashes no manifesto. Uma cópia duplicada em Downloads não foi importada novamente. Nenhum arquivo de Downloads foi apagado.
+
+As fontes têm cerca de 50 mil faces e três mapas PBR 4K por modelo. O carregador reduz somente a textura em memória. Os prédios são estáticos; não possuem animação de torre ou partes móveis.
+
+Validação de 5/11/2026: 14 testes de modelos, categorias e integração passaram, incluindo as seis facções, escala e chão; 45 testes do jogo também passaram. Os nove modelos foram vistos no visualizador local, sem erros no console. O enquadramento foi ajustado para estruturas altas. Não foi feita medição de desempenho de uma partida com muitas destas construções.
+
+Abra http://127.0.0.1:8788/construcoes.html ou use JOGAR-PREVIA.cmd na pasta do jogo atualizado. Cache atualizado para buildings20. Nenhum GLB deste lote está pendente.
+
+Origem: as sedes vieram de referências visuais originais; os nove novos modelos foram gerados no Tencent Text-to-3D com descrições originais, após a análise das imagens falhar. As imagens em restantes/ são estudos visuais e não conversões exatas dos modelos finais.

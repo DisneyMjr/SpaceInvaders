@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Solar · Novo modelo 3D</title><link rel="icon" href="icon.svg">
+<style>
+*{box-sizing:border-box}body{margin:0;background:#0b1119;color:#e9f0f6;font:15px system-ui}main{max-width:1320px;margin:auto;padding:26px}header{display:flex;justify-content:space-between;align-items:center;gap:20px}h1{font-size:32px;font-weight:650;margin:10px 0}small{letter-spacing:.18em;color:#79d6e6}p{color:#a6b6c8;line-height:1.6}a{color:#7cddea}.grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:24px 0}.panel{min-width:0;overflow:hidden;background:#121e2b;border:1px solid #273747;border-radius:18px}.bar{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:16px 20px;border-bottom:1px solid #273747}.bar strong{font-weight:600}.bar span{font-size:12px;color:#9cb1c5}.reference{display:block;height:580px;width:100%;object-fit:contain;background:#ddd}#viewer{height:580px;position:relative;touch-action:none;background:#111a25}canvas{display:block;width:100%;height:100%}.controls{display:flex;gap:10px;align-items:center;flex-wrap:wrap}button{font:inherit;border-radius:10px;padding:10px 15px;background:#1c3042;color:#dceaf6;border:1px solid #3d566b;cursor:pointer}button:hover{border-color:#7cddea}button:focus-visible,a:focus-visible{outline:2px solid #7cddea;outline-offset:3px}.note{padding:14px 18px;border:1px solid #354753;border-radius:12px;background:#14212c;color:#b6c9d8}#status{min-height:26px}#loading{position:absolute;inset:0;display:grid;place-items:center;color:#a4b7c9;pointer-events:none}#loading[hidden]{display:none}footer{display:flex;gap:18px;flex-wrap:wrap;margin-top:22px}@media(max-width:780px){main{padding:18px}.grid{grid-template-columns:1fr}.grid>.panel:last-child{order:-1}.reference{height:400px}#viewer{height:480px}h1{font-size:26px}header{align-items:start}}
+</style><script type="importmap">{"imports":{"three":"./vendor/three/build/three.module.js","three/addons/":"./vendor/three/examples/jsm/"}}</script></head>
+<body><main><header><div><small>LEGIÃO SOLAR / MILITAR FUTURISTA</small><h1>Do conceito ao modelo 3D</h1><p>Compare as referências de estilo com os modelos detalhados.</p></div><a href="galeria.html">Voltar ao hangar</a></header>
+<label>Modelo <select id="model-choice"><option value="solar">Soldado Solar</option><option value="vorax">Criatura Vorax</option></select></label><div class="grid"><section class="panel"><div class="bar"><strong>Referência de estilo</strong><span>Imagem 2D</span></div><img class="reference" src="assets/realistic-units/solar-reference.png" alt="Referência do soldado Solar, com armadura grafite e visor azul"></section>
+<section class="panel"><div class="bar"><strong>Soldado Solar</strong><span>Modelo 3D</span></div><div id="viewer" aria-label="Modelo 3D interativo do soldado Solar"><div id="loading">Carregando modelo e texturas…</div></div></section></div>
+<div class="controls"><button id="rotate" aria-pressed="true">Pausar rotação</button><button id="reset">Vista inicial</button><label>Movimento <select id="animation" style="padding:10px;background:#1c3042;color:#e9f0f6;border:1px solid #3d566b;border-radius:8px"><option value="Idle">Espera</option><option value="Walk">Caminhada</option><option value="Attack">Ataque</option><option value="rest">Pose de referência</option></select></label><span>Arraste para girar · use a roda para aproximar</span></div><p id="status" role="status"></p>
+<div class="note">Movimentos de espera, caminhada e ataque adaptados das animações disponíveis no jogo.</div>
+<footer><a href="assets/realistic-units/solar-soldier-completo.glb" download>Baixar modelo GLB</a><a href="./">Abrir o jogo</a></footer></main>
+<script type="module">
+import * as THREE from 'three';
+import {createModelLoader} from './model-loader.mjs?v=2';
+const choice=new URLSearchParams(location.search).get('modelo')==='vorax'?'vorax':'solar';
+const modelChoices={solar:{path:'solar-soldier.glb',download:'solar-soldier-completo.glb',reference:'solar-reference.png',family:'LEGIÃO SOLAR / MILITAR FUTURISTA',name:'Soldado Solar'},vorax:{path:'swarm-soldier.glb',download:'vorax-preview.glb',reference:'vorax-reference.png',family:'COLMEIA VORAX / ALIENÍGENA ORGÂNICO',name:'Criatura Vorax'}};
+const definition=modelChoices[choice];document.title=definition.name+' · Modelo 3D';document.querySelector('#viewer').setAttribute('aria-label','Modelo 3D interativo de '+definition.name);document.querySelector('#model-choice').value=choice;document.querySelector('#model-choice').onchange=e=>{location.search='modelo='+e.target.value};
+document.querySelector('small').textContent=definition.family;document.querySelector('.reference').src='assets/realistic-units/'+definition.reference;document.querySelector('.reference').alt='Referência de estilo de '+definition.name;document.querySelector('.grid .panel:last-child strong').textContent=definition.name;document.querySelector('a[download]').href='assets/realistic-units/'+definition.download;
+const host=document.querySelector('#viewer'),status=document.querySelector('#status'),loading=document.querySelector('#loading');
+const scene=new THREE.Scene();scene.background=new THREE.Color(0x111a25);
+const camera=new THREE.PerspectiveCamera(36,1,.05,100);let yaw=.24,pitch=.12,distance=12,auto=true,model,mixer,action,clips=[];
+const target=new THREE.Vector3(0,2.8,0),renderer=new THREE.WebGLRenderer({antialias:true});renderer.setPixelRatio(Math.min(devicePixelRatio,1));renderer.toneMapping=THREE.ACESFilmicToneMapping;renderer.toneMappingExposure=1.1;renderer.outputColorSpace=THREE.SRGBColorSpace;host.prepend(renderer.domElement);
+scene.add(new THREE.HemisphereLight(0xe5f0ff,0x243040,2));
+for(const [color,intensity,x,y,z]of[[0xffedda,3.2,5,9,7],[0x8ab9e5,2,-7,5,-4],[0xffffff,1.5,0,5,-7]]){const light=new THREE.DirectionalLight(color,intensity);light.position.set(x,y,z);scene.add(light)}
+scene.add(new THREE.GridHelper(14,28,0x405369,0x1e3042));
+const size=()=>{const w=host.clientWidth,h=host.clientHeight;renderer.setSize(w,h);camera.aspect=w/h;camera.updateProjectionMatrix()};new ResizeObserver(size).observe(host);size();
+try{
+ const gltf=await createModelLoader().loadAsync('./assets/realistic-units/'+definition.path);model=gltf.scene;model.updateMatrixWorld(true);
+ const bounds=new THREE.Box3().setFromObject(model),extent=bounds.getSize(new THREE.Vector3()),center=bounds.getCenter(new THREE.Vector3()),scale=6/Math.max(extent.x,extent.y,extent.z);
+ model.scale.setScalar(scale);model.position.set(-center.x*scale,-bounds.min.y*scale,-center.z*scale);scene.add(model);
+ let faces=0;const materials=new Set();model.traverse(o=>{if(o.isMesh){faces+=(o.geometry.index?.count||o.geometry.attributes.position.count)/3;for(const m of Array.isArray(o.material)?o.material:[o.material])materials.add(m)}});
+ clips=gltf.animations;mixer=new THREE.AnimationMixer(model);playAnimation('Idle');
+ status.textContent=`Modelo carregado · ${Math.round(faces).toLocaleString('pt-BR')} faces · ${clips.length} animações`;loading.hidden=true;
+}catch(error){loading.textContent='Não foi possível carregar o modelo.';status.textContent=error.message}
+function playAnimation(name){mixer?.stopAllAction();if(name==='rest'){model?.traverse(o=>{if(o.isSkinnedMesh)o.skeleton.pose()});return}const clip=clips.find(c=>c.name===name);if(clip){action=mixer.clipAction(clip);action.reset().play()}}
+document.querySelector('#animation').onchange=e=>playAnimation(e.target.value);
+document.querySelector('#rotate').onclick=e=>{auto=!auto;e.currentTarget.textContent=auto?'Pausar rotação':'Retomar rotação';e.currentTarget.setAttribute('aria-pressed',String(auto))};
+document.querySelector('#reset').onclick=()=>{yaw=.24;pitch=.12;distance=12};
+let pointer=null;host.addEventListener('pointerdown',e=>{pointer=[e.clientX,e.clientY];host.setPointerCapture(e.pointerId)});host.addEventListener('pointermove',e=>{if(!pointer)return;yaw-=(e.clientX-pointer[0])*.008;pitch=THREE.MathUtils.clamp(pitch+(e.clientY-pointer[1])*.004,-.4,.65);pointer=[e.clientX,e.clientY]});for(const event of ['pointerup','pointercancel'])host.addEventListener(event,()=>pointer=null);
+host.addEventListener('wheel',e=>{e.preventDefault();distance=THREE.MathUtils.clamp(distance+e.deltaY*.009,7,20)},{passive:false});
+const clock=new THREE.Clock();function render(){requestAnimationFrame(render);const dt=Math.min(clock.getDelta(),.05);mixer?.update(dt);if(auto&&!pointer)yaw+=dt*.12;camera.position.set(Math.sin(yaw)*distance,2.8+Math.sin(pitch)*distance,Math.cos(yaw)*distance);camera.lookAt(target);renderer.render(scene,camera)}render();
+</script></body></html>

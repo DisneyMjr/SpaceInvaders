@@ -1,3 +1,7 @@
+# Atualização 0.18 — modelos detalhados
+
+Abra **JOGAR-PREVIA.cmd** para jogar esta cópia atualizada. Veja [LEIA-ME-NOVOS-MODELOS.md](LEIA-ME-NOVOS-MODELOS.md) para os 49 personagens e veículos detalhados das seis facções.
+
 # SpaceInvaders 0.15 — Windows e web
 
 ## Jogar no Windows

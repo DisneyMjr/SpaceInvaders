@@ -1,0 +1,1536 @@
+{
+  "date": "2026-11-05",
+  "models": 49,
+  "factions": 6,
+  "sourceBases": 9,
+  "sharedTextureMaps": 27,
+  "modelBytes": 164191552,
+  "textureBytes": 373241024,
+  "automatedChecks": {
+    "gameTests": 45,
+    "modelTests": 72,
+    "total": 117,
+    "passed": 117
+  },
+  "entries": [
+    {
+      "id": "solar.worker",
+      "label": "Legião Solar · Sapador",
+      "file": "solar-worker.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3222640,
+      "triangles": 54564,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "solar.soldier",
+      "label": "Legião Solar · Fuzileiro",
+      "file": "solar-soldier.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3215728,
+      "triangles": 55960,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "solar.sniper",
+      "label": "Legião Solar · Batedor",
+      "file": "solar-sniper.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3275320,
+      "triangles": 56024,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "solar.medic",
+      "label": "Legião Solar · Socorrista",
+      "file": "solar-medic.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3458408,
+      "triangles": 57780,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "solar.heavy",
+      "label": "Legião Solar · Blindado Rodante",
+      "file": "solar-heavy.glb",
+      "sourceBase": "solar-blindado-tencent.glb",
+      "bytes": 3370492,
+      "triangles": 53452,
+      "bones": 8,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "solar-vehicle-map-0.png",
+        "solar-vehicle-map-1.png",
+        "solar-vehicle-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original six wheel chassis with articulated wheels, turret and authored armor"
+    },
+    {
+      "id": "solar.walker",
+      "label": "Legião Solar · Exotraje",
+      "file": "solar-walker.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3504508,
+      "triangles": 59896,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "solar.air",
+      "label": "Legião Solar · Interceptador",
+      "file": "solar-air.glb",
+      "sourceBase": "solar-interceptador-tencent.glb",
+      "bytes": 3118752,
+      "triangles": 53200,
+      "bones": 1,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "solar-air-map-0.png",
+        "solar-air-map-1.png",
+        "solar-air-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed VTOL with authored role equipment"
+    },
+    {
+      "id": "solar.hero",
+      "label": "Legião Solar · Comandante",
+      "file": "solar-hero.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3341176,
+      "triangles": 57656,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "veil.worker",
+      "label": "Pacto do Véu · Infiltrador Técnico",
+      "file": "veil-worker.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3455108,
+      "triangles": 57764,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "veil.soldier",
+      "label": "Pacto do Véu · Operador",
+      "file": "veil-soldier.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3448196,
+      "triangles": 59160,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "veil.sniper",
+      "label": "Pacto do Véu · Observador",
+      "file": "veil-sniper.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3505760,
+      "triangles": 59224,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "veil.medic",
+      "label": "Pacto do Véu · Paramédico",
+      "file": "veil-medic.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3690876,
+      "triangles": 60980,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "veil.heavy",
+      "label": "Pacto do Véu · Blindado Furtivo",
+      "file": "veil-heavy.glb",
+      "sourceBase": "solar-blindado-tencent.glb",
+      "bytes": 3786884,
+      "triangles": 59212,
+      "bones": 8,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "solar-vehicle-map-0.png",
+        "solar-vehicle-map-1.png",
+        "solar-vehicle-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original six wheel chassis with articulated wheels, turret and authored armor"
+    },
+    {
+      "id": "veil.walker",
+      "label": "Pacto do Véu · Exotraje Espectral",
+      "file": "veil-walker.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3736980,
+      "triangles": 63096,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "veil.air",
+      "label": "Pacto do Véu · Asa Silenciosa",
+      "file": "veil-air.glb",
+      "sourceBase": "solar-interceptador-tencent.glb",
+      "bytes": 3118788,
+      "triangles": 53200,
+      "bones": 1,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "solar-air-map-0.png",
+        "solar-air-map-1.png",
+        "solar-air-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed VTOL with authored role equipment"
+    },
+    {
+      "id": "veil.hero",
+      "label": "Pacto do Véu · Marechal do Véu",
+      "file": "veil-hero.glb",
+      "sourceBase": "solar-soldado-tencent.glb",
+      "bytes": 3573644,
+      "triangles": 60856,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "solar-map-0.png",
+        "solar-map-1.png",
+        "solar-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Existing local game terran-marine.glb",
+      "customization": "Detailed textured Solar armor with neutral functional accessories; flat armor add-ons replaced by detailed optics, hoses and reservoirs"
+    },
+    {
+      "id": "aether.worker",
+      "label": "Ordem Aether · Sonda de Manutenção",
+      "file": "aether-worker.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3327716,
+      "triangles": 54676,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "aether.soldier",
+      "label": "Ordem Aether · Autômato de Assalto",
+      "file": "aether-soldier.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3468556,
+      "triangles": 56596,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "aether.sniper",
+      "label": "Ordem Aether · Perfurador",
+      "file": "aether-sniper.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3360616,
+      "triangles": 55124,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "aether.medic",
+      "label": "Ordem Aether · Reparador",
+      "file": "aether-medic.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3220424,
+      "triangles": 53204,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "aether.heavy",
+      "label": "Ordem Aether · Plataforma de Cerco",
+      "file": "aether-heavy.glb",
+      "sourceBase": "aether-artilharia-tencent.glb",
+      "bytes": 3308484,
+      "triangles": 50396,
+      "bones": 14,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "aether-walker-map-0.png",
+        "aether-walker-map-1.png",
+        "aether-walker-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed hydraulic quadruped with IK gait and authored armor"
+    },
+    {
+      "id": "aether.walker",
+      "label": "Ordem Aether · Caminhante de Carga",
+      "file": "aether-walker.glb",
+      "sourceBase": "aether-artilharia-tencent.glb",
+      "bytes": 3938380,
+      "triangles": 59100,
+      "bones": 14,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "aether-walker-map-0.png",
+        "aether-walker-map-1.png",
+        "aether-walker-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed hydraulic quadruped with IK gait and authored armor"
+    },
+    {
+      "id": "aether.air",
+      "label": "Ordem Aether · Drone de Turbinas",
+      "file": "aether-air.glb",
+      "sourceBase": "aether-drone-tencent.glb",
+      "bytes": 2840284,
+      "triangles": 50672,
+      "bones": 5,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "aether-drone-map-0.png",
+        "aether-drone-map-1.png",
+        "aether-drone-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original ducted rotor drone with authored rotating fan blades"
+    },
+    {
+      "id": "aether.hero",
+      "label": "Ordem Aether · Núcleo de Comando",
+      "file": "aether-hero.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3488280,
+      "triangles": 56852,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "silex.worker",
+      "label": "Coro de Sílex · Coletor de Escória",
+      "file": "silex-worker.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3356696,
+      "triangles": 55060,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "silex.soldier",
+      "label": "Coro de Sílex · Autômato Blindado",
+      "file": "silex-soldier.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3498184,
+      "triangles": 56980,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "silex.sniper",
+      "label": "Coro de Sílex · Lança-Sílex",
+      "file": "silex-sniper.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3390244,
+      "triangles": 55508,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "silex.medic",
+      "label": "Coro de Sílex · Fundidor",
+      "file": "silex-medic.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3250048,
+      "triangles": 53588,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "silex.heavy",
+      "label": "Coro de Sílex · Fortaleza de Cerco",
+      "file": "silex-heavy.glb",
+      "sourceBase": "aether-artilharia-tencent.glb",
+      "bytes": 3337792,
+      "triangles": 50780,
+      "bones": 14,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "aether-walker-map-0.png",
+        "aether-walker-map-1.png",
+        "aether-walker-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed hydraulic quadruped with IK gait and authored armor"
+    },
+    {
+      "id": "silex.walker",
+      "label": "Coro de Sílex · Prensa de Guerra",
+      "file": "silex-walker.glb",
+      "sourceBase": "aether-artilharia-tencent.glb",
+      "bytes": 4207304,
+      "triangles": 62812,
+      "bones": 14,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "aether-walker-map-0.png",
+        "aether-walker-map-1.png",
+        "aether-walker-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed hydraulic quadruped with IK gait and authored armor"
+    },
+    {
+      "id": "silex.air",
+      "label": "Coro de Sílex · Drone Fornalha",
+      "file": "silex-air.glb",
+      "sourceBase": "aether-drone-tencent.glb",
+      "bytes": 2862116,
+      "triangles": 50960,
+      "bones": 5,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "aether-drone-map-0.png",
+        "aether-drone-map-1.png",
+        "aether-drone-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original ducted rotor drone with authored rotating fan blades"
+    },
+    {
+      "id": "silex.hero",
+      "label": "Coro de Sílex · Regente de Sílex",
+      "file": "silex-hero.glb",
+      "sourceBase": "aether-robo-tencent.glb",
+      "bytes": 3517256,
+      "triangles": 57236,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "aether-map-0.png",
+        "aether-map-1.png",
+        "aether-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original detailed industrial robot with authored role equipment"
+    },
+    {
+      "id": "swarm.worker",
+      "label": "Colmeia Vorax · Forrageador",
+      "file": "swarm-worker.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3103324,
+      "triangles": 53642,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "swarm.soldier",
+      "label": "Colmeia Vorax · Predador",
+      "file": "swarm-soldier.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3025640,
+      "triangles": 52554,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "swarm.sniper",
+      "label": "Colmeia Vorax · Cuspidor",
+      "file": "swarm-sniper.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 2947956,
+      "triangles": 51466,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "swarm.medic",
+      "label": "Colmeia Vorax · Simbionte",
+      "file": "swarm-medic.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3080280,
+      "triangles": 53322,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "swarm.heavy",
+      "label": "Colmeia Vorax · Artilharia Viva",
+      "file": "swarm-heavy.glb",
+      "sourceBase": "vorax-artilharia-tencent.glb",
+      "bytes": 3723712,
+      "triangles": 56158,
+      "bones": 15,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "vorax-siege-map-0.png",
+        "vorax-siege-map-1.png",
+        "vorax-siege-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed siege organism with organic IK gait and grown role organs"
+    },
+    {
+      "id": "swarm.walker",
+      "label": "Colmeia Vorax · Couraça Andante",
+      "file": "swarm-walker.glb",
+      "sourceBase": "vorax-artilharia-tencent.glb",
+      "bytes": 3537728,
+      "triangles": 53566,
+      "bones": 15,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "vorax-siege-map-0.png",
+        "vorax-siege-map-1.png",
+        "vorax-siege-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed siege organism with organic IK gait and grown role organs"
+    },
+    {
+      "id": "swarm.air",
+      "label": "Colmeia Vorax · Planador Membrana",
+      "file": "swarm-air.glb",
+      "sourceBase": "vorax-alado-tencent.glb",
+      "bytes": 2612060,
+      "triangles": 51522,
+      "bones": 5,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "vorax-air-map-0.png",
+        "vorax-air-map-1.png",
+        "vorax-air-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original membrane wing creature with authored organic flight rig and faction growths"
+    },
+    {
+      "id": "swarm.hero",
+      "label": "Colmeia Vorax · Matriarca",
+      "file": "swarm-hero.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3170140,
+      "triangles": 54570,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "root.worker",
+      "label": "Prole Raiz-Negra · Escavador",
+      "file": "root-worker.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3251468,
+      "triangles": 55690,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "root.soldier",
+      "label": "Prole Raiz-Negra · Caçador Raiz-Negra",
+      "file": "root-soldier.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3173788,
+      "triangles": 54602,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "root.sniper",
+      "label": "Prole Raiz-Negra · Espinheiro",
+      "file": "root-sniper.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3096104,
+      "triangles": 53514,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "root.medic",
+      "label": "Prole Raiz-Negra · Regenerador",
+      "file": "root-medic.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3228428,
+      "triangles": 55370,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "root.heavy",
+      "label": "Prole Raiz-Negra · Bulbo de Cerco",
+      "file": "root-heavy.glb",
+      "sourceBase": "vorax-artilharia-tencent.glb",
+      "bytes": 3908712,
+      "triangles": 58718,
+      "bones": 15,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "vorax-siege-map-0.png",
+        "vorax-siege-map-1.png",
+        "vorax-siege-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed siege organism with organic IK gait and grown role organs"
+    },
+    {
+      "id": "root.walker",
+      "label": "Prole Raiz-Negra · Colosso Radicular",
+      "file": "root-walker.glb",
+      "sourceBase": "vorax-artilharia-tencent.glb",
+      "bytes": 3722728,
+      "triangles": 56126,
+      "bones": 15,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "vorax-siege-map-0.png",
+        "vorax-siege-map-1.png",
+        "vorax-siege-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed siege organism with organic IK gait and grown role organs"
+    },
+    {
+      "id": "root.air",
+      "label": "Prole Raiz-Negra · Semente Alada",
+      "file": "root-air.glb",
+      "sourceBase": "vorax-alado-tencent.glb",
+      "bytes": 2792468,
+      "triangles": 54018,
+      "bones": 5,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "vorax-air-map-0.png",
+        "vorax-air-map-1.png",
+        "vorax-air-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original membrane wing creature with authored organic flight rig and faction growths"
+    },
+    {
+      "id": "root.hero",
+      "label": "Prole Raiz-Negra · Ancião Raiz-Negra",
+      "file": "root-hero.glb",
+      "sourceBase": "vorax-terrestre-tencent.glb",
+      "bytes": 3318288,
+      "triangles": 56618,
+      "bones": 38,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 2.6659998893737793
+        },
+        {
+          "name": "Walk",
+          "duration": 0.6660000085830688
+        },
+        {
+          "name": "Attack",
+          "duration": 1
+        }
+      ],
+      "textures": [
+        "vorax-map-0.png",
+        "vorax-map-1.png",
+        "vorax-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Solar retargeted local game motion cycles (terran-marine.glb origin)",
+      "customization": "Original Vorax anatomy with authored organic role growths"
+    },
+    {
+      "id": "library.medivac",
+      "label": "Solar · Transporte de apoio",
+      "file": "solar-transport.glb",
+      "sourceBase": "solar-interceptador-tencent.glb",
+      "bytes": 3303088,
+      "triangles": 55760,
+      "bones": 1,
+      "animations": [
+        {
+          "name": "Idle",
+          "duration": 3
+        },
+        {
+          "name": "Walk",
+          "duration": 1
+        },
+        {
+          "name": "Attack",
+          "duration": 0.8
+        }
+      ],
+      "textures": [
+        "solar-air-map-0.png",
+        "solar-air-map-1.png",
+        "solar-air-map-2.png"
+      ],
+      "geometrySource": "Tencent HY 3D Global, user generated",
+      "animationSource": "Original local articulated movement cycles",
+      "customization": "Original detailed VTOL with authored role equipment"
+    }
+  ]
+}

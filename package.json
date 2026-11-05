@@ -1,8 +1,8 @@
 {
   "name": "spaceinvaders-astral",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "private": true,
-  "description": "SpaceInvaders 3D \u2014 web e Windows com multiplayer por salas",
+  "description": "SpaceInvaders 3D — web e Windows com multiplayer por salas",
   "main": "desktop/main.cjs",
   "scripts": {
     "start": "electron .",

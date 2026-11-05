@@ -1,128 +1,249 @@
-// Assets extracted from the authorized local SC2 installation, build 98310.
+// Original articulated unit geometry; sounds retain their existing provenance.
 export const modelAssets={
   "solar.worker": {
-    "path": "./assets/models/terran-scv.glb",
-    "label": "Extrator Solar"
+    "path": "./assets/realistic-units/solar-worker.glb",
+    "label": "Legião Solar · Sapador",
+    "original": true
   },
   "solar.soldier": {
-    "path": "./assets/models/terran-marine.glb",
-    "label": "Vanguarda"
-  },
-  "solar.heavy": {
-    "path": "./assets/models/terran-siegetank.glb",
-    "label": "Bastião"
-  },
-  "solar.air": {
-    "path": "./assets/models/terran-vikingfighter.glb",
-    "label": "Asa-Rasante"
+    "path": "./assets/realistic-units/solar-soldier.glb",
+    "label": "Legião Solar · Fuzileiro",
+    "original": true
   },
   "solar.sniper": {
-    "path": "./assets/models/terran-ghost.glb",
-    "label": "Espectro"
-  },
-  "solar.walker": {
-    "path": "./assets/models/terran-marauder.glb",
-    "label": "Demolidor"
+    "path": "./assets/realistic-units/solar-sniper.glb",
+    "label": "Legião Solar · Batedor",
+    "original": true
   },
   "solar.medic": {
-    "path": "./assets/models/terran-medic.glb",
-    "label": "Guardião"
+    "path": "./assets/realistic-units/solar-medic.glb",
+    "label": "Legião Solar · Socorrista",
+    "original": true
+  },
+  "solar.heavy": {
+    "path": "./assets/realistic-units/solar-heavy.glb",
+    "label": "Legião Solar · Blindado Rodante",
+    "original": true
+  },
+  "solar.walker": {
+    "path": "./assets/realistic-units/solar-walker.glb",
+    "label": "Legião Solar · Exotraje",
+    "original": true
+  },
+  "solar.air": {
+    "path": "./assets/realistic-units/solar-air.glb",
+    "label": "Legião Solar · Interceptador",
+    "original": true
   },
   "solar.hero": {
-    "path": "./assets/models/terran-thor.glb",
-    "label": "Titã Solar"
+    "path": "./assets/realistic-units/solar-hero.glb",
+    "label": "Legião Solar · Comandante",
+    "original": true
   },
-  "solar.base": {
-    "path": "./assets/models/terran-commandcenter.glb",
-    "label": "Farol Solar"
+  "veil.worker": {
+    "path": "./assets/realistic-units/veil-worker.glb",
+    "label": "Pacto do Véu · Infiltrador Técnico",
+    "original": true
   },
-  "solar.barracks": {
-    "path": "./assets/models/terran-barracks.glb",
-    "label": "Forja Solar"
+  "veil.soldier": {
+    "path": "./assets/realistic-units/veil-soldier.glb",
+    "label": "Pacto do Véu · Operador",
+    "original": true
+  },
+  "veil.sniper": {
+    "path": "./assets/realistic-units/veil-sniper.glb",
+    "label": "Pacto do Véu · Observador",
+    "original": true
+  },
+  "veil.medic": {
+    "path": "./assets/realistic-units/veil-medic.glb",
+    "label": "Pacto do Véu · Paramédico",
+    "original": true
+  },
+  "veil.heavy": {
+    "path": "./assets/realistic-units/veil-heavy.glb",
+    "label": "Pacto do Véu · Blindado Furtivo",
+    "original": true
+  },
+  "veil.walker": {
+    "path": "./assets/realistic-units/veil-walker.glb",
+    "label": "Pacto do Véu · Exotraje Espectral",
+    "original": true
+  },
+  "veil.air": {
+    "path": "./assets/realistic-units/veil-air.glb",
+    "label": "Pacto do Véu · Asa Silenciosa",
+    "original": true
+  },
+  "veil.hero": {
+    "path": "./assets/realistic-units/veil-hero.glb",
+    "label": "Pacto do Véu · Marechal do Véu",
+    "original": true
   },
   "aether.worker": {
-    "path": "./assets/models/protoss-probe.glb",
-    "label": "Sonda Lúmen"
+    "path": "./assets/realistic-units/aether-worker.glb",
+    "label": "Ordem Aether · Sonda de Manutenção",
+    "original": true
   },
   "aether.soldier": {
-    "path": "./assets/models/protoss-zealot.glb",
-    "label": "Lanceiro Aether"
-  },
-  "aether.heavy": {
-    "path": "./assets/models/protoss-immortal.glb",
-    "label": "Custódio"
-  },
-  "aether.air": {
-    "path": "./assets/models/protoss-phoenix.glb",
-    "label": "Fênix Prismática"
+    "path": "./assets/realistic-units/aether-soldier.glb",
+    "label": "Ordem Aether · Autômato de Assalto",
+    "original": true
   },
   "aether.sniper": {
-    "path": "./assets/models/protoss-hightemplar.glb",
-    "label": "Oráculo"
-  },
-  "aether.walker": {
-    "path": "./assets/models/protoss-stalker.glb",
-    "label": "Errante"
+    "path": "./assets/realistic-units/aether-sniper.glb",
+    "label": "Ordem Aether · Perfurador",
+    "original": true
   },
   "aether.medic": {
-    "path": "./assets/models/protoss-sentry.glb",
-    "label": "Vigia"
+    "path": "./assets/realistic-units/aether-medic.glb",
+    "label": "Ordem Aether · Reparador",
+    "original": true
+  },
+  "aether.heavy": {
+    "path": "./assets/realistic-units/aether-heavy.glb",
+    "label": "Ordem Aether · Plataforma de Cerco",
+    "original": true
+  },
+  "aether.walker": {
+    "path": "./assets/realistic-units/aether-walker.glb",
+    "label": "Ordem Aether · Caminhante de Carga",
+    "original": true
+  },
+  "aether.air": {
+    "path": "./assets/realistic-units/aether-air.glb",
+    "label": "Ordem Aether · Drone de Turbinas",
+    "original": true
   },
   "aether.hero": {
-    "path": "./assets/models/protoss-archon.glb",
-    "label": "Avatar Aether"
+    "path": "./assets/realistic-units/aether-hero.glb",
+    "label": "Ordem Aether · Núcleo de Comando",
+    "original": true
   },
-  "aether.base": {
-    "path": "./assets/models/protoss-nexus.glb",
-    "label": "Núcleo Aether"
+  "silex.worker": {
+    "path": "./assets/realistic-units/silex-worker.glb",
+    "label": "Coro de Sílex · Coletor de Escória",
+    "original": true
   },
-  "aether.barracks": {
-    "path": "./assets/models/protoss-gateway.glb",
-    "label": "Portal Aether"
+  "silex.soldier": {
+    "path": "./assets/realistic-units/silex-soldier.glb",
+    "label": "Coro de Sílex · Autômato Blindado",
+    "original": true
+  },
+  "silex.sniper": {
+    "path": "./assets/realistic-units/silex-sniper.glb",
+    "label": "Coro de Sílex · Lança-Sílex",
+    "original": true
+  },
+  "silex.medic": {
+    "path": "./assets/realistic-units/silex-medic.glb",
+    "label": "Coro de Sílex · Fundidor",
+    "original": true
+  },
+  "silex.heavy": {
+    "path": "./assets/realistic-units/silex-heavy.glb",
+    "label": "Coro de Sílex · Fortaleza de Cerco",
+    "original": true
+  },
+  "silex.walker": {
+    "path": "./assets/realistic-units/silex-walker.glb",
+    "label": "Coro de Sílex · Prensa de Guerra",
+    "original": true
+  },
+  "silex.air": {
+    "path": "./assets/realistic-units/silex-air.glb",
+    "label": "Coro de Sílex · Drone Fornalha",
+    "original": true
+  },
+  "silex.hero": {
+    "path": "./assets/realistic-units/silex-hero.glb",
+    "label": "Coro de Sílex · Regente de Sílex",
+    "original": true
   },
   "swarm.worker": {
-    "path": "./assets/models/zerg-drone.glb",
-    "label": "Operário Vorax"
+    "path": "./assets/realistic-units/swarm-worker.glb",
+    "label": "Colmeia Vorax · Forrageador",
+    "original": true
   },
   "swarm.soldier": {
-    "path": "./assets/models/zerg-zergling.glb",
-    "label": "Caçador Vorax"
-  },
-  "swarm.heavy": {
-    "path": "./assets/models/zerg-roach.glb",
-    "label": "Couraçado"
-  },
-  "swarm.air": {
-    "path": "./assets/models/zerg-mutalisk.glb",
-    "label": "Vespa Astral"
+    "path": "./assets/realistic-units/swarm-soldier.glb",
+    "label": "Colmeia Vorax · Predador",
+    "original": true
   },
   "swarm.sniper": {
-    "path": "./assets/models/zerg-hydralisk.glb",
-    "label": "Lança-Vorax"
-  },
-  "swarm.walker": {
-    "path": "./assets/models/zerg-hydralisk.glb",
-    "label": "Lança-Vorax"
+    "path": "./assets/realistic-units/swarm-sniper.glb",
+    "label": "Colmeia Vorax · Cuspidor",
+    "original": true
   },
   "swarm.medic": {
-    "path": "./assets/models/zerg-infestor.glb",
-    "label": "Simbionte"
+    "path": "./assets/realistic-units/swarm-medic.glb",
+    "label": "Colmeia Vorax · Simbionte",
+    "original": true
+  },
+  "swarm.heavy": {
+    "path": "./assets/realistic-units/swarm-heavy.glb",
+    "label": "Colmeia Vorax · Artilharia Viva",
+    "original": true
+  },
+  "swarm.walker": {
+    "path": "./assets/realistic-units/swarm-walker.glb",
+    "label": "Colmeia Vorax · Couraça Andante",
+    "original": true
+  },
+  "swarm.air": {
+    "path": "./assets/realistic-units/swarm-air.glb",
+    "label": "Colmeia Vorax · Planador Membrana",
+    "original": true
   },
   "swarm.hero": {
-    "path": "./assets/models/zerg-ultralisk.glb",
-    "label": "Colosso Vorax"
+    "path": "./assets/realistic-units/swarm-hero.glb",
+    "label": "Colmeia Vorax · Matriarca",
+    "original": true
   },
-  "swarm.base": {
-    "path": "./assets/models/zerg-hatchery.glb",
-    "label": "Ninho Vorax"
+  "root.worker": {
+    "path": "./assets/realistic-units/root-worker.glb",
+    "label": "Prole Raiz-Negra · Escavador",
+    "original": true
   },
-  "swarm.barracks": {
-    "path": "./assets/models/zerg-spawningpool.glb",
-    "label": "Crisálida"
+  "root.soldier": {
+    "path": "./assets/realistic-units/root-soldier.glb",
+    "label": "Prole Raiz-Negra · Caçador Raiz-Negra",
+    "original": true
+  },
+  "root.sniper": {
+    "path": "./assets/realistic-units/root-sniper.glb",
+    "label": "Prole Raiz-Negra · Espinheiro",
+    "original": true
+  },
+  "root.medic": {
+    "path": "./assets/realistic-units/root-medic.glb",
+    "label": "Prole Raiz-Negra · Regenerador",
+    "original": true
+  },
+  "root.heavy": {
+    "path": "./assets/realistic-units/root-heavy.glb",
+    "label": "Prole Raiz-Negra · Bulbo de Cerco",
+    "original": true
+  },
+  "root.walker": {
+    "path": "./assets/realistic-units/root-walker.glb",
+    "label": "Prole Raiz-Negra · Colosso Radicular",
+    "original": true
+  },
+  "root.air": {
+    "path": "./assets/realistic-units/root-air.glb",
+    "label": "Prole Raiz-Negra · Semente Alada",
+    "original": true
+  },
+  "root.hero": {
+    "path": "./assets/realistic-units/root-hero.glb",
+    "label": "Prole Raiz-Negra · Ancião Raiz-Negra",
+    "original": true
   },
   "library.medivac": {
-    "path": "./assets/models/terran-medivac.glb",
-    "label": "Arca Médica · reserva"
+    "path": "./assets/realistic-units/solar-transport.glb",
+    "label": "Solar · Transporte de apoio",
+    "original": true
   }
 };
 export const soundAssets={
