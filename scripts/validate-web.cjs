@@ -1,7 +1,7 @@
 const fs=require('node:fs'),path=require('node:path'),crypto=require('node:crypto');
 const root=path.resolve(process.argv.find(a=>a.startsWith('--directory='))?.slice(12)||path.join(__dirname,'../web')),manifest=path.join(root,'deploy-manifest.json');
 const required=['index.html','boot.mjs','game.js','tv.mjs','tv.css','command-shell.css','command-shell.mjs','menu-data.mjs','battle-hud.css','battle-hud.mjs','hud-icons.mjs','edge-scroll.mjs','assets/menu/commanders.png','assets/menu/orbital-background.png','vendor/three/build/three.module.js'];
-const isText=p=>/\.(?:md|txt|html|css|js|mjs|json|svg|gltf|csv|ya?ml|webmanifest)$/i.test(p)||path.basename(p)==='.htaccess';
+const isText=p=>/\.(?:md|txt|html|css|js|mjs|json|svg|gltf|csv|ya?ml|webmanifest)$/i.test(p)||path.basename(p)==='.htaccess'||/^(?:LICENSE|COPYING|NOTICE)(?:[.-].*)?$/i.test(path.basename(p));
 const hash=(p,normalize=true)=>{let bytes=fs.readFileSync(p);if(normalize&&isText(p))bytes=Buffer.from(bytes.toString('utf8').replace(/\r\n/g,'\n'),'utf8');return crypto.createHash('sha256').update(bytes).digest('hex')};
 function files(dir){return fs.readdirSync(dir,{withFileTypes:true}).flatMap(e=>e.isDirectory()?files(path.join(dir,e.name)):[path.join(dir,e.name)]).filter(p=>p!==manifest&&!path.basename(p).startsWith('preview-'))}
 if(process.argv.includes('--write')){const entries=Object.fromEntries(files(root).sort().map(p=>[path.relative(root,p).split(path.sep).join('/'),hash(p)]));fs.writeFileSync(manifest,JSON.stringify({version:'0.18.0',hashFormat:'sha256-text-lf-v1',files:entries},null,2)+'\n')}
